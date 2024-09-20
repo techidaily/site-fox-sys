@@ -1,7 +1,7 @@
 ---
 title: "Time-Travel Tactics: Mastering the Shift with Action!"
-date: 2024-09-18 20:42:52
-updated: 2024-09-20 11:26:54
+date: 2024-09-19T02:41:26.192Z
+updated: 2024-09-19T21:33:35.269Z
 tags:
   - product
 categories:
@@ -36,6 +36,13 @@ Left Alt + F9
 
 To save Action! Time-Shift to a file use a hotkey. Default hotkey is: Left ALT + F9
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are Time-Shift requirements and limitations?
 
   
@@ -53,15 +60,11 @@ To save Action! Time-Shift to a file use a hotkey. Default hotkey is: Left ALT +
 * Time-Shift recordings are available only in MP4 file format
 * Maximum recording resolution is 1920x1080
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

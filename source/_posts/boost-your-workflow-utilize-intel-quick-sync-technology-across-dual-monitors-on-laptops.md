@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops"
-date: 2024-09-18 21:53:24
-updated: 2024-09-20 10:50:35
+date: 2024-09-18T16:31:35.882Z
+updated: 2024-09-19T22:53:24.817Z
 tags:
   - product
 categories:
@@ -79,6 +79,19 @@ Action Tutorials
 
  Check your PC BIOS User Manual or instructions to see how to enable Intel integrated graphics (iGPU). Enable Intel graphics and save BIOS changes. 
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Connect Intel card to monitor
 
  To enable Intel Quick Sync Video technology it is required to connect Intel HD graphics card to monitor. If you have 1 monitor you can connect your cards as follows:  
@@ -97,19 +110,31 @@ Action Tutorials
 
  It is strongly recommended to install the latest Intel graphics drivers available for your Intel HD graphics card model. Intel Quick Sync Video acceleration may be not available or may work incorrectly with old graphics drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open Action! and select Intel Quick Sync acceleration 
 
  Run Action!, set **Output file format** to MP4 and check Hardware acceleration option: Intel Quick Sync Video should be available on hardware acceleration dropdown list. 
 
 ![Mirillis Action! - File format settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_file_format_settings_intel_quick_sync.jpg "File format settings")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
