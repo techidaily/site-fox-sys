@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops"
-date: 2024-09-18T16:31:35.882Z
-updated: 2024-09-19T22:53:24.817Z
+date: 2024-09-24T17:55:27.601Z
+updated: 2024-09-25T17:56:31.391Z
 tags:
   - product
 categories:
@@ -68,6 +68,13 @@ Action Tutorials
 
  Please follow the steps below to setup your PC to make Intel Quick Sync Video technology available in Action! 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Check your hardware specification 
 
  Check if your CPU model supports Intel Quick Sync Video technology. You can check your desktop processor model graphics specifications at Intel website:  
@@ -79,19 +86,6 @@ Action Tutorials
 
  Check your PC BIOS User Manual or instructions to see how to enable Intel integrated graphics (iGPU). Enable Intel graphics and save BIOS changes. 
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Connect Intel card to monitor
 
  To enable Intel Quick Sync Video technology it is required to connect Intel HD graphics card to monitor. If you have 1 monitor you can connect your cards as follows:  
@@ -100,21 +94,35 @@ Action Tutorials
 
 ![Mirillis Action! - Connect Intel HD graphics](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_desktop_intel_1.jpg "Connect Intel HD graphics") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have 2 monitors you can connect it as follows:  
  \- connect your NVIDIA/AMD card to 1st monitor and make it main display in Windows Screen Resolution settings   
  \- connect your Intel HD graphics card to 2nd monitor and set it as extended display 
 
 ![Mirillis Action! - Connect Intel HD graphics](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_desktop_intel_2.jpg "Connect Intel HD graphics") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest Intel graphics drivers 
 
  It is strongly recommended to install the latest Intel graphics drivers available for your Intel HD graphics card model. Intel Quick Sync Video acceleration may be not available or may work incorrectly with old graphics drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Action! and select Intel Quick Sync acceleration 
@@ -122,13 +130,6 @@ Action Tutorials
  Run Action!, set **Output file format** to MP4 and check Hardware acceleration option: Intel Quick Sync Video should be available on hardware acceleration dropdown list. 
 
 ![Mirillis Action! - File format settings](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_file_format_settings_intel_quick_sync.jpg "File format settings")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,3 +143,25 @@ Action Tutorials
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/solved-brisk-internet-on-windows-xp-a-guide/"><u>[SOLVED] Brisk Internet on Windows XP: A Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-breaking-down-zoom-session-division/"><u>[Updated] 2024 Approved Breaking Down Zoom Session Division</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-efficient-tactics-for-viewing-subscribers-on-yt/"><u>[Updated] Efficient Tactics for Viewing Subscribers on YT</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-ultimate-collection-of-30plus-premium-nextjs-designs-from-creative-tim/"><u>1. Ultimate Collection of 30+ Premium Next.js Designs From Creative Tim</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-bootstrap-5-theme-for-modern-websites-now-uis-professional-suite-from-creative-tim/"><u>Advanced Bootstrap 5 Theme for Modern Websites: Now UI's Professional Suite From Creative Tim</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-full-stack-development-vuejs-and-laravel-pro-for-pro-clients-utilize-json-api-with-creative-tim-solutions/"><u>Advanced Full-Stack Development: Vue.js & Laravel Pro for PRO Clients - Utilize JSON API with Creative Tim Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-ghost-pro-top-tier-plugin-templates-by-creative-tim-free-download/"><u>Advanced Ghost Pro: Top-Tier Plugin Templates by Creative Tim - Free Download</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-horizon-pro-exclusive-nextjs-and-tailwind-css-framework-at-creative-tim/"><u>Advanced Horizon PRO: Exclusive NextJS & Tailwind CSS Framework at Creative Tim</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/bootstrap-3-with-premium-material-design-by-creative-tim-professional-material-kit-pro-for-ui-mastery/"><u>Bootstrap 3 with Premium Material Design by Creative Tim: Professional Material Kit PRO for UI Mastery</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-bootstrap-compatible-design-suite-for-angular-developers/"><u>Creative Tim's Argon UI Framework: A Complimentary, Bootstrap-Compatible Design Suite for Angular Developers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-practical-photoshop-fixes-for-facial-pixelation-purposes/"><u>In 2024, Practical Photoshop Fixes for Facial Pixelation Purposes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-v29e-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo V29e Phone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-path-to-your-youtube-comments-on-devices-for-2024/"><u>Unveiling the Path to Your YouTube Comments on Devices for 2024</u></a></li>
+</ul></div>
+
