@@ -1,7 +1,7 @@
 ---
 title: "Modify Parent-Child Conversations: A Comprehensive Guide"
-date: 2024-09-22T17:07:04.702Z
-updated: 2024-09-29T22:33:40.896Z
+date: 2024-09-30T18:23:04.537Z
+updated: 2024-10-05T17:33:21.019Z
 tags:
   - user-guide
 categories:
@@ -88,16 +88,10 @@ This dialog allows you to create a new child dialog. A child dialog is displayed
 !["Edit Child Dialogs" Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-child-dialogs.png ""Edit Child Dialogs" Dialog")  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -107,10 +101,10 @@ Select the desired child dialog from the list.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This list will be populated only with the existing "spawn-able" unused dialogs (predefined or custom) which are supported inside a Tab Host control. A "spawn-able" dialog does not have the "Back" / "Next" buttons.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating a child dialog, it will be included as a Tab Host control's parent dialog child. You can reveal it by expanding the Tab Host control's parent dialog in the Install Sequence tree.
@@ -118,10 +112,10 @@ After creating a child dialog, it will be included as a Tab Host control's paren
 If a child dialog doesn't have its _Title_ property defined, its name (_Dialog Name_ property) will be used for its tab button text instead. By default a <NewDialog> will be named NewTabPageDialog in the Install Sequence tree.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -161,20 +155,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cross-platform-screen-recording/"><u>[New] In 2024, Cross-Platform Screen Recording</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-photo-refinement-essentials-expert-tips-for-efficient-background-clearance/"><u>[Updated] 2024 Approved Photo Refinement Essentials Expert Tips for Efficient Background Clearance</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-silent-blades-and-righteous-honor-your-next-game-adventure-awaits-for-2024/"><u>[Updated] Silent Blades & Righteous Honor Your Next Game Adventure Awaits for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-engaging-sound-stories-podcast-scriptwriting-demystified/"><u>2024 Approved Unlocking Engaging Sound Stories Podcast Scriptwriting Demystified</u></a></li>
-<li><a href="https://win11.techidaily.com/does-your-system-qualify-for-next-gen-windows-11/"><u>Does Your System Qualify for Next-Gen Windows 11</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/downloadable-mkaaac-video-transcoder-tool-by-movavi-no-cost-use-anywhere/"><u>Downloadable MKA/AAC Video Transcoder Tool by Movavi - No Cost, Use Anywhere!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/elevate-your-project-management-with-vue-argon-dashboard-a-complimentary-bootstrap/"><u>Elevate Your Project Management with Vue Argon Dashboard - A Complimentary, Bootstrap</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-web-developments-effortlessly-using-free-argon-dashboard-in-aspnet-core-by-creative-tim/"><u>Enhance Web Developments Effortlessly Using Free Argon Dashboard in ASP.NET Core by Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-your-apps-with-our-no-cost-argon-dashboard-now-featuring-material-ui-components/"><u>Enhance Your Apps with Our No-Cost Argon Dashboard, Now Featuring Material-UI Components!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-your-django-app-with-argondjango-the-modern-responsive-bootstrap-4-admin-interface-by-creative-tim/"><u>Enhance Your Django App with ArgonDjango - The Modern, Responsive Bootstrap 4 Admin Interface by Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-your-website-with-creatively-timed-django-template-packages-and-themes/"><u>Enhance Your Website with Creatively Timed Django Template Packages and Themes</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-civ-5-system-crashes/"><u>Fixing Civ 5 System Crashes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-and-open-source-argon-design-system-for-react-developers-enhancing-bootstrap-integration-with-readymade-components/"><u>Free and Open Source: Argon Design System for React Developers Enhancing Bootstrap Integration with Readymade Components</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-bootstrap-4-admin-template-for-laravel-applications-by-argon-studio/"><u>Free Bootstrap 4 Admin Template for Laravel Applications by Argon Studio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unveiled-analyzing-their-five-main-differences/"><u>GPT-4 Vs. GPT-3.5 Unveiled: Analyzing Their Five Main Differences</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-auditory-signature-master-sound-modification-for-zero-cost/"><u>Boost Your Auditory Signature Master Sound Modification for Zero Cost</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chrome-pip-integration-a-cross-platform-tutorial/"><u>Chrome PIP Integration A Cross-Platform Tutorial</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-world-of-pc-building-on-toms-hardware-channel/"><u>Master the World of PC Building on Tom's Hardware Channel</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-challenge-8014-a-detailed-fix-guide-for-dead-by-daylight-players/"><u>Overcoming Challenge 8014: A Detailed Fix Guide for Dead By Daylight Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/refresh-your-content-fresh-approaches-for-modern-search-engines/"><u>Refresh Your Content: Fresh Approaches for Modern Search Engines</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revolutionize-your-images-using-the-innovative-ipatch-solution/"><u>Revolutionize Your Images Using the Innovative IPatch Solution</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oneplus-12r-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from OnePlus 12R to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-full-potential-without-tpm/"><u>Unlocking Windows 11'S Full Potential without TPM</u></a></li>
 </ul></div>
 

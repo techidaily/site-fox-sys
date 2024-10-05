@@ -1,7 +1,7 @@
 ---
 title: "Dialogue on Physical Path Permissions: Strengthening Security Through Verified Credentials"
-date: 2024-09-27T11:18:20.102Z
-updated: 2024-09-29T21:09:59.447Z
+date: 2024-10-01T18:47:51.544Z
+updated: 2024-10-05T20:08:31.590Z
 tags:
   - user-guide
 categories:
@@ -99,6 +99,13 @@ In this dialog you can set physical path credentials for your IIS Web Site or Vi
 
 ![Iis physical path dialog](https://cdn.advancedinstaller.com/img/dialog/iis-physical-path-dialog.png "Iis physical path dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connect As
 
 ### Application user (pass-through authentication)
@@ -109,55 +116,42 @@ Connect as the application user (pass-through authentication).
 
 Specify a user to connect as.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Property based user
 
 Use a property based user. Click on the \[... \] button to select a property.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installed user
 
 Use an installed user. Click on the \[... \] button to select an account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Password
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use predefined password
 
 Specify a password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a property to set password
 
@@ -196,18 +190,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-integrating-text-overlays-into-social-media-streaming/"><u>[New] 2024 Approved Integrating Text Overlays Into Social Media Streaming</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ethereal-3-confrontation-shade-4-emerges/"><u>[New] In 2024, Ethereal 3 Confrontation Shade 4 Emerges</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-your-screen-and-videos-on-android-for-2024/"><u>[Updated] Recording Your Screen & Videos on Android for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-conversion-transform-videos-into-multiple-formats-mp4-wmv-avi-etc-for-mac-and-pc-with-viddler/"><u>Effortless Conversion: Transform Videos Into Multiple Formats (MP4, WMV, AVI, Etc.) For Mac and PC with Viddler</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-download-convert-stan-winston-educational-series-into-various-formats-mp4-wmv-mov-etc/"><u>Free Download: Convert Stan Winston Educational Series Into Various Formats (MP4, WMV, MOV, Etc.)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-downloads-available-educational-treehouse-video-collection/"><u>Free Downloads Available! Educational Treehouse Video Collection</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gimbal-guide-for-smooth-flights-for-2024/"><u>Gimbal Guide for Smooth Flights for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-visually-striking-fb-ad-videos/"><u>In 2024, Crafting Visually Striking FB Ad Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-intel-iris-xe-graphics-drivers-update-guide-and-download/"><u>Windows 11 Compatible Intel Iris Xe Graphics Drivers: Update Guide & Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-content-reach-livestreaming-past-footage-on-facebook/"><u>[New] Revolutionize Your Content Reach Livestreaming Past Footage on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-edge-in-tiktok-two-effect-adding-methods/"><u>[Updated] 2024 Approved Creative Edge in TikTok Two Effect-Adding Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-drivers-for-hp-pavilion-elitebook-8460p-on-windows-complete-guide/"><u>Download and Update Drivers for HP Pavilion EliteBook 8460P on Windows - Complete Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-mastering-strategies-tips-insights-and-techniques/"><u>Effective, Mastering, Strategies, Tips, Insights, and Techniques.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-progid-attributes-in-windows-com-objects-essential-guide/"><u>Exploring ProgID Attributes in Windows COM Objects: Essential Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-quickly-restore-removed-images-on-your-ipod-touch-4th5th-gen/"><u>How To Quickly Restore Removed Images on Your iPod Touch (4Th/5th Gen)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/optimizing-core-service-functionality-an-in-depth-guide/"><u>Optimizing Core Service Functionality: An In-Depth Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-20-github-chatgpt-interaction-cases/"><u>Premier 20 GitHub ChatGPT Interaction Cases</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-microsoft-drivers-on-your-pc-with-windows-11-8-or-7/"><u>Quick Guide: Downloading and Updating Microsoft Drivers on Your PC with Windows 11, 8, or 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IBuildComponents: The Ultimate Building Blocks of Modern Software Development"
-date: 2024-09-23T02:44:28.186Z
-updated: 2024-09-30T09:56:29.960Z
+date: 2024-10-01T20:11:18.721Z
+updated: 2024-10-05T16:03:32.932Z
 tags:
   - user-guide
 categories:
@@ -110,15 +110,22 @@ Table of Contents
 
 ## IBuildComponent
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IBuildComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -128,13 +135,6 @@ This component gives access to builds present in the package and lets you add or
 ## Properties
 
 **Array<Builds>** \- Gets all the builds present in the package.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -151,10 +151,16 @@ CreateKeyByPath(String **path**) returns [IRegistryKey](https://tools.techidaily
 This method creates a new key at the specified path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -164,10 +170,10 @@ This method creates a new key at the specified path.
 [IBuild](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -210,22 +216,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-avoidance-techniques-no-more-fb-vlogs/"><u>[New] In 2024, Avoidance Techniques No More FB Vlogs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series/"><u>[New] Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-horizon-pro-exclusive-nextjs-and-tailwind-css-framework-at-creative-tim/"><u>Advanced Horizon PRO: Exclusive NextJS & Tailwind CSS Framework at Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/be-inspired-today-the-essentials-of-stunning-photos-on-ig/"><u>Be Inspired Today! The Essentials of Stunning Photos on IG</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/bootstrap-3-with-premium-material-design-by-creative-tim-professional-material-kit-pro-for-ui-mastery/"><u>Bootstrap 3 with Premium Material Design by Creative Tim: Professional Material Kit PRO for UI Mastery</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/chakra-professional-edition-for-argon-ui-elevate-user-interfaces-with-premium-design-tools-from-creative-tim/"><u>Chakra Professional Edition for Argon UI: Elevate User Interfaces with Premium Design Tools From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-advanced-horizon-ai-integrating-chakra-ui-and-nextjs-for-professionals/"><u>Creative Tim's Advanced Horizon AI: Integrating Chakra UI & NextJS for Professionals</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-material-dashboard-enhanced-with-laravel-livewire-support/"><u>Creative Tim's Material Dashboard: Enhanced with Laravel Livewire Support</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-over-8-unique-ios-design-templates-from-creative-tim-free-resources/"><u>Download Over 8 Unique iOS Design Templates From Creative Tim - Free Resources</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/elevate-your-project-management-with-vue-argon-dashboard-a-complimentary-bootstrap/"><u>Elevate Your Project Management with Vue Argon Dashboard - A Complimentary, Bootstrap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-applicationexe-has-stopped-error-a-complete-guide/"><u>Fixing 'Application.exe Has Stopped' Error – A Complete Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A15 5G?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-charting-course-videos-as-catalysts-in-teaching/"><u>In 2024, Charting Course Videos as Catalysts in Teaching</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-hits-and-misses-the-photographers-account/"><u>In 2024, Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[New] 2024 Approved FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[New] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities-for-2024/"><u>[New] The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-absentee-gps-on-pokemon-adventure-paths/"><u>Combatting Absentee GPS on Pokémon Adventure Paths</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/easy-ways-to-merge-igtv-and-instagram-stories-for-2024/"><u>Easy Ways to Merge IGTV & Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>In 2024, How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>New 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/recording-your-live-feed-without-spending-a-dime-for-2024/"><u>Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations"
-date: 2024-09-23T04:41:24.205Z
-updated: 2024-09-29T21:26:02.436Z
+date: 2024-10-02T19:21:52.586Z
+updated: 2024-10-05T16:34:51.514Z
 tags:
   - user-guide
 categories:
@@ -95,10 +95,10 @@ The following properties can be set or changed on a selected "Append/Create" ope
 ![Text File Append/Create](https://cdn.advancedinstaller.com/img/dialog/txt-create-append.png "Text File Append/Create")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## File Content
@@ -108,28 +108,21 @@ In this field write the text information that your file will contain. If the fil
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This field supports [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and the[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/) can be used.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The "Create" operation **cannot** be used when wildcards are defined in [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Operation
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Create file with encoding
@@ -145,6 +138,13 @@ If this checkbox is ticked the content of the file will be saved using the encod
 * This option can be enabled only if the "Exclude" field from [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/) is left empty.
 * If you use an append/create operation for a **.BAT** file type, then you must select the "ANSI using System Code Page" encoding type into "Create file with encoding" combo box. This is because Windows command line interpreter cannot parse _Unicode_ or _UTF-8_ encoded files.
 * The selected encoding will be used only if the file is created from scratch. If the file already exists on the target machine before being updated, then the current file encoding will be preserved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### If the file exists
 
@@ -186,24 +186,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-miniature-marketers-guide-to-video-promos-infographic/"><u>[New] Miniature Marketer's Guide to Video Promos (Infographic)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028728689-audacity/"><u>一括で複数音声をAudacityで正規化するチュートリアル</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/a-detailed-guide-to-stream-to-instagram-with-an-rtmp-for-2024/"><u>A Detailed Guide To Stream to Instagram With an RTMP for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-conversion-transform-videos-into-multiple-formats-mp4-wmv-avi-etc-for-mac-and-pc-with-viddler/"><u>Effortless Conversion: Transform Videos Into Multiple Formats (MP4, WMV, AVI, Etc.) For Mac and PC with Viddler</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-download-convert-stan-winston-educational-series-into-various-formats-mp4-wmv-mov-etc/"><u>Free Download: Convert Stan Winston Educational Series Into Various Formats (MP4, WMV, MOV, Etc.)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-downloads-available-educational-treehouse-video-collection/"><u>Free Downloads Available! Educational Treehouse Video Collection</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-export-youtube-content-in-mp4-or-avi-format-for-windows-and-macos-users/"><u>How to Export YouTube Content in MP4 or AVI Format for Windows and macOS Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-reverse-videos-on-android/"><u>How to Reverse Videos on Android ?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-save-youtube-videos-for-later-viewing-directly-on-your-playstation-3/"><u>How to Save YouTube Videos for Later Viewing Directly on Your PlayStation 3</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensive-durecorder-manual-review/"><u>In 2024, Comprehensive DuRecorder Manual Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-your-updated-journey-in-choosing-360-degree-cameras/"><u>In 2024, Your Updated Journey in Choosing 360-Degree Cameras</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x6-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X6 Phone FRP Lock</u></a></li>
-<li><a href="https://extra-information.techidaily.com/prepare-yourself-7-must-have-tech-in-the-digital-frontier/"><u>Prepare Yourself 7 Must-Have Tech in the Digital Frontier</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unraveling-the-mystery-of-frame-rates-in-videos-for-2024/"><u>[New] Unraveling the Mystery of Frame Rates in Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-crafting-compelling-narratives-through-supplemental-footage-for-2024/"><u>[Updated] Crafting Compelling Narratives Through Supplemental Footage for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-viral-visuals-the-birth-and-journey-for-2024/"><u>[Updated] Viral Visuals The Birth and Journey for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-different-writing-styles-a-comprehensive-guide/"><u>1. 'Different Writing Styles: A Comprehensive Guide'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-virtual-swordplay-showdown-find-your-match-in-these-games/"><u>2024 Approved Virtual Swordplay Showdown Find Your Match in These Games</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-navigation-top-tips-for-optimizing-your-primary-web-interface/"><u>Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-vivo-y27s-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Vivo Y27s?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-shatter-the-illusion-true-viewers-of-your-insta-posts-revealed/"><u>In 2024, Shatter the Illusion True Viewers of Your Insta Posts Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-v27e-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo V27e Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-filmora-on-a-budget-4-proven-ways-to-score-discount-codes/"><u>New In 2024, Filmora on a Budget 4 Proven Ways to Score Discount Codes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/progressive-visual-reveal-for-2024/"><u>Progressive Visual Reveal for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1719276552494-unlock-windows-free-up-space-no-more-temp-files/"><u>Unlock Windows Free Up Space, No More Temp Files</u></a></li>
 </ul></div>
 

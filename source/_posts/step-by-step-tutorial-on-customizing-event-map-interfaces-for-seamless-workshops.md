@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops
-date: 2024-09-23T16:04:28.343Z
-updated: 2024-09-29T23:51:46.223Z
+date: 2024-10-02T21:01:14.337Z
+updated: 2024-10-05T17:20:55.920Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,16 +98,10 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -151,24 +145,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cost-effective-recording-devices-the-ultimate-list/"><u>[New] 2024 Approved Cost-Effective Recording Devices The Ultimate List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-simple-steps-for-clear-ipad-recordings-for-2024/"><u>[Updated] Simple Steps for Clear iPad Recordings for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cs2-fps-fixes-how-to-improve-graphics-and-reduce-stuttering-on-your-computer/"><u>CS2 FPS Fixes: How to Improve Graphics and Reduce Stuttering on Your Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-pinnacle-of-display-and-audio-fusion-the-huawei-mediapad-m5-review/"><u>Discovering the Pinnacle of Display and Audio Fusion: The Huawei MediaPad M5 Review</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-xbox-gameplay-with-best-monitor-recommendations/"><u>Enhance Xbox Gameplay with Best Monitor Recommendations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-compatibility-new-hp-printer-driver-software-for-windows-versions-10-and-11/"><u>Ensure Compatibility: New HP Printer Driver Software for Windows Versions 10 & 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/how-to-share-images-from-phone-snapshots-seamlessly/"><u>How To Share Images From Phone Snapshots Seamlessly</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-modifying-flipbook-page-colors-possible-with-flipbuilder-exploring-user-interface-tweaks-for-enhanced-presentations/"><u>Is Modifying Flipbook Page Colors Possible with FlipBuilder? Exploring User Interface Tweaks for Enhanced Presentations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/master-your-digital-publications-using-flipbuilders-innovative-toc-generator-for-flipbooks/"><u>Master Your Digital Publications Using FlipBuilder's Innovative ToC Generator for Flipbooks!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-multimedia-integration-replicating-additions-onto-active-pages-with-flipbuilder-techniques/"><u>Mastering Multimedia Integration: Replicating Additions Onto Active Pages with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/maximize-your-viewing-experience-how-to-display-exe-flipbooks-on-flipbuilder/"><u>Maximize Your Viewing Experience: How to Display EXE Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-multi-window-view-for-flipbook-links-tips-and-tricks-with-flipbuilder/"><u>Navigating Multi-Window View for Flipbook Links - Tips & Tricks with FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/next-steps-post-license-purchase-on-flipbuilder-a-comprehensive-guide/"><u>Next Steps Post-License Purchase on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-huawei-nova-y91-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Huawei Nova Y91 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resizing-pages-in-a-digital-flipbook-using-flipbuilder/"><u>Resizing Pages in a Digital Flipbook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-importing-pages-with-flipbuilder/"><u>Step-by-Step Guide to Importing Pages with FlipBuilder</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/what-primary-speech-is-used-by-israelis-today/"><u>What Primary Speech Is Used by Israelis Today?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pinnacle-of-picture-perfection-top-10-screens/"><u>[New] In 2024, Pinnacle of Picture Perfection Top 10 Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[Updated] 2024 Approved Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/05232020-updated-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-news-channels-on-youtube-to-watch-daily-for-2024/"><u>[Updated] Foremost News Channels on YouTube to Watch Daily for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-current-applications-to-future-drone-horizons/"><u>[Updated] From Current Applications to Future Drone Horizons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-and-ease-10-most-effective-ai-pdf-tools/"><u>Boost Productivity & Ease: 10 Most Effective AI PDF Tools</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-how-to-move-your-entire-spotify-library-over-to-apple-music/"><u>Complete Guide: How to Move Your Entire Spotify Library Over to Apple Music</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-the-basics-your-ultimate-guide-to-playing-roblox-across-windows-and-macos/"><u>Mastering the Basics: Your Ultimate Guide to Playing Roblox Across Windows and macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-leading-tools-for-data-retrieval-from-damaged-drives/"><u>Top 5 Leading Tools for Data Retrieval From Damaged Drives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-college-tech-elite-laptop-reviews-to-boost-your-academic-performance-and-fun/"><u>Top College Tech: Elite Laptop Reviews to Boost Your Academic Performance and Fun</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/update-component-for-itext-files-streamlined-data-processing/"><u>Update Component for iText Files: Streamlined Data Processing</u></a></li>
 </ul></div>
 

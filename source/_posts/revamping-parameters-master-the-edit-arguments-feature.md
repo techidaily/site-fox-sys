@@ -1,7 +1,7 @@
 ---
 title: "Revamping Parameters: Master the Edit Arguments Feature"
-date: 2024-09-25T05:08:39.244Z
-updated: 2024-09-30T06:54:01.108Z
+date: 2024-10-04T16:04:49.094Z
+updated: 2024-10-05T17:36:01.745Z
 tags:
   - user-guide
 categories:
@@ -79,35 +79,36 @@ This dialog allows you to edit a function argument.
 
 ![Edit Function From Standard DLL Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-function-argument.png "Edit Function From Standard DLL Dialog")  
 
-## Parameter
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Parameter
 
 ### Type
 
 The argument's data type.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Passing Method
 
 Specifies if the argument is passed by value or by reference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Evaluate before call
 
@@ -118,10 +119,10 @@ This option allows you to pass the property value to a DLL function as an input 
 This applies only when the parameter is passed by reference. The parameters' value after the function's call is stored in the property from where it was taken. If its value was no taken from a property then its final value is ignored.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Value Binding
@@ -131,13 +132,6 @@ Specifies where the argument's value is deposited or taken from.
 ### Inline Value
 
 Set the inline argument value. The argument's value is a formatted string.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Property
 
@@ -176,24 +170,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-earnings-breakdown-one-million-glances-at-youtube/"><u>[New] 2024 Approved Earnings Breakdown One Million Glances at Youtube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free/"><u>[Updated] 2024 Approved How to View Instagram Stories Anonymously on PC, Android and iPhone [Free]</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-beyond-the-leading-films-hidden-cinema-treasures/"><u>[Updated] In 2024, Beyond the Leading Films Hidden Cinema Treasures</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-easy-methods-for-windows-fish-voice-alteration/"><u>2024 Approved Easy Methods for Windows Fish Voice Alteration</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-guide-to-high-quality-mac-frames-max-156-chars/"><u>2024 Approved Ultimate Guide to High-Quality Mac Frames (Max 156 Chars)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-access-to-brazzers-movies-effective-steps-for-safe-video-downloads/"><u>Free Access to Brazzers Movies: Effective Steps for Safe Video Downloads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 6</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-financial-breakdown-of-music-video-production/"><u>In 2024, Financial Breakdown of Music Video Production</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-photographers-choices-ranking-the-top-6-4k-dslrs/"><u>In 2024, Pro Photographers’ Choices Ranking the Top 6 4K DSLRs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/maximize-your-viewing-experience-how-to-display-exe-flipbooks-on-flipbuilder/"><u>Maximize Your Viewing Experience: How to Display EXE Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-multi-window-view-for-flipbook-links-tips-and-tricks-with-flipbuilder/"><u>Navigating Multi-Window View for Flipbook Links - Tips & Tricks with FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/next-steps-post-license-purchase-on-flipbuilder-a-comprehensive-guide/"><u>Next Steps Post-License Purchase on FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resizing-pages-in-a-digital-flipbook-using-flipbuilder/"><u>Resizing Pages in a Digital Flipbook Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-importing-pages-with-flipbuilder/"><u>Step-by-Step Guide to Importing Pages with FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-creating-and-organizing-bookmarks-with-flipbuilder/"><u>Step-by-Step Tutorial on Creating and Organizing Bookmarks with FlipBuilder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-fitness-journey-with-these-8-innovative-chatgpt-add-ons/"><u>Transform Your Fitness Journey with These 8 Innovative ChatGPT Add-Ons</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-tips-for-running-flipbuilder-books-seamlessly-on-ios-devices-like-the-ipad/"><u>Troubleshooting Tips for Running FlipBuilder Books Seamlessly on iOS Devices Like the iPad</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tutorial-image-flipping-techniques-with-flipbuilder/"><u>Tutorial: Image Flipping Techniques with FlipBuilder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-sync-up-success-sharing-youtube-on-ig-stories/"><u>[New] 2024 Approved Sync Up Success Sharing YouTube on IG Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-deceptions-toll-consequences-of-fake-supporters-in-video-markets-for-2024/"><u>[New] Deception's Toll Consequences of Fake Supporters in Video Markets for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tackling-texts-and-gifs-an-experts-meme-making-manual-for-9gag/"><u>[Updated] 2024 Approved Tackling Texts and Gifs An Expert's Meme-Making Manual for 9GAG</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-oculus-vr-ultimate-player-reviews/"><u>[Updated] Top Oculus VR Ultimate Player Reviews</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-classic-1980s-visual-elements-in-editing-workflow/"><u>2024 Approved Classic 1980S Visual Elements in Editing Workflow</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-mastering-strategies-tips-insights-and-techniques/"><u>Effective, Mastering, Strategies, Tips, Insights, and Techniques.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-design-complimentary-cutting-edge-psd-texts/"><u>Elevate Design Complimentary, Cutting-Edge PSD Texts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-progid-attributes-in-windows-com-objects-essential-guide/"><u>Exploring ProgID Attributes in Windows COM Objects: Essential Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-oppo-reno-10-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Oppo Reno 10 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/sustainable-cinematic-solutions-catalog-for-2024/"><u>Sustainable Cinematic Solutions Catalog for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-leading-tools-for-data-retrieval-from-damaged-drives/"><u>Top 5 Leading Tools for Data Retrieval From Damaged Drives</u></a></li>
 </ul></div>
 

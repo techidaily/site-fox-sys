@@ -1,7 +1,7 @@
 ---
 title: Innovative IRegistry Component Solutions – Streamlining System Configuration and Access Control
-date: 2024-09-25T23:38:52.334Z
-updated: 2024-09-29T20:22:09.131Z
+date: 2024-10-01T21:34:46.248Z
+updated: 2024-10-05T16:40:16.169Z
 tags:
   - user-guide
 categories:
@@ -113,10 +113,10 @@ Table of Contents
 This component gives access to registry keys, imports files and also creates keys and values with the specified path.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -124,10 +124,10 @@ This component gives access to registry keys, imports files and also creates key
 IRegistryComponent : IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -143,6 +143,13 @@ IRegistryComponent : IDispatch
 [IRegistryKey](https://tools.techidaily.com/advancedinstaller/products/)HKUsers - Gets the registry hive for user. 
 
 [IRegistryKey](https://tools.techidaily.com/advancedinstaller/products/) HKCurrentConfig - Gets the registry hive for current config. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -189,17 +196,10 @@ This method creates a new value at the specified path. The data can be specified
 ![Reg comp](https://cdn.advancedinstaller.com/img/powershell-automation/reg-comp.png "Reg comp")  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -242,24 +242,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-comprehensive-skype-screencasting-with-obs/"><u>[New] In 2024, Comprehensive Skype Screencasting with OBS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-dji-phantom-upgrade-kit/"><u>[New] The Ultimate DJI Phantom Upgrade Kit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-maximizing-zoom-experience-on-windows-pcs-with-win10/"><u>2024 Approved Maximizing Zoom Experience on Windows PCs with Win10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-packaging-perfection-strategies-for-stunning-first-touches/"><u>2024 Approved Packaging Perfection Strategies for Stunning First Touches</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>2024 Approved Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-mp4-conversion-guide-how-to-change-mp4-files-into-quicktime-format-on-macos-yosemite-and-windows-pcs/"><u>Efficient MP4 Conversion Guide: How to Change MP4 Files Into QuickTime Format on macOS Yosemite & Windows PCs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-conversion-transform-videos-into-multiple-formats-mp4-wmv-avi-etc-for-mac-and-pc-with-viddler/"><u>Effortless Conversion: Transform Videos Into Multiple Formats (MP4, WMV, AVI, Etc.) For Mac and PC with Viddler</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-cloud-saving-apps-for-android-users-2024-rankings/"><u>Essential Cloud Saving Apps for Android Users (2024 Rankings)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-download-convert-stan-winston-educational-series-into-various-formats-mp4-wmv-mov-etc/"><u>Free Download: Convert Stan Winston Educational Series Into Various Formats (MP4, WMV, MOV, Etc.)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-downloads-available-educational-treehouse-video-collection/"><u>Free Downloads Available! Educational Treehouse Video Collection</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
-<li><a href="https://fox-http.techidaily.com/haul-videography-unlocked-step-by-step-guide-for-enthusiasts-for-2024/"><u>Haul Videography Unlocked Step-by-Step Guide for Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-export-youtube-content-in-mp4-or-avi-format-for-windows-and-macos-users/"><u>How to Export YouTube Content in MP4 or AVI Format for Windows and macOS Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-htc-u23-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your HTC U23 Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-creating-gifs-from-webm-files-using-both-online-tools-and-local-software/"><u>Step-by-Step Guide: Creating GIFs From WebM Files Using Both Online Tools and Local Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-streamline-your-mpeg2-videos-with-virtualdub-compression/"><u>Updated Streamline Your MPEG2 Videos with VirtualDub Compression</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-racing-edition-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP Racing Edition by Name | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-decision-makers-guide-to-health-fact-verification/"><u>Digital Decision Makers' Guide to Health Fact Verification</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-the-worth-in-your-subscription-to-youtube-tv/"><u>Discovering the Worth in Your Subscription to YouTube TV</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-techniques-for-eliminating-shadows-in-photographs/"><u>Effective Techniques for Eliminating Shadows in Photographs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-non-functional-realtek-high-definition-sound-cards/"><u>Expert Advice on Resolving Non-Functional Realtek High Definition Sound Cards</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/flip-your-pdfs-with-this-free-tool-seamlessly-convert-and-rotate-pdf-files-today/"><u>Flip Your PDFs With This Free Tool - Seamlessly Convert and Rotate PDF Files Today!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/glorious-galore-multilingual-freedom-fest/"><u>Glorious Galore: Multilingual Freedom Fest</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-play-8t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor Play 8T?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube-for-2024/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-update-your-tiktok-avatar-a-2022-guide/"><u>Simple Steps to Update Your TikTok Avatar: A 2022 Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-strategy-to-correct-mw3-dev-error-6068-as-you-head-into-2024/"><u>The Ultimate Strategy to Correct MW3 Dev Error 6068 as You Head Into 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-iphoneipad-potential-upload-to-youtube-with-ease/"><u>Unlock iPhone/iPad Potential Upload to YouTube with Ease</u></a></li>
 </ul></div>
 

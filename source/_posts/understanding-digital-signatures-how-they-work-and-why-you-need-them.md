@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Signatures: How They Work & Why You Need Them"
-date: 2024-09-24T04:18:50.368Z
-updated: 2024-09-30T11:23:30.346Z
+date: 2024-09-30T21:27:32.115Z
+updated: 2024-10-05T16:30:26.870Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,15 +120,22 @@ Table of Contents
 IDigitalSignature: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This component is meant to edit digital signature details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -147,10 +154,10 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -169,13 +176,6 @@ This method sets the password policy to store the encrypted password in the proj
 
 **SetCertificatePasswordManually()**  
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -216,18 +216,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-cybernetic-video-capture-tools/"><u>[New] 2024 Approved Top Cybernetic Video Capture Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-an-engaged-youtube-community-subscribers/"><u>[New] Building an Engaged Youtube Community (Subscribers)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-ultimate-collection-of-30plus-premium-nextjs-designs-from-creative-tim/"><u>1. Ultimate Collection of 30+ Premium Next.js Designs From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-bootstrap-5-theme-for-modern-websites-now-uis-professional-suite-from-creative-tim/"><u>Advanced Bootstrap 5 Theme for Modern Websites: Now UI's Professional Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-full-stack-development-vuejs-and-laravel-pro-for-pro-clients-utilize-json-api-with-creative-tim-solutions/"><u>Advanced Full-Stack Development: Vue.js & Laravel Pro for PRO Clients - Utilize JSON API with Creative Tim Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-ghost-pro-top-tier-plugin-templates-by-creative-tim-free-download/"><u>Advanced Ghost Pro: Top-Tier Plugin Templates by Creative Tim - Free Download</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-iphone-photo-marker-selection-unveiled-for-2024/"><u>Best iPhone Photo Marker Selection Unveiled for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-bootstrap-compatible-design-suite-for-angular-developers/"><u>Creative Tim's Argon UI Framework: A Complimentary, Bootstrap-Compatible Design Suite for Angular Developers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-xiaomi-mix-fold-3-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Xiaomi Mix Fold 3 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/infinix-note-30-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Note 30 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/strategies-for-amplifying-your-yt-viewership-quickly/"><u>Strategies for Amplifying Your YT Viewership Quickly</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/time-travel-tactics-mastering-the-shift-with-action/"><u>Time-Travel Tactics: Mastering the Shift with Action!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-fastest-indie-film-tips-for-at-home-creators/"><u>2024 Approved 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/automate-tasks-with-ipowershell-utilizing-attached-script-files/"><u>Automate Tasks with IPowerShell: Utilizing Attached Script Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-file-management-techniques-using-ifolder-operations/"><u>Efficient File Management Techniques Using iFolder Operations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/experience-cinematic-quality-with-these-tips-for-watching-4k-video-on-netflix/"><u>Experience Cinematic Quality with These Tips for Watching 4K Video on Netflix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-13t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 13T Through Google Earth?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-webs-whiz-kids-10-highest-viewing-stars/"><u>In 2024, Web's Whiz Kids 10 Highest Viewing Stars</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-the-sound-mobile-beats-best-ripplers-for-2024/"><u>Shake the Sound Mobile Beats' Best Ripplers for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
 </ul></div>
 

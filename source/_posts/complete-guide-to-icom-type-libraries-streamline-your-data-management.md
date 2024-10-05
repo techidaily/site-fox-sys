@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to ICOM Type Libraries: Streamline Your Data Management"
-date: 2024-09-27T16:50:49.221Z
-updated: 2024-09-29T19:15:45.592Z
+date: 2024-10-02T17:15:18.271Z
+updated: 2024-10-05T20:02:40.737Z
 tags:
   - user-guide
 categories:
@@ -114,22 +114,15 @@ Table of Contents
 
 ## IComTypeLibrary
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IComTypeLibrary: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -137,10 +130,10 @@ IComTypeLibrary: IDispatch
 This interface is meant to allow you to specify the information that will be placed in the registry during the Type Library's registration process.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,6 +152,13 @@ This interface is meant to allow you to specify the information that will be pla
 
 **String RegistryPath** \- Gets or sets the registry location where the Type Library is registered. For type libraries defined through MSI TypeLib table this location is read only.  
 Supported values: HKEY\_CLASSES\_ROOT\\TypeLib, HKEY\_CURRENT\_USER\\Software\\Classes\\TypeLib, HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Classes\\TypeLib, HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Wow6432Node\\Classes\\TypeLib.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Examples
 
@@ -234,10 +234,10 @@ Supported values: HKEY\_CLASSES\_ROOT\\TypeLib, HKEY\_CURRENT\_USER\\Software\\C
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -277,20 +277,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-secure-and-updated-altering-numbers-in-tiktok-profiles/"><u>[New] Secure and Updated Altering Numbers in TikTok Profiles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pros-recommendations-for-free-and-paid-drawing-software-on-pc/"><u>[Updated] Pro's Recommendations for Free & Paid Drawing Software on PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-snapseed-basics-your-first-steps-in-enhancing-images/"><u>[Updated] Snapseed Basics Your First Steps in Enhancing Images</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nubia-red-magic-9-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nubia Red Magic 9 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/does-asus-rt-ac88u-deliver-on-its-promises-a-detailed-look-into-this-high-end-gaming-router/"><u>Does Asus RT-AC88U Deliver on Its Promises? A Detailed Look Into This High-End Gaming Router</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-update-strategies-for-windows-10-with-error-code-0x800f0922-top-8-fixes-you-need-to-try/"><u>Error-Free Update Strategies for Windows 10 with Error Code 0X800f0922 – Top 8 Fixes You Need to Try!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-template-types-how-do-classical-spread-and-float-differ-on-flipbuilder-unraveling-the-comparison/"><u>Exploring Template Types: How Do Classical, Spread & Float Differ on FlipBuilder? Unraveling the Comparison</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-glitches-and-crashing-in-guilty-gear-strive-on-your-computer/"><u>How to Fix Glitches and Crashing in Guilty Gear Strive on Your Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-modify-internal-and-external-page-backgrounds-in-your-epub-file-with-flipbuilder/"><u>How to Modify Internal and External Page Backgrounds in Your ePub File with FlipBuilder</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-12r-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 12R to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/incorporating-your-brand-identity-a-step-by-step-guide-on-adding-a-company-logo-to-flipbooks-toolbar/"><u>Incorporating Your Brand Identity: A Step-by-Step Guide on Adding a Company Logo to FlipBook's Toolbar</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-it-possible-to-embed-videos-and-images-in-pdfs-using-flippdf-tools/"><u>Is It Possible to Embed Videos & Images in PDFs Using FlipPDF Tools?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-custom-gradients-in-your-digital-books-with-flipbook/"><u>Mastering the Art of Custom Gradients in Your Digital Books with FlipBook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-and-enjoy-multifaceted-ebook-content-effortlessly-using-our-flip-feature-flipbuildercom/"><u>Navigate and Enjoy Multifaceted eBook Content Effortlessly Using Our Flip Feature | flipBuilder.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/redesigning-with-ease-integrating-projects-into-the-flip-program-platform/"><u>Redesigning with Ease: Integrating Projects Into the Flip Program Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>[New] In 2024, Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-the-depths-of-screen-recording-software/"><u>[Updated] 2024 Approved Exploring the Depths of Screen Recording Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-pip-in-chrome-for-every-os/"><u>2024 Approved Navigating PIP in Chrome for Every OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cutting-down-on-wait-time-how-to-speed-up-fallout-n-load-times-effectively/"><u>Cutting Down on Wait Time: How to Speed Up Fallout N Load Times Effectively</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-display-drivers-for-your-windows-1178-systems-today/"><u>Get the Newest Nvidia Display Drivers for Your Windows 11/7/8 Systems Today</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience-for-2024/"><u>The Ultimate Monitor List for an Immersive Xbox Series X Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-for-securely-acquiring-mx-player-app-on-windows-operating-systems-including-windows-11108187/"><u>Ultimate Tutorial for Securely Acquiring MX Player App on Windows Operating Systems Including Windows 11/10/8.1/8/7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-6-superior-alternatives-to-photoshop-that-wont-cost-you-a-penny/"><u>Unveiling 6 Superior Alternatives to Photoshop That Won't Cost You a Penny</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Disabling Site Alerts in Your Browser: Tips for Chrome, Firefox & Edge Users"
-date: 2024-09-24T04:51:24.612Z
-updated: 2024-09-29T21:28:16.300Z
+date: 2024-09-29T16:34:27.934Z
+updated: 2024-10-05T20:21:44.245Z
 tags:
   - product
   - antivirus
@@ -58,13 +58,6 @@ Browsers have also jumped in on the fun, and send these push notifications from 
 
 And just as you would expect, these web notifications can either be useful or an utter annoyance. It is all good if a website tries to notify you about important information, but this is only helpful if this is done on your terms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What exactly are Web Notifications?
 
 Push notifications for the web, as they are called, basically alert from websites that are sent directly to your device. When you are browsing the web, you may have seen small banners pop up at the top or bottom of your browsers asking your permission to show notifications.
@@ -80,13 +73,6 @@ Many of these notifications are genuinely useful, like that from [Gmail](https:/
 And then there may be cases where you may have mistaken subscribed for push notifications from a website. It can be sending you unwanted and irrelevant content, or worse yet, spamming your device with ads and links.
 
 Time to take back control.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to block Notifications from Websites?
 
@@ -105,6 +91,13 @@ Your web browser likely asks you to allow websites to send notifications, via po
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 If you have decided that you just don’t want them, then follow these steps outlined below for three of the most popular web browsers on the market — Chrome, Firefox, and Edge. The process is not too dissimilar from other browsers like Opera, Vivaldi, and Safari. Just dig for the notification options in the settings and get the job done.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to turn off Google Chrome Notifications**
 
@@ -129,6 +122,19 @@ Once done, these websites will no longer be able to send you notifications.
 Chrome also allows you to manually add exceptions. For example, if you want to only allow notifications from [Facebook](https://tools.techidaily.com/malwarefox/products/) or Twitter while disallowing annoying prompts from every other website, then it is very easy to set it up here in this panel.
 
 [How to Stop Google Chrome Notifications](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to turn off web notifications in Mozilla Firefox**
 
@@ -156,6 +162,13 @@ Once you are done, hit the **Save Changes** button.
 
 ![Firefox About Config](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-About-Config.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Since Firefox does not let you disable website notifications altogether from its regular Settings panel, you will need to dive into its advanced configuration page to turn off notifications from all websites. It is a quick and easy process, so follow the steps outlined below.
 
 1. Open **Firefox**.
@@ -172,10 +185,10 @@ Change this value to **True**, if you change your mind, and would rather have Fi
 [4 Ways to Block Pop-up Ads in Firefox](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to block notifications on Microsoft Edge**
@@ -185,13 +198,6 @@ Microsoft introduced web notification on Edge with the Windows 10 Anniversary Up
 To do that, you will first need to allow notification for a website. Then you can click the three-dotted menu on the right called **Settings and more**, or press the **Alt + X** key combination to open the settings section.
 
 ![Edge - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Edge-Web-Notifications.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Follow this by clicking on the **View Advanced Settings**. This menu will have an option called **Notifications**, where you are able to manage permissions for all websites and control what a web page can do on Microsoft Edge.
 
@@ -223,18 +229,24 @@ For example, you can’t currently get Google Chrome notifications through to yo
 
 ![Block Mobile Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Mobile-Notifications.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nevertheless, disabling website notifications on Android and iOS is a similarly simple process. Just open your browser on your mobile device, then look for the **Notifications** option in settings. You will most likely see a toggle or checkbox to turn these on or off. Just disable them and websites will be stopped from sending you, or asking your permission to send you, notifications.
 
 Worth a mention that on certain browsers, your notification settings are synced. On Google Chrome, for example, they are connected to your Google account. This means, that if you enable or disable them, the settings are reflected across all your devices.
 
 [How to Remove Malware from Android](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -269,22 +281,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/xpressive-youtube-aesthetics-at-no-cost-for-2024/"><u>[New] Expressive YouTube Aesthetics at No Cost for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>[Updated] In 2024, Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-true-value-proposition-of-subscribing-to-youtube-premium-for-2024/"><u>[Updated] The True Value Proposition of Subscribing to YouTube Premium for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-secrets-of-spectacular-insta-films/"><u>[Updated] Unlocking the Secrets of Spectacular Insta Films</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-ultimate-collection-of-30plus-premium-nextjs-designs-from-creative-tim/"><u>1. Ultimate Collection of 30+ Premium Next.js Designs From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-bootstrap-5-theme-for-modern-websites-now-uis-professional-suite-from-creative-tim/"><u>Advanced Bootstrap 5 Theme for Modern Websites: Now UI's Professional Suite From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-full-stack-development-vuejs-and-laravel-pro-for-pro-clients-utilize-json-api-with-creative-tim-solutions/"><u>Advanced Full-Stack Development: Vue.js & Laravel Pro for PRO Clients - Utilize JSON API with Creative Tim Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-ghost-pro-top-tier-plugin-templates-by-creative-tim-free-download/"><u>Advanced Ghost Pro: Top-Tier Plugin Templates by Creative Tim - Free Download</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-horizon-pro-exclusive-nextjs-and-tailwind-css-framework-at-creative-tim/"><u>Advanced Horizon PRO: Exclusive NextJS & Tailwind CSS Framework at Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-bootstrap-compatible-design-suite-for-angular-developers/"><u>Creative Tim's Argon UI Framework: A Complimentary, Bootstrap-Compatible Design Suite for Angular Developers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/deciphering-opengl-support-within-intel-icds/"><u>Deciphering OpenGL Support Within Intel ICDs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cyberpunk-2077-solutions-for-in-game-stutter-and-lag-issues/"><u>Fixing Cyberpunk 2077: Solutions for In-Game Stutter and Lag Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lgs-monitor-marvel-the-31mu97-b-4k-showcase-review-for-2024/"><u>LG's Monitor Marvel The 31MU97-B 4K Showcase Review for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/master-your-screenshots-ultimate-selection-of-elite-screen-recording-applications/"><u>Master Your Screenshots: Ultimate Selection of Elite Screen Recording Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-tough-emails-leveraging-chatgpt-at-your-desk/"><u>Mastering Tough Emails: Leveraging ChatGPT at Your Desk</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/time-travel-tactics-mastering-the-shift-with-action/"><u>Time-Travel Tactics: Mastering the Shift with Action!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/tutorial-on-vlcs-automatic-screen-recorder-for-2024/"><u>Tutorial on VLC's Automatic Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/napshot-verbalizer/"><u>[New] Snapshot Verbalizer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-creative-power-for-youtube-intros-in-imovie/"><u>[Updated] 2024 Approved Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-snapback-to-loss-prevention/"><u>[Updated] In 2024, Quick Snapback to Loss Prevention</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instantaneous-windows-document-reviewing/"><u>[Updated] Instantaneous Windows Document Reviewing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/e-your-watch-time-on-youtube-with-these-tips/"><u>Double Your Watch Time on YouTube with These Tips</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-techniques-for-eliminating-shadows-in-photographs/"><u>Effective Techniques for Eliminating Shadows in Photographs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/flip-your-pdfs-with-this-free-tool-seamlessly-convert-and-rotate-pdf-files-today/"><u>Flip Your PDFs With This Free Tool - Seamlessly Convert and Rotate PDF Files Today!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker-for-2024/"><u>Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-motorola-moto-g14-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Motorola Moto G14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-update-your-tiktok-avatar-a-2022-guide/"><u>Simple Steps to Update Your TikTok Avatar: A 2022 Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
 </ul></div>
 

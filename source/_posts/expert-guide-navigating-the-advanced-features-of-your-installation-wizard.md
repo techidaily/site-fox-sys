@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Navigating the Advanced Features of Your Installation Wizard"
-date: 2024-09-27T23:22:29.340Z
-updated: 2024-09-30T08:16:15.770Z
+date: 2024-10-01T20:09:08.343Z
+updated: 2024-10-05T18:43:13.628Z
 tags:
   - user-guide
 categories:
@@ -71,10 +71,10 @@ Table of Contents
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The File menu
@@ -115,15 +115,22 @@ Table of Contents
    * Notifications Pane - displays a list with all the notifications that appeared while authoring the package. Also, notifications about synchronized folders will be displayed when loading the project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Installation menu
 
 This menu contains grouped links to all available installation pages. The pages unavailable in the current project appear disabled. The currently selected page is marked with a bullet. Clicking on an item will bring up the corresponding page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Project menu
 
@@ -135,13 +142,6 @@ This menu contains grouped links to all available installation pages. The pages 
 * Options... - allows setting the project options from the [Project Paths Tab](https://tools.techidaily.com/advancedinstaller/products/).
 * Convert Paths... - converts the absolute project paths to path variables based paths.
 * Find - this dialog allows you to customize the search criteria. The search is made globally(the entire project) and it is possible to add more tables to the search.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Wizard menu
 
@@ -162,13 +162,6 @@ This menu contains grouped links to all available installation pages. The pages 
 * Auto Updates... - allows you to configure Advanced Installer's update process through the "Update Options" dialog.
 * Customer Experience Program... - allows you select if you want or not to help improve Advanced Installer by sending non-personal information on how it is being used.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Help menu
 
 * Contents - displays the Advanced Installer User Guide.
@@ -177,6 +170,19 @@ This menu contains grouped links to all available installation pages. The pages 
 * Purchase Now - opens the web page where you can buy an Advanced Installer license.
 * [Register...](https://tools.techidaily.com/advancedinstaller/products/) \- allows you to introduce the registration code you received when you bought Advanced Installer. After that a license will be downloaded and installed on your machine.
 * About... - displays general information about Advanced Installer, like version, license, etc. and checks for updates.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -216,24 +222,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unleash-potential-the-finest-yoga-series-for-all-ages/"><u>[Updated] 2024 Approved Unleash Potential The Finest Yoga Series for All Ages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-expense-of-youtube-channel-growth/"><u>[Updated] Exploring the Expense of YouTube Channel Growth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/202n10-windows-mac-android-ios/"><u>全新202n年10月免費語音改編器 - Windows, Mac, Android, iOS 支持選項</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/boost-your-workflow-utilize-intel-quick-sync-technology-across-dual-monitors-on-laptops/"><u>Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-aphaca-bt6n-wireless-fm-bluetooth-transmitter-for-vehicles/"><u>Comprehensive Review of the Aphaca BT6n Wireless FM Bluetooth Transmitter for Vehicles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-instant-asus-monitor-driver-update-for-optimal-performance/"><u>Easy Instant ASUS Monitor Driver Update for Optimal Performance</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-methods-to-save-video-content-from-shutterstock-for-your-desktop-systems/"><u>Easy Methods to Save Video Content From Shutterstock for Your Desktop Systems</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevate-your-creations-to-crypto-world-the-best-generators-reviewed/"><u>Elevate Your Creations to Crypto World - The Best Generators Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/from-capture-to-share-expert-insights-into-screen-recording-software-for-2024/"><u>From Capture to Share Expert Insights Into Screen Recording Software for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nubia-red-magic-9-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nubia Red Magic 9 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/leading-cloud-service-giants-an-in-depth-look-at-aws-microsoft-azure-and-google-clouds-hybrid-saas-offerings-zdnet-analysis/"><u>Leading Cloud Service Giants: An In-Depth Look at AWS, Microsoft Azure, and Google Cloud's Hybrid, SaaS Offerings - ZDNet Analysis</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/master-your-screenshots-ultimate-selection-of-elite-screen-recording-applications/"><u>Master Your Screenshots: Ultimate Selection of Elite Screen Recording Applications</u></a></li>
-<li><a href="https://fox-info.techidaily.com/moviemakermag-extreme-review-complete-take-on-androvid-editor/"><u>MovieMakerMag Extreme Review – Complete Take on AndroVid Editor</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-downloading-training-content-from-lynda-and-linkedin-learning/"><u>Step-by-Step Guide to Downloading Training Content From Lynda & LinkedIn Learning</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-mp3juices-substitutes-unbeatable-options-for-both-pc-and-mac-users-by-allavsoft/"><u>Top MP3Juices Substitutes: Unbeatable Options for Both PC & Mac Users by Allavsoft</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/transferring-distrify-video-files-to-common-formats-like-mp4-mov-or-avi-for-both-windows-and-macos-systems/"><u>Transferring Distrify Video Files to Common Formats Like MP4, MOV, or AVI for Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/turn-youtube-audio-into-high-quality-mp3flac-tracks-how-to-download-music-smoothly/"><u>Turn YouTube Audio Into High-Quality MP3/FLAC Tracks - How to Download Music Smoothly!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wickedfun-video-converter-effortless-transfers-from-wickedfun-in-mp4-mov-and-avi-formats/"><u>Wickedfun Video Converter: Effortless Transfers From Wickedfun in MP4, MOV & AVI Formats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/your-ultimate-resource-accessing-and-saving-exercise-routines-from-fitnessrxwomen-online-videos/"><u>Your Ultimate Resource: Accessing and Saving Exercise Routines From FitnessRxWomen Online Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-handling-live-stream-halt-a-guide-for-fb-users/"><u>[New] 2024 Approved Handling Live Stream Halt A Guide for FB Users</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-skills-for-youtube-gamers/"><u>[New] Essential Skills for YouTube Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-advanced-steps-for-documenting-online-meetings/"><u>[Updated] 2024 Approved Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/3-proven-techniques-for-eradicating-ransomware-infections-on-windows-systems-expert-advice-inside/"><u>3 Proven Techniques for Eradicating Ransomware Infections on Windows Systems - Expert Advice Inside!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-androids-text-reception-problem-a-step-by-step-solution/"><u>Addressing Android's Text Reception Problem: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/facebook-streaming-simplified-a-comprehensive-tutorial-for-hassle-free-online-broadcasts/"><u>Facebook Streaming Simplified: A Comprehensive Tutorial for Hassle-Free Online Broadcasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-150-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 150 (2023) to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-view-avi-videos-on-your-iphone-easy-step-by-step-guide/"><u>How to View AVI Videos on Your iPhone - Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-love-fantasies-compatibility-and-narratives-for-pc-gaming/"><u>Mastering Love Fantasies: Compatibility and Narratives for PC Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/optimize-your-android-experience-with-these-top-5-auto-clicker-tools-no-root-access-needed/"><u>Optimize Your Android Experience with These Top 5 Auto-Clicker Tools (No Root Access Needed)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-finding-hidden-regedit-command/"><u>Tactics for Finding Hidden Regedit Command</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-when-encountering-no-dts-playback-errors/"><u>Troubleshooting Steps When Encountering 'No DTS Playback' Errors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-capturing-images-on-twitter-with-screen-shot-techniques/"><u>Ultimate Guide: Capturing Images on Twitter with Screen Shot Techniques</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-lights-camera-action-easy-movie-making-for-all/"><u>Updated In 2024, Lights, Camera, Action! Easy Movie Making for All</u></a></li>
 </ul></div>
 

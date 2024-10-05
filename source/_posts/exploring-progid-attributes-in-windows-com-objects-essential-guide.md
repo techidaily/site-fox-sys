@@ -1,7 +1,7 @@
 ---
 title: "Exploring ProgID Attributes in Windows COM Objects: Essential Guide"
-date: 2024-09-28T07:38:35.372Z
-updated: 2024-09-29T17:34:22.927Z
+date: 2024-10-01T19:10:49.885Z
+updated: 2024-10-05T20:04:58.865Z
 tags:
   - user-guide
 categories:
@@ -79,16 +79,10 @@ Table of Contents
 ## ProgID Properties
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -96,10 +90,10 @@ Table of Contents
  Detailed explanation for the files handled by the selected ProgID. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -107,10 +101,10 @@ Table of Contents
  Specify an icon that will be associated with all the files handled by that ProgID. Choose a file containing icons by using the\[Browse... \] button, and select an icon from the available icons from the drop-down list box. Press\[Reset \] to revert to no icon. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mac OS X
@@ -152,18 +146,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-integrated-iptv-accessibility/"><u>[New] 2024 Approved Integrated IPTV Accessibility</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[New] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-top-camcorders-to-consider-in-depth-analysis/"><u>[Updated] The Top Camcorders to Consider – In-Depth Analysis</u></a></li>
-<li><a href="https://solve-help.techidaily.com/accelerate-video-processing-utilize-intels-quick-sync-video-decoding-tech/"><u>Accelerate Video Processing: Utilize Intel's Quick Sync Video Decoding Tech</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-modifying-flipbook-page-colors-possible-with-flipbuilder-exploring-user-interface-tweaks-for-enhanced-presentations/"><u>Is Modifying Flipbook Page Colors Possible with FlipBuilder? Exploring User Interface Tweaks for Enhanced Presentations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/master-your-digital-publications-using-flipbuilders-innovative-toc-generator-for-flipbooks/"><u>Master Your Digital Publications Using FlipBuilder's Innovative ToC Generator for Flipbooks!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-multimedia-integration-replicating-additions-onto-active-pages-with-flipbuilder-techniques/"><u>Mastering Multimedia Integration: Replicating Additions Onto Active Pages with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/maximize-your-viewing-experience-how-to-display-exe-flipbooks-on-flipbuilder/"><u>Maximize Your Viewing Experience: How to Display EXE Flipbooks on FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-multi-window-view-for-flipbook-links-tips-and-tricks-with-flipbuilder/"><u>Navigating Multi-Window View for Flipbook Links - Tips & Tricks with FlipBuilder</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-visual-glitches-in-the-sims-4-a-guide-for-video-card-troubleshooting/"><u>Overcoming Visual Glitches in The Sims 4 - A Guide for Video Card Troubleshooting</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Galaxy A25 5G</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-performance-advanced-tech-knowledge-from-toms-hardware-hub/"><u>Unleash Performance: Advanced Tech Knowledge From Tom's Hardware Hub</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[New] Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-live-stream-tools-xsplit-or-obs/"><u>Best Live Stream Tools XSplit or OBS?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-top-3-replacements-for-picasa-modern-photo-editing-software/"><u>Best Top 3 Replacements for Picasa: Modern Photo Editing Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/create-custom-ai-powered-visuals-directly-through-google-search-new-update/"><u>Create Custom AI-Powered Visuals Directly Through Google Search - New Update!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fathers-day-greeting-cards-inspiration-best-practices-and-creative-concepts-for-perfect-messages/"><u>Father's Day Greeting Cards Inspiration: Best Practices & Creative Concepts for Perfect Messages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-product-information-navigating-the-features-and-specifications-section/"><u>In-Depth Product Information: Navigating the Features & Specifications Section</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-parent-child-conversations-a-comprehensive-guide/"><u>Modify Parent-Child Conversations: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-persistent-blinking-a-complete-guide/"><u>Resolve the Persistent Blinking: A Complete Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-the-issue-why-cant-my-iphone-play-apple-music-and-how-to-get-it-working/"><u>Solving the Issue: Why Can't My iPhone Play Apple Music and How To Get It Working?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-3-methods-for-converting-pdf-files-into-microsoft-word-format-on-pc/"><u>Top 3 Methods for Converting PDF Files Into Microsoft Word Format on PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-movie-maker-turn-your-ideas-into-animated-reality/"><u>Windows Movie Maker Turn Your Ideas Into Animated Reality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modify System Settings with the Environment Var Handler During Software Installation
-date: 2024-09-25T06:21:59.614Z
-updated: 2024-09-29T22:45:42.224Z
+date: 2024-10-02T18:52:31.771Z
+updated: 2024-10-05T16:35:06.967Z
 tags:
   - user-guide
 categories:
@@ -80,38 +80,45 @@ Table of Contents
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
  The environment variable's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
  The environment variable's content. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Component
 
  The component which will contain the environment variable. When this component is installed the environment variable is created. Also, the variable is removed when the component is uninstalled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Adding and Removing
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Install
@@ -127,13 +134,6 @@ Table of Contents
 This checkbox will make the Windows Installer remove the environment variable when the package is uninstalled.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)During an uninstall Windows Installer will remove only what it added. If a value was appended to an existing environment variable, only that value will be removed (not the entire variable).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### System variable
 
@@ -182,22 +182,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-your-ultimate-guide-to-deciphering-tiktoks-pfp-emoji/"><u>[Updated] 2024 Approved Your Ultimate Guide to Deciphering TikTok's PFP Emoji</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-creating-immersive-video-games-experiences-on-steam/"><u>[Updated] Creating Immersive Video Games Experiences on Steam</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/critical-update-eliminating-the-launch-error-in-fortnites-latest-patch-ls-0013/"><u>Critical Update: Eliminating the Launch Error in Fortnite's Latest Patch LS-0013</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-modify-internal-and-external-page-backgrounds-in-your-epub-file-with-flipbuilder/"><u>How to Modify Internal and External Page Backgrounds in Your ePub File with FlipBuilder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>In 2024, Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-video-collection-on-tiktok-efficiently/"><u>In 2024, Maximizing Video Collection on TikTok Efficiently</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/incorporating-your-brand-identity-a-step-by-step-guide-on-adding-a-company-logo-to-flipbooks-toolbar/"><u>Incorporating Your Brand Identity: A Step-by-Step Guide on Adding a Company Logo to FlipBook's Toolbar</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-it-possible-to-embed-videos-and-images-in-pdfs-using-flippdf-tools/"><u>Is It Possible to Embed Videos & Images in PDFs Using FlipPDF Tools?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/leading-solutions-for-breaking-dvd-security-without-costly-software/"><u>Leading Solutions for Breaking DVD Security without Costly Software</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-apex-legends-simple-strategies-to-skyrocket-your-frame-rate/"><u>Mastering Apex Legends: Simple Strategies to Skyrocket Your Frame Rate</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-custom-gradients-in-your-digital-books-with-flipbook/"><u>Mastering the Art of Custom Gradients in Your Digital Books with FlipBook</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movavi-video-editor-en-vente-paiements-securises-and-reductions-exceptionnelles-pour-votre-edition-video-facile/"><u>Movavi Video Editor en Vente : Paiements Sécurisés & Réductions Exceptionnelles Pour Votre Édition Vidéo Facile!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-and-enjoy-multifaceted-ebook-content-effortlessly-using-our-flip-feature-flipbuildercom/"><u>Navigate and Enjoy Multifaceted eBook Content Effortlessly Using Our Flip Feature | flipBuilder.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/redesigning-with-ease-integrating-projects-into-the-flip-program-platform/"><u>Redesigning with Ease: Integrating Projects Into the Flip Program Platform</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolving-the-grey-screen-error-while-editing-pages-on-flip-a-step-by-step-guide/"><u>Resolving the Grey Screen Error While Editing Pages on Flip: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamless-flipbook-embedding-techniques-for-website-publishers-a-flipbuilder-guide/"><u>Seamless Flipbook Embedding Techniques for Website Publishers - A FlipBuilder Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-ripper-platinumfaq/"><u>WinX DVD Ripper Platinum：ユーザーからのよくある質問（FAQ）回答集</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[New] 2024 Approved Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>[New] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>2024 Approved Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>2024 Approved YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/descarga-guia-facil-eliminar-ratoneras-publicitarias-y-avisos-emergentes-en-windows-10/"><u>Descarga Guía Fácil: Eliminar Ratoneras Publicitarias Y Avisos Emergentes en Windows 10</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-techniques-to-decelerate-your-sound-files/"><u>Effortless Techniques to Decelerate Your Sound Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-future-interactive-enhancements-to-stories-panel/"><u>Facebook's Future: Interactive Enhancements to Stories Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-emotion-artificial-intelligence-interpret-human-sentiments/"><u>How Does Emotion Artificial Intelligence Interpret Human Sentiments?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-iregistry-component-solutions-streamlining-system-configuration-and-access-control/"><u>Innovative IRegistry Component Solutions – Streamlining System Configuration and Access Control</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-surprises-in-yokus-isle-expressions-grand-ventures-redefined/"><u>Navigating Surprises in Yoku's Isle Expressions: Grand Ventures Redefined</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/organize-with-ease-the-ultimate-file-association-directory/"><u>Organize with Ease: The Ultimate File Association Directory</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-to-affordable-gopro-acquisitions/"><u>Secrets to Affordable GoPro Acquisitions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-immaculate-file-registration-with-imsm/"><u>Step-by-Step Guide to Immaculate File Registration with IMSM</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-visual-potential-the-power-of-lut-transformations/"><u>Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
 </ul></div>
 

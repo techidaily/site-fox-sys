@@ -1,7 +1,7 @@
 ---
 title: Efficient Editing of Components and Groups in the User Interface
-date: 2024-09-28T05:19:27.100Z
-updated: 2024-09-30T10:08:41.795Z
+date: 2024-09-29T17:55:49.068Z
+updated: 2024-10-05T21:40:13.971Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 ![Edit Qualified Components Dialog](https://cdn.advancedinstaller.com/img/dialog/qualified-component.png "Edit Qualified Components Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Category GUID
@@ -93,10 +93,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 Specify a GUID for the category of components being grouped together. Use the drop-down list to choose an existing category or create another
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qualifier
@@ -104,10 +104,10 @@ Specify a GUID for the category of components being grouped together. Use the dr
 Specify a qualifier for the component. This string is used to distinguish components from the same category.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -115,10 +115,16 @@ Specify a qualifier for the component. This string is used to distinguish compon
 Specify a description for the qualified component. The content of this field is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -158,24 +164,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-concurrent-display-archiving/"><u>[New] In 2024, Concurrent Display Archiving</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/makemkv/"><u>【期限延長サービス】MakeMKVコードを取得する完全ガイドとトライアル期間延長手続き</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-full-stack-development-vuejs-and-laravel-pro-for-pro-clients-utilize-json-api-with-creative-tim-solutions/"><u>Advanced Full-Stack Development: Vue.js & Laravel Pro for PRO Clients - Utilize JSON API with Creative Tim Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-ghost-pro-top-tier-plugin-templates-by-creative-tim-free-download/"><u>Advanced Ghost Pro: Top-Tier Plugin Templates by Creative Tim - Free Download</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-horizon-pro-exclusive-nextjs-and-tailwind-css-framework-at-creative-tim/"><u>Advanced Horizon PRO: Exclusive NextJS & Tailwind CSS Framework at Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/bootstrap-3-with-premium-material-design-by-creative-tim-professional-material-kit-pro-for-ui-mastery/"><u>Bootstrap 3 with Premium Material Design by Creative Tim: Professional Material Kit PRO for UI Mastery</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/chakra-professional-edition-for-argon-ui-elevate-user-interfaces-with-premium-design-tools-from-creative-tim/"><u>Chakra Professional Edition for Argon UI: Elevate User Interfaces with Premium Design Tools From Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-advanced-horizon-ai-integrating-chakra-ui-and-nextjs-for-professionals/"><u>Creative Tim's Advanced Horizon AI: Integrating Chakra UI & NextJS for Professionals</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/creative-tims-material-dashboard-enhanced-with-laravel-livewire-support/"><u>Creative Tim's Material Dashboard: Enhanced with Laravel Livewire Support</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-over-8-unique-ios-design-templates-from-creative-tim-free-resources/"><u>Download Over 8 Unique iOS Design Templates From Creative Tim - Free Resources</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-voice-transformation-tools-for-digital-talent-for-2024/"><u>Ideal Voice Transformation Tools for Digital Talent for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-beyondonecam-testing-are-there-better-options/"><u>In 2024, BeyondOneCam Testing Are There Better Options?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A60s to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-hot-30i-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Hot 30i Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals-for-2024/"><u>Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-issues-with-realtek-hd-audio-a-comprehensive-guide-for-when-its-unplugged/"><u>Resolving Issues with Realtek HD Audio: A Comprehensive Guide for When It's Unplugged</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-6-indicators-of-poor-pc-cable-organization-avoid-the-chaos/"><u>Top 6 Indicators of Poor PC Cable Organization – Avoid the Chaos!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-redesigned-look-at-s3700-sony-entertainment/"><u>[New] In 2024, Redesigned Look at S3700 Sony Entertainment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-smart-selection-identifying-our-top-5-webcams-for-video-and-audio/"><u>[Updated] Smart Selection Identifying Our Top 5 Webcams for Video & Audio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-new-wave-of-youtube-branding-best-titles-for-vloggers-and-filmmakers-keep-it-under-or-at-156-characters/"><u>[Updated] The New Wave of YouTube Branding Best Titles for Vloggers & Filmmakers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-psd-text-direction/"><u>2024 Approved Superior PSD Text Direction</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-youtube-cutting-apps-buyers-guide-compilation/"><u>2024 Approved Top 10 YouTube Cutting Apps - Buyer's Guide Compilation</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ce-frontiers-the-finest-youtube-channels-to-follow/"><u>Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-absent-system-error/"><u>Graphics Absent: System Error</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/techniques-to-lower-your-cpu-usage-while-playing-new-world-online-game/"><u>Techniques to Lower Your CPU Usage While Playing New World Online Game</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-harnessing-the-power-of-tension-building-melodies-in-cinematic-storytelling-for-2024/"><u>Updated Harnessing the Power of Tension-Building Melodies in Cinematic Storytelling for 2024</u></a></li>
 </ul></div>
 

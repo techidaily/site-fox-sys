@@ -1,7 +1,7 @@
 ---
 title: "Tab Specification: Mastering the 'Build' Settings"
-date: 2024-09-28T11:14:23.602Z
-updated: 2024-09-30T06:16:34.199Z
+date: 2024-09-29T16:06:25.545Z
+updated: 2024-10-05T20:31:33.112Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,19 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 ![Specify builds dialog](https://cdn.advancedinstaller.com/img/ui/prerequisites-builds-tab.png "Specify builds dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Builds
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include prerequisites in all builds
@@ -102,16 +102,10 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 Include the prerequisite in all the builds contained by your project
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include the prerequisite only in the selected builds
@@ -151,14 +145,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-best-color-correction-app/"><u>[New] 2024 Approved Best Color Correction App</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-optimal-camcorders-transforming-podcast-engagement-for-2024/"><u>[New] Optimal Camcorders Transforming Podcast Engagement for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/drive-flipbook-audience-traffic-to-your-website-using-smart-marketing-strategies/"><u>Drive Flipbook Audience Traffic to Your Website Using Smart Marketing Strategies</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-your-reading-experience-tips-for-clarity-in-digital-flipbooks-on-flipbuildercom/"><u>Enhancing Your Reading Experience - Tips for Clarity in Digital Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-template-types-how-do-classical-spread-and-float-differ-on-flipbuilder-unraveling-the-comparison/"><u>Exploring Template Types: How Do Classical, Spread & Float Differ on FlipBuilder? Unraveling the Comparison</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-modify-internal-and-external-page-backgrounds-in-your-epub-file-with-flipbuilder/"><u>How to Modify Internal and External Page Backgrounds in Your ePub File with FlipBuilder</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-your-likes-discreet-on-the-world-wide-web/"><u>Keeping Your Likes Discreet on the World Wide Web</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-wma-audiovideo-files-to-avi-quickly-and-for-free-simpleconverters/"><u>Transform Your WMA Audio/Video Files to AVI Quickly & for Free - SimpleConverters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-outro-complete-guide-plusbest-makers-and-templates-for-2024/"><u>YouTube Outro Complete Guide [+Best Makers & Templates] for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] 2024 Approved How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-compelling-tiktok-captions-5-must-knows/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Compelling TikTok Captions (5 Must-Knows)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-complete-examination-the-video-show-app/"><u>[New] Complete Examination The Video Show App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>[Updated] Bringing Still Images to Life A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-n55-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo N55 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-sierras-icloud-drive-accessibility/"><u>In 2024, Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-and-fixing-0xc00d5212-errors-during-videoaudio-playback-in-windows-11/"><u>Troubleshooting and Fixing 0XC00D5212 Errors During Video/Audio Playback in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zoom-blackout-blues-eliminate-pc-screen-troubles-in-your-meetings-the-definitive-guide-to-fixing-issues/"><u>Zoom Blackout Blues? Eliminate PC Screen Troubles in Your Meetings – The Definitive Guide to Fixing Issues</u></a></li>
 </ul></div>
 

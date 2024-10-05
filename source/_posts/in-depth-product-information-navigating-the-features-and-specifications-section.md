@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Product Information: Navigating the Features & Specifications Section"
-date: 2024-09-25T17:21:42.442Z
-updated: 2024-09-30T11:21:26.761Z
+date: 2024-09-29T17:18:56.940Z
+updated: 2024-10-05T16:07:12.101Z
 tags:
   - user-guide
 categories:
@@ -94,7 +94,21 @@ A version string has the format "x.y.z" where x, y and z are numbers. Windows In
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The value in this field is stored in the **ProductVersion** property.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When changing the Product Version, you should also allow generating a new Product Code if and only if you plan to check “Automatically upgrade older versions of the product” on the [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page. Read why in [Changing Version](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Version taken from file**
 
@@ -103,13 +117,6 @@ The Product version can be dynamically retrieved from **a file from the project,
 To retrieve the Product Version from a file (EXE file for example), click on\[... \] button. The [Edit Property's Value Source Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed. This will allow you to select a file from [Files and Folders](https://tools.techidaily.com/advancedinstaller/products/) page, a file from disk or an entry from an INI file.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When the _Product Version_ is changed due to an external source update, a new Product Code will be automatically generated. New GUIDs for the components are also generated if _Allow side by side installs of different product versions_ option from [Upgrades page](https://tools.techidaily.com/advancedinstaller/products/) is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The version must be contained by the file metadata, **not** as a string in a text file. 
 
@@ -121,13 +128,6 @@ The Options hyperlink displays _Edit Product Version Dialog_ in which you can co
 * Never generate a new Product Code and component's GUIDs when Product Version changes
 * Ask the user every time
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Publisher
 
 The full name of your company. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). The value in this field is stored in the **Manufacturer** property and it can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
@@ -136,15 +136,22 @@ The full name of your company. This field is of [PseudoFormatted Type](https://t
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The following fields are of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Their content can be [localized](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Support Link
 
  The application's home page URL. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update Info Link
@@ -159,6 +166,13 @@ The URL where the user can get technical support.
 
 The phone number where the user can get technical support.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Contact
 
  The e-mail address for technical support.
@@ -167,26 +181,27 @@ The phone number where the user can get technical support.
 
 A more detailed description of the application. This information is displayed in the _Programs and Features_ applet in the Control Panel. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Programs and Features
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Register product with Windows Installer.
 
 This option registers the product with Windows Installer.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If this option is not checked you cannot remove, repair or reinstall the application by using the Control Panel, the Windows Installer command-line options or the Windows Installer application programming interface (API).
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Icon File
 
@@ -199,13 +214,6 @@ This option registers the product with Windows Installer.
 ### Disable Repair
 
  Disables the "Repair" button in the "Programs and Features" applet in the Control Panel. This button is showed when you select the _Click here for support information_ link.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable Remove
 
@@ -228,13 +236,6 @@ This option allows you to:
 
 ## End User License Agreement
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lincense
 
 Specify the EULA file. By clicking on \[... \] you can :
@@ -246,10 +247,10 @@ Specify the EULA file. By clicking on \[... \] you can :
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This option will automatically add InstallDlg dialog to your project.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Readme File
@@ -259,19 +260,6 @@ Set the Readme File for your application.
 ### Show in Readme Dialog
 
 This option adds ReadmeDlg to your project.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Control Panel
 
@@ -310,17 +298,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-altered-captions-a-video-guide/"><u>[New] 2024 Approved Altered Captions A Video Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-art-of-introducing-your-podcast/"><u>[New] 2024 Approved The Art of Introducing Your Podcast</u></a></li>
-<li><a href="https://fox-links.techidaily.com/budget-friendly-asmr-solutions-premium-quality-mics-awaiting-you-for-2024/"><u>Budget-Friendly ASMR Solutions Premium Quality Mics Awaiting You for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/create-embed-interactive-flipbooks-designing-online-flipbooks-and-the-main-topic-of-your-original-title-flipbuilder/"><u>Create, Embed Interactive Flipbooks, Designing Online Flipbooks, and the Main Topic of Your Original Title, FlipBuilder.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/direct-to-printer-access-for-flipbook-content-tips-and-tricks-using-flipbuilder-technology/"><u>Direct-to-Printer Access for Flipbook Content: Tips and Tricks Using FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/diy-digital-libraries-costless-djvu-to-pdf-converter-using-flipbuilder-preserve-your-ebooks-in-adobes-preferred-format/"><u>DIY Digital Libraries: Costless DJVU to PDF Converter Using FlipBuilder - Preserve Your eBooks in Adobe's Preferred Format!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/drive-flipbook-audience-traffic-to-your-website-using-smart-marketing-strategies/"><u>Drive Flipbook Audience Traffic to Your Website Using Smart Marketing Strategies</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-your-reading-experience-tips-for-clarity-in-digital-flipbooks-on-flipbuildercom/"><u>Enhancing Your Reading Experience - Tips for Clarity in Digital Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-explore-creative-horizons-with-imaginative-snapchat-boomerang-techniques/"><u>In 2024, Explore Creative Horizons with Imaginative Snapchat Boomerang Techniques</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-connect-to-w7-wi-fi/"><u>Instantly Connect to W7 Wi-Fi</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-audio-architects-guide-to-stripping-down-beats-online/"><u>New In 2024, The Audio Architects Guide to Stripping Down Beats Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obsudios-analysis-selecting-the-ideal-recording-software-for-2024/"><u>[New] Obsudio's Analysis Selecting the Ideal Recording Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nubia-red-magic-9-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nubia Red Magic 9 Pro+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lenovo-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lenovo FRP Locks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-parent-child-conversations-a-comprehensive-guide/"><u>Modify Parent-Child Conversations: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rise-above-the-noise-must-have-video-seo-tools-for-2024/"><u>Rise Above the Noise – Must-Have Video SEO Tools for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-the-issue-why-cant-my-iphone-play-apple-music-and-how-to-get-it-working/"><u>Solving the Issue: Why Can't My iPhone Play Apple Music and How To Get It Working?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-tutorial-on-crafting-a-captivating-book-trailer-to-boost-your-sales/"><u>The Ultimate Tutorial on Crafting a Captivating Book Trailer to Boost Your Sales</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-3-methods-for-converting-pdf-files-into-microsoft-word-format-on-pc/"><u>Top 3 Methods for Converting PDF Files Into Microsoft Word Format on PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
 </ul></div>
 

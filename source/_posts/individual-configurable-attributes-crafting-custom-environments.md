@@ -1,7 +1,7 @@
 ---
 title: "Individual Configurable Attributes: Crafting Custom Environments"
-date: 2024-09-24T05:06:36.859Z
-updated: 2024-09-30T07:30:29.425Z
+date: 2024-09-29T21:55:17.497Z
+updated: 2024-10-05T16:29:58.825Z
 tags:
   - user-guide
 categories:
@@ -103,15 +103,22 @@ This view allows you to set IIS properties, such as attributes and collection it
 
 ![Custom properties](https://cdn.advancedinstaller.com/img/ui/custom-properties.png "Custom properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding a new property
 
 Use the \[New \] button or the “New” context menu item to add a new property, be that an attribute value or collection item.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a property
@@ -123,38 +130,25 @@ Use the \[Edit... \] button, the “Edit...” context menu item or press theSpa
 Use the \[Up \] button, the “Up” context menu item or press the Page Up key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Decrease the execution priority
 
 Use the \[Down \] button, the “Down” context menu item or press the Page Down key while an element from the list control is selected.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing a property
 
 Use the \[Remove \] button, the “Remove” context menu item or press theDelete key while an element from the list control is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -197,24 +191,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-analyzing-youtubes-creator-rewards-regularity/"><u>[New] 2024 Approved Analyzing YouTube's Creator Rewards Regularity</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-accelerate-lost-snap-content-find/"><u>[Updated] Accelerate Lost Snap Content Find</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-study-hero4-black-mechanics/"><u>[Updated] Comprehensive Study Hero4 Black Mechanics</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-secrets-unveiled-cost-free-techniques-to-extract-videos-from-56com/"><u>1. Secrets Unveiled: Cost-Free Techniques to Extract Videos From 56.com</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/10-laughingcrying-phenomenal-instagram-meme-feeds-for-2024/"><u>10 Laughing/Crying Phenomenal Instagram Meme Feeds for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1upcom-media-extractor-save-videos-and-shows-as-mp4avi-files-from-1upcom/"><u>1Up.com Media Extractor: Save Videos & Shows as MP4/AVI Files From 1UP.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/alternative-fixes-overcome-issues-with-jaksta-software-on-macos-and-windows-systems/"><u>Alternative Fixes: Overcome Issues with Jaksta Software on macOS and Windows Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/chrome-has-no-sound-understanding-and-solving-the-problem/"><u>Chrome Has No Sound - Understanding and Solving the Problem</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-and-download-popular-xnxx-videos-in-various-formats/"><u>Convert and Download Popular XNXX Videos in Various Formats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-and-save-your-favorite-episodes-from-la-1ere-high-quality-mp4-and-avi-formats/"><u>Convert and Save Your Favorite Episodes From La 1Ère - High-Quality MP4 & AVI Formats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-access-to-brazzers-movies-effective-steps-for-safe-video-downloads/"><u>Free Access to Brazzers Movies: Effective Steps for Safe Video Downloads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-8610-complete-driver-downloads-and-updates-for-windows-1087xpvista/"><u>HP Officejet Pro 8610: Complete Driver Downloads & Updates for Windows 10/8/7/XP/Vista</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-f34-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy F34 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/latest-tech-bargains-get-your-hands-on-pixel-eb-quality-anker-earphones-premium-hisense-qled-tvs-and-top-of-the-line-robotic-vacuums/"><u>Latest Tech Bargains: Get Your Hands on Pixel Eb, Quality Anker Earphones, Premium Hisense QLED Tvs & Top-of-the-Line Robotic Vacuums!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solve-your-downloading-woes-with-ease-top-vdownloader-fix-and-best-alternatives-for-pc-and-mac/"><u>Solve Your Downloading Woes with Ease: Top Vdownloader Fix & Best Alternatives for PC and Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/technological-testing-vlles-app-analysis-for-2024/"><u>Technological Testing VLLE's App Analysis for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-tips-for-running-flipbuilder-books-seamlessly-on-ios-devices-like-the-ipad/"><u>Troubleshooting Tips for Running FlipBuilder Books Seamlessly on iOS Devices Like the iPad</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tutorial-image-flipping-techniques-with-flipbuilder/"><u>Tutorial: Image Flipping Techniques with FlipBuilder</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-pros-of-posting-to-tiktok-from-your-personal-computer-or-mac/"><u>[New] In 2024, Pros of Posting to TikTok From Your Personal Computer or MAC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-self-play-feature-in-facebook-videos-for-2024/"><u>[New] Mastering the Self-Play Feature in Facebook Videos for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/3-proven-techniques-for-eradicating-ransomware-infections-on-windows-systems-expert-advice-inside/"><u>3 Proven Techniques for Eradicating Ransomware Infections on Windows Systems - Expert Advice Inside!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/automate-tasks-with-ipowershell-utilizing-attached-script-files/"><u>Automate Tasks with IPowerShell: Utilizing Attached Script Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-wireless-link-up-of-samsung-soundbar-with-televisions/"><u>Comprehensive Guide to Wireless Link-Up of Samsung Soundbar With Televisions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-file-management-techniques-using-ifolder-operations/"><u>Efficient File Management Techniques Using iFolder Operations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/facebook-streaming-simplified-a-comprehensive-tutorial-for-hassle-free-online-broadcasts/"><u>Facebook Streaming Simplified: A Comprehensive Tutorial for Hassle-Free Online Broadcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harmonizing-soundscape-and-unboxing-footage/"><u>Harmonizing Soundscape and Unboxing Footage</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-view-avi-videos-on-your-iphone-easy-step-by-step-guide/"><u>How to View AVI Videos on Your iPhone - Easy Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-love-fantasies-compatibility-and-narratives-for-pc-gaming/"><u>Mastering Love Fantasies: Compatibility and Narratives for PC Gaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premier-mp4-converter-for-smooth-fb-integration-for-2024/"><u>Premier MP4 Converter for Smooth FB Integration for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gaming-tech-mod007b-hall-keyboard-review/"><u>Serious Gaming Tech: MOD007B Hall Keyboard Review</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone 11 Pro Is Unlocked</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x50i-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X50i Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-capturing-images-on-twitter-with-screen-shot-techniques/"><u>Ultimate Guide: Capturing Images on Twitter with Screen Shot Techniques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-your-webex-microphone-issues/"><u>Ultimate Guide: Resolving Your WebEx Microphone Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Installation Settings and Configurations
-date: 2024-09-22T16:33:47.563Z
-updated: 2024-09-29T16:26:17.568Z
+date: 2024-10-04T21:46:50.919Z
+updated: 2024-10-05T18:58:22.320Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This component is meant to edit install parameters. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This component is meant to edit install parameters.
 IInstallParameters: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +170,10 @@ $project.InstallParameters.RunAsAdmin = "True"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,19 +215,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-crafting-a-distinctive-sphere-of-influence/"><u>[New] 2024 Approved Crafting a Distinctive Sphere of Influence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>[Updated] In 2024, Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-meizu-21-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Meizu 21 Pro</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-lost-connection-revive-the-invisible-logitech-brio-webcam-in-new-windows-environment-answered/"><u>Bring Back Lost Connection: Revive the Invisible Logitech Brio Webcam in New Windows Environment [Answered]</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/create-stunning-flash-albums-with-instant-paging-free-flip-photo-converter-software/"><u>Create Stunning Flash Albums with Instant Paging - Free Flip Photo Converter Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/diy-guide-create-a-personalized-flipbook-with-ease-on-flipbuildercom/"><u>DIY Guide: Create a Personalized Flipbook with Ease on FlipBuilder.com</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-tv-experience-watching-fb-content-seamlessly-for-2024/"><u>Enhancing TV Experience Watching Fb Content Seamlessly for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-organized-build-the-perfect-toc-for-your-digital-book-using-flipbuilder/"><u>Get Organized: Build the Perfect TOC for Your Digital Book Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-create-interactive-flip-books-from-numbered-texts-using-flipbuilder/"><u>How to Create Interactive Flip Books From Numbered Texts Using FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s17-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S17 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-dissecting-the-features-of-toolwizs-photography-app/"><u>In 2024, Dissecting the Features of Toolwiz's Photography App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-handling-libxml2dll-file-missing-errors-successfully/"><u>Step-by-Step Process for Handling 'libxml2.dll File Missing' Errors Successfully</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/track-and-monitor-health-metrics-with-ease-the-ultimate-guide-to-androids-measure-app/"><u>Track and Monitor Health Metrics with Ease: The Ultimate Guide to Android's Measure App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[New] 2024 Approved Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-music-in-premiere-pro/"><u>[New] How To Add Music In Premiere Pro?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-process-to-perfect-your-fb-reel-skills/"><u>[Updated] In 2024, Step-by-Step Process to Perfect Your FB Reel Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>2023'S Top Contenders GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-method-for-recorded-instagram-stories/"><u>2024 Approved The Ultimate Method for Recorded Instagram Stories</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/descarga-guia-facil-eliminar-ratoneras-publicitarias-y-avisos-emergentes-en-windows-10/"><u>Descarga Guía Fácil: Eliminar Ratoneras Publicitarias Y Avisos Emergentes en Windows 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-civi-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Civi 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-delete-video-posts-android-and-windows-devices/"><u>In 2024, How to Delete Video Posts Android & Windows Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-potential-making-your-vids-go-viral/"><u>In 2024, Unleash Potential Making Your Vids Go Viral</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-iregistry-component-solutions-streamlining-system-configuration-and-access-control/"><u>Innovative IRegistry Component Solutions – Streamlining System Configuration and Access Control</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-n55-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme Narzo N55</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-immaculate-file-registration-with-imsm/"><u>Step-by-Step Guide to Immaculate File Registration with IMSM</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface"
-date: 2024-09-25T11:05:49.018Z
-updated: 2024-09-30T04:08:26.834Z
+date: 2024-10-01T21:34:41.552Z
+updated: 2024-10-05T16:14:04.344Z
 tags:
   - user-guide
 categories:
@@ -103,13 +103,6 @@ Import:
 
 ![Start Page](https://cdn.advancedinstaller.com/img/dialog/start-page.png "Start Page")  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Actions
 
 If you need help use the F1 keyboard shortcut.
@@ -117,6 +110,13 @@ If you need help use the F1 keyboard shortcut.
 ### Creating a new project
 
 Select a project type and press \[Create Project \] or double click on a project type.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Opening a recent or existing project
 
@@ -128,16 +128,16 @@ Enabling "Automatically load most recent project" option skips the Start Page ne
 
 If a project is already open, press the \[Back to project \] button.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Message Center
 
 The Message Center keeps you up-to-date with the latest news from Advanced Installer.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Options
 
@@ -148,17 +148,10 @@ Enable this option if you want to create the project using a wizard. More inform
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Not all project templates support disabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -166,6 +159,13 @@ Enable this option if you want to create the project using a wizard. More inform
 Here you can select the language in which the project is created. Additional build languages can be specified later in the [Languages Tab](https://tools.techidaily.com/advancedinstaller/products/) tab, on the[Translation page](https://tools.techidaily.com/advancedinstaller/products/). By default, the drop-down list contains only the languages for which translation dictionaries are registered in Advanced Installer. Additional dictionaries can also be added from this page.
 
 To select a language which doesn't have a translation dictionary, use the “More...” option from the drop-down list to bring up the [Select Language Dialog](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -229,21 +229,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>[New] 2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>[New] Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>[Updated] 2024 Approved Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-easy-win-for-pc-basic-clownfish-sound-change-guide/"><u>[Updated] Easy-Win for PC Basic Clownfish Sound Change Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-maximizing-memory-retention-through-mac-based-audio-recordings-for-2024/"><u>[Updated] Maximizing Memory Retention Through Mac-Based Audio Recordings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-8-cam-enhancers-for-clear-broadcasting/"><u>2024 Approved Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cleared-error-device-error-48/"><u>Cleared Error - Device Error 48</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-movies-from-sohu-tv-in-hd-convert-to-mp4movavi-using-our-top-video-extractor/"><u>Download Movies From Sohu TV in HD: Convert to MP4/MOV/AVI Using Our Top Video Extractor</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-mp4-conversion-guide-how-to-change-mp4-files-into-quicktime-format-on-macos-yosemite-and-windows-pcs/"><u>Efficient MP4 Conversion Guide: How to Change MP4 Files Into QuickTime Format on macOS Yosemite & Windows PCs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-conversion-transform-videos-into-multiple-formats-mp4-wmv-avi-etc-for-mac-and-pc-with-viddler/"><u>Effortless Conversion: Transform Videos Into Multiple Formats (MP4, WMV, AVI, Etc.) For Mac and PC with Viddler</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-download-convert-stan-winston-educational-series-into-various-formats-mp4-wmv-mov-etc/"><u>Free Download: Convert Stan Winston Educational Series Into Various Formats (MP4, WMV, MOV, Etc.)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-downloads-available-educational-treehouse-video-collection/"><u>Free Downloads Available! Educational Treehouse Video Collection</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-likes-and-video-powerhouse-get-noticed-and-grow-your-instagram-fast/"><u>In 2024, Insta Likes & Video Powerhouse Get Noticed & Grow Your Instagram [Fast!]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a59-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A59 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-iphone-nightscape-techniques-unlocked-for-2024/"><u>[New] IPhone Nightscape Techniques Unlocked for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>[Updated] 2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expert-guide-on-detecting-installed-exe-files/"><u>Expert Guide on Detecting Installed EXE Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-the-power-of-fisheye-photography/"><u>Harnessing the Power of Fisheye Photography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y77t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y77t Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-10-destinations-for-high-end-vectors/"><u>In 2024, Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-system-settings-with-the-environment-var-handler-during-software-installation/"><u>Modify System Settings with the Environment Var Handler During Software Installation</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-through-file-hierarchies-understanding-directory-structures/"><u>Navigating Through File Hierarchies: Understanding Directory Structures</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-mastering-the-apowermirror-application-on-your-android/"><u>Step-by-Step Guide: Mastering the ApowerMirror Application on Your Android</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-prime-list-cutting-through-the-noise-to-find-top-9-free-tools/"><u>The Prime List Cutting Through the Noise to Find Top 9 FREE Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-trending-youtubers-for-2024/"><u>The Ultimate Guide to Trending YouTubers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Managing and Modifying Plain Text Documents Online
-date: 2024-09-26T21:42:12.665Z
-updated: 2024-09-30T12:09:58.317Z
+date: 2024-10-01T20:13:07.586Z
+updated: 2024-10-05T21:19:42.161Z
 tags:
   - user-guide
 categories:
@@ -89,25 +89,32 @@ Table of Contents
 A Text File Update can be used to either create a new file with the specified content or to modify those existing using "Append" and "Search & Replace" operations. Multiple operations can be performed on the specified files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New Text File Update
 
 ![New Text File Update](https://cdn.advancedinstaller.com/img/toolbar/txt--updates-sets.png "New Text File Update")Use the \[New Text File Update \] button from the toolbar or from the context menu select the “New Text File Update” item. The [Edit Text File Update Set Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Edit Text File Update
 
 A Text File Update Set operation can be edited by pressing theEnter key while the file is selected or by double-clicking on the file. The [Edit Text File Update Set Dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will appear.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Delete Text File Update
@@ -118,22 +125,15 @@ A Text File Update file can be deleted by using the “Delete” context menu op
 
 After a Text File Update file has been defined it is possible to [**test it**](https://tools.techidaily.com/advancedinstaller/products/) and see if the operations will perform as intended.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## See Also
 
 For more in-depth information check [Using the Text File Update operation](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -174,16 +174,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>[New] In 2024, Explore the Best 15 Standout Stop-Motion Films of All Time</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-10-no-cost-video-conference-platforms-worklearn-edition/"><u>[Updated] Essential 10 No-Cost Video Conference Platforms Work/Learn Edition</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-seeking-solutions-why-no-facebook-videos-pop-up-in-2024/"><u>[Updated] Seeking Solutions Why No Facebook Videos Pop Up, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-digital-curtains-understanding-your-virtual-conversations-and-the-deceased-internet-hypothesis/"><u>Behind Digital Curtains: Understanding Your Virtual Conversations and the Deceased Internet Hypothesis</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-bootstrap-4-admin-template-for-laravel-applications-by-argon-studio/"><u>Free Bootstrap 4 Admin Template for Laravel Applications by Argon Studio</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-nodejs-admin-and-control-panel-themes-from-creativetim/"><u>Free Node.js Admin & Control Panel Themes From CreativeTim</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-battlefield-bliss-exploring-the-7-best-massive-wars/"><u>In 2024, Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/professional-vue-material-dashboard-pro-advanced-premium-vuejs-admin-layout-by-creative-tim/"><u>Professional Vue Material Dashboard Pro: Advanced Premium VueJS Admin Layout by Creative Tim</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-4-premium-free-flask-designs-from-creative-tim-a-must-see-showcase/"><u>Top 4 Premium-Free Flask Designs From Creative Tim: A Must-See Showcase</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unleash-your-brands-potential-on-igtv-with-these-top-10-tactics-for-2024/"><u>Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-steadicam-models-compatible-with-dslr-cameras-for-2024/"><u>[New] Top Steadicam Models Compatible with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>2024 Approved Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/black-friday-bonanza-learn-any-language-zero-cost/"><u>Black Friday Bonanza: Learn Any Language, Zero Cost</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/configuring-mime-settings-a-step-by-step-guide/"><u>Configuring MIME Settings - A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-14-pro-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 14 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-extended-reality-experience-makers/"><u>In 2024, Top-Tier Extended Reality Experience Makers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/most-effective-android-apps-for-designing-professional-slideshows-easily/"><u>Most Effective Android Apps for Designing Professional Slideshows Easily</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/practical-strategies-for-converting-pdfs-into-epub-format/"><u>Practical Strategies for Converting PDFs Into EPUB Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-sentence-of-science-from-online-healers-claims/"><u>Separating Sentence of Science From Online Healers' Claims</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-for-retrieving-deleted-data-from-your-samsung-smartphone-via-galaxy-data-recovery-software/"><u>Step-by-Step Tutorial for Retrieving Deleted Data From Your Samsung Smartphone via Galaxy Data Recovery Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-10-screen-capture-tools-for-windows-10-free-and-premium-options/"><u>Top 10 Screen Capture Tools for Windows 10: Free and Premium Options</u></a></li>
 </ul></div>
 

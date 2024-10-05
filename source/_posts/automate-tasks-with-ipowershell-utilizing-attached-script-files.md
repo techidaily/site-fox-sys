@@ -1,7 +1,7 @@
 ---
 title: "Automate Tasks with IPowerShell: Utilizing Attached Script Files"
-date: 2024-09-28T02:34:51.893Z
-updated: 2024-09-30T11:25:19.769Z
+date: 2024-10-02T17:53:00.961Z
+updated: 2024-10-05T16:31:22.924Z
 tags:
   - user-guide
 categories:
@@ -125,13 +125,6 @@ Table of Contents
 
 ## IPowershellAttachedScriptFile
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPowershellAttachedScriptFile : ICustomAction
@@ -141,10 +134,10 @@ IPowershellAttachedScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching an attached Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -156,10 +149,10 @@ This interface facilitates editing custom action that allows launching an attach
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -168,6 +161,13 @@ This interface facilitates editing custom action that allows launching an attach
 $project = $advinst.CreateProjectS(“architect”)
 $custAct = $project.CustomActionsComponent.NewPowershellAttachedScriptFile("D:\my_script.ps1")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set “Is32Bit” and “Is64Bit” properties to true to auto detect OS bitness PowerShell executable
 $custAct.Is32Bit = $true
 $custAct.Is64Bit = $true
@@ -175,10 +175,10 @@ $custAct.Is64Bit = $true
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -220,17 +220,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-guide-to-melodic-content-on-instagram/"><u>[New] In 2024, The Ultimate Guide to Melodic Content on Instagram</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-websites-easy-alarm-ringtone-downloads/"><u>[New] In 2024, Ultimate Websites Easy Alarm Ringtone Downloads</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-movies-from-sohu-tv-in-hd-convert-to-mp4movavi-using-our-top-video-extractor/"><u>Download Movies From Sohu TV in HD: Convert to MP4/MOV/AVI Using Our Top Video Extractor</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-mp4-conversion-guide-how-to-change-mp4-files-into-quicktime-format-on-macos-yosemite-and-windows-pcs/"><u>Efficient MP4 Conversion Guide: How to Change MP4 Files Into QuickTime Format on macOS Yosemite & Windows PCs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-access-to-cbs-content-expert-tips-for-securely-downloading-videos-on-pcs-and-macs/"><u>Effortless Access to CBS Content: Expert Tips for Securely Downloading Videos on PCs & Macs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-conversion-transform-videos-into-multiple-formats-mp4-wmv-avi-etc-for-mac-and-pc-with-viddler/"><u>Effortless Conversion: Transform Videos Into Multiple Formats (MP4, WMV, AVI, Etc.) For Mac and PC with Viddler</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-download-convert-stan-winston-educational-series-into-various-formats-mp4-wmv-mov-etc/"><u>Free Download: Convert Stan Winston Educational Series Into Various Formats (MP4, WMV, MOV, Etc.)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c67-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C67 4G Phones with/without a PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/premiere-pro-cs6-free-download-for-mac-a-comprehensive-guide-for-2024/"><u>Premiere Pro CS6 Free Download for Mac A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-se-2022-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone SE (2022)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unearth-these-quirky-overlooked-facebook-pages/"><u>[New] Unearth These Quirky, Overlooked Facebook Pages</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-your-image-picsart-bg-erasure-technique/"><u>[New] Unveiling Your Image Picsart Bg Erasure Technique</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>[Updated] In 2024, Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/affordable-alternatives-to-messaging-best-ios-apps-for-free-sms/"><u>Affordable Alternatives to Messaging: Best iOS Apps for Free SMS</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-techniques-for-pairing-a-samsung-universal-remote-to-your-televisions/"><u>Effortless Techniques for Pairing a Samsung Universal Remote to Your Televisions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-scrutiny-the-dji-inspire-1-experience-for-2024/"><u>Full Scrutiny The DJI Inspire 1 Experience for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-z-fold-5-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy Z Fold 5 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-more-fb-pings-or-sounds/"><u>No More FB Pings or Sounds</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revolutionize-your-images-using-the-innovative-ipatch-solution/"><u>Revolutionize Your Images Using the Innovative IPatch Solution</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/"><u>Top Techniques for Enhancing Photo Quality on Your iOS Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
 </ul></div>
 

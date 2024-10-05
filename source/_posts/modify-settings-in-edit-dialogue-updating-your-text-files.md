@@ -1,7 +1,7 @@
 ---
 title: "Modify Settings in Edit Dialogue: Updating Your Text Files"
-date: 2024-09-25T17:11:41.001Z
-updated: 2024-09-30T02:50:16.486Z
+date: 2024-09-28T17:16:20.593Z
+updated: 2024-10-05T21:33:56.546Z
 tags:
   - user-guide
 categories:
@@ -95,21 +95,22 @@ The main dialog interface is composed from two panels. The left side will displa
 Multiple updates can be defined. These operations will be executed on the files specified under [Global Properties](https://tools.techidaily.com/advancedinstaller/products/) in the “Include” field.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add an Append/Create operation
 
 A new append/create operation can be created by selecting\[New \] from the context menu or by pressing+ key while the left panel is focused.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Add a Search and Replace operation
 
@@ -118,22 +119,22 @@ A new Search and Replace operation can be created by selecting\[New \] from the 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Only **one** append/create operation can be declared per "Text File Update".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Rename an operation
 
 A created operation can be renamed by selecting\[Rename \] from the context menu or by pressingF2 key while the operation is selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Move Up
 
@@ -142,13 +143,6 @@ To move up the selected update operation select from the context menu the \[Move
 ### Move Down
 
 To move up the selected update operation select from the context menu the \[Move Down \] option or pressShift + Down keys when the update is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Delete
 
@@ -198,24 +192,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-tools-to-record-your-pc-screenshots/"><u>[New] 2024 Approved Premier Tools to Record Your PC Screenshots</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-art-of-rapid-tiktok-videos/"><u>[New] In 2024, Master the Art of Rapid TikTok Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-solo-stardom-in-the-podcast-universe/"><u>[New] Solo Stardom in the Podcast Universe</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-dairy-digest-complete-review-of-ice-cream-recorder-app/"><u>[Updated] 2024 Approved Dairy Digest Complete Review of Ice Cream Recorder App</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-social-media-presence-with-these-snapchat-strategies/"><u>[Updated] Elevate Your Social Media Presence with These Snapchat Strategies</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1725284807281-ai/"><u>AI技術でビデオバックグラウンド消去:最新ソフト＆アプリ使い方レポート</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/boost-your-workflow-utilize-intel-quick-sync-technology-across-dual-monitors-on-laptops/"><u>Boost Your Workflow: Utilize Intel Quick Sync Technology Across Dual Monitors on Laptops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/come-scaricare-handbrake-per-convertire-video-ed-eseguire-backup-di-dvd-tutorial-impostazioni-e-soluzioni-comuni/"><u>Come Scaricare HandBrake per Convertire Video Ed Eseguire Backup Di DVD: Tutorial, Impostazioni E Soluzioni Comuni</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-methods-to-save-video-content-from-shutterstock-for-your-desktop-systems/"><u>Easy Methods to Save Video Content From Shutterstock for Your Desktop Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-motorola-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Motorola</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-peak-hours-for-podcasts-strategic-timing/"><u>In 2024, Peak Hours for Podcasts Strategic Timing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-downloading-training-content-from-lynda-and-linkedin-learning/"><u>Step-by-Step Guide to Downloading Training Content From Lynda & LinkedIn Learning</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/superior-webcam-gear-for-podcasters-for-2024/"><u>Superior Webcam Gear for Podcasters for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-mp3-converter-software-ampassyte-fusion-compatible-with-mac-and-pc/"><u>Top MP3 Converter Software: Ampassyte Fusion - Compatible with Mac & PC</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-mp3juices-substitutes-unbeatable-options-for-both-pc-and-mac-users-by-allavsoft/"><u>Top MP3Juices Substitutes: Unbeatable Options for Both PC & Mac Users by Allavsoft</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/transferring-distrify-video-files-to-common-formats-like-mp4-mov-or-avi-for-both-windows-and-macos-systems/"><u>Transferring Distrify Video Files to Common Formats Like MP4, MOV, or AVI for Both Windows & macOS Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/turn-youtube-audio-into-high-quality-mp3flac-tracks-how-to-download-music-smoothly/"><u>Turn YouTube Audio Into High-Quality MP3/FLAC Tracks - How to Download Music Smoothly!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wickedfun-video-converter-effortless-transfers-from-wickedfun-in-mp4-mov-and-avi-formats/"><u>Wickedfun Video Converter: Effortless Transfers From Wickedfun in MP4, MOV & AVI Formats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/your-ultimate-resource-accessing-and-saving-exercise-routines-from-fitnessrxwomen-online-videos/"><u>Your Ultimate Resource: Accessing and Saving Exercise Routines From FitnessRxWomen Online Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamcatcher-pro-for-facebook-videos/"><u>[New] 2024 Approved StreamCatcher Pro for Facebook Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-fix-fixed-no-more-obs-camera-issues-for-2024/"><u>[Updated] Fix Fixed No More OBS Camera Issues for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] In 2024, Get Perfect Film Endings for Your Projects - On the House</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-faulty-corsair-audio-device-a-step-by-step-guide/"><u>Diagnosing and Repairing a Faulty Corsair Audio Device: A Step by Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-get-your-corsair-void-mic-working-again/"><u>DIY Repairs: Get Your Corsair Void Mic Working Again</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-operations-through-iserviceconfigurationmethod/"><u>Enhancing Operations Through IServiceConfigurationMethod</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-tracker-heres-how-to-disable-them/"><u>Facebook Tracker? Here's How to Disable Them</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-the-basics-your-ultimate-guide-to-playing-roblox-across-windows-and-macos/"><u>Mastering the Basics: Your Ultimate Guide to Playing Roblox Across Windows and macOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-how-to-fix-the-yakuza-3-remastered-game-crash-issue/"><u>PC Users! How to Fix the Yakuza 3 Remastered Game Crash Issue?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/strongpassword-checker-reliable-tool-for-evaluating-your-passphrase-security/"><u>StrongPassword Checker: Reliable Tool for Evaluating Your Passphrase Security</u></a></li>
+<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-walkthrough-setting-up-and-enjoying-honkai-impact-3-on-a-personal-computer/"><u>Ultimate Walkthrough: Setting Up and Enjoying Honkai Impact 3 on a Personal Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/update-component-for-itext-files-streamlined-data-processing/"><u>Update Component for iText Files: Streamlined Data Processing</u></a></li>
 </ul></div>
 

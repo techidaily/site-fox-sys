@@ -1,7 +1,7 @@
 ---
 title: "1. 'Different Writing Styles: A Comprehensive Guide'"
-date: 2024-09-27T02:53:24.360Z
-updated: 2024-09-30T04:35:21.012Z
+date: 2024-09-28T21:23:25.687Z
+updated: 2024-10-05T16:05:22.595Z
 tags:
   - user-guide
 categories:
@@ -77,22 +77,15 @@ This page allows you to create new text style or edit existing ones. You can als
 
 ![Text style](https://cdn.advancedinstaller.com/img/ui/text-style.png "Text style")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new text style
 
 Use the \[New... \], the “New...” context menu item or press the Ins while the list is focused. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new style. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a text style
@@ -100,25 +93,32 @@ Use the \[New... \], the “New...” context menu item or press the Ins while t
 Use the \[Edit... \], the “Edit...” context menu item or press theSpace while an element is selected. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a text style. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a text style
 
 Use the \[Remove \] button, the “Remove” context menu item or press theDel while an element is focused. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setting the default style
 
 Use the \[Set Default \] button or the “Set Default” context menu item while the desired style is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -159,15 +159,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>[New] Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-monthly-income-on-youtubes-revenue-model-for-2024/"><u>[Updated] Monthly Income on YouTube's Revenue Model for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-secrets-unveiled-cost-free-techniques-to-extract-videos-from-56com/"><u>1. Secrets Unveiled: Cost-Free Techniques to Extract Videos From 56.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1upcom-media-extractor-save-videos-and-shows-as-mp4avi-files-from-1upcom/"><u>1Up.com Media Extractor: Save Videos & Shows as MP4/AVI Files From 1UP.com</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-metaverse-memetic-mastery-tips-for-aspiring-content-creators/"><u>2024 Approved Metaverse Memetic Mastery Tips for Aspiring Content Creators</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/alternative-fixes-overcome-issues-with-jaksta-software-on-macos-and-windows-systems/"><u>Alternative Fixes: Overcome Issues with Jaksta Software on macOS and Windows Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/extended-physical-action-survey/"><u>Extended Physical Action Survey</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone X Apple ID on MacBook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/master-artistic-freedom-with-the-top-10-mac-drawings-for-2024/"><u>Master Artistic Freedom with the Top 10 Mac Drawings for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solve-your-downloading-woes-with-ease-top-vdownloader-fix-and-best-alternatives-for-pc-and-mac/"><u>Solve Your Downloading Woes with Ease: Top Vdownloader Fix & Best Alternatives for PC and Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevating-your-live-experience-with-recorded-content/"><u>[New] In 2024, Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems-for-2024/"><u>[Updated] Unveiling the World of Haptic Navigation Systems for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevating-ppt-impact-through-high-quality-recordings/"><u>2024 Approved Elevating PPT Impact Through High-Quality Recordings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>2024 Approved Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-editions-unbiased-blu-ray-player-titles-for-pcmac/"><u>Elite Editions Unbiased Blu-Ray Player Titles for PC/Mac</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-disconnects-ensuring-uninterrupted-gameplay-in-halo-3-for-your-computer/"><u>No More Disconnects: Ensuring Uninterrupted Gameplay in Halo 3 for Your Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sample SQL Commands for Database Management Professionals
-date: 2024-09-26T21:55:37.907Z
-updated: 2024-09-30T07:18:58.021Z
+date: 2024-09-30T20:51:51.274Z
+updated: 2024-10-05T16:01:32.081Z
 tags:
   - user-guide
 categories:
@@ -82,11 +82,25 @@ Table of Contents
 
 The SQL Query result sets can be either **generic** (multiple rows, multiple columns), **vertical** (multiple rows, 1 column) or **horizontal** (1 row, multiple columns).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generic example
 
 Assuming the following binding properties set for the SQL query:
 
 ![Data Binding](https://cdn.advancedinstaller.com/img/howto/add-sql-query/data-binding.png "Data Binding")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The data binding set should match the query result set so in this case, we'll have the following result set:
 
@@ -106,10 +120,10 @@ Assuming the following binding properties set for the SQL query:
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Before deploying the new result set, the previous binding content will be cleared.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Vertical example
@@ -120,22 +134,15 @@ Assuming the following binding properties set for the SQL query:
 | **ROW\_2** | VAL\_2A |
 | **ROW\_3** | VAL\_3A |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Results
 
 * any ListBox or ComboBox that have the associated property namedCOL\_A\_PROP will be populated withVAL\_1A, VAL\_2A,VAL\_3A.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Horizontal example
@@ -143,13 +150,6 @@ Assuming the following binding properties set for the SQL query:
 | **COL\_A** | **COL\_B** | **COL\_C** |         |
 | ---------- | ---------- | ---------- | ------- |
 | **ROW\_1** | VAL\_1A    | VAL\_1B    | VAL\_1C |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Results
 
@@ -190,22 +190,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-refining-your-digital-footprint-editing-the-look-back-feature/"><u>[New] Refining Your Digital Footprint Editing the Look Back Feature</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-next-generation-of-mac-video-capture-software-not-bandicam-for-2024/"><u>[New] The Next Generation of Mac Video Capture Software (Not Bandicam) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-overcoming-missed-frames-in-real-time-streaming-for-2024/"><u>[Updated] Overcoming Missed Frames in Real-Time Streaming for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/defying-the-odds-how-enthusiasts-successfully-upgraded-their-vintage-pcs-to-windows-11-despite-microsofts-restrictions-insights-from-zdnet/"><u>Defying the Odds: How Enthusiasts Successfully Upgraded Their Vintage PCs to Windows 11 Despite Microsoft's Restrictions - Insights From ZDNet</u></a></li>
-<li><a href="https://win-forum.techidaily.com/demystifying-bios-using-the-power-of-revo-uninstaller/"><u>Demystifying BIOS Using the Power of Revo Uninstaller</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
-<li><a href="https://video-capture.techidaily.com/hassle-free-disc-conversion-tools-watch-your-dvds-freely-everywhere/"><u>Hassle-Free Disc Conversion Tools: Watch Your DVDs Freely, Everywhere!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-export-youtube-content-in-mp4-or-avi-format-for-windows-and-macos-users/"><u>How to Export YouTube Content in MP4 or AVI Format for Windows and macOS Users</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-save-youtube-videos-for-later-viewing-directly-on-your-playstation-3/"><u>How to Save YouTube Videos for Later Viewing Directly on Your PlayStation 3</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/la7tv-downloading-guide-convert-videos-to-avi-ts-and-more/"><u>La7.tv Downloading Guide: Convert Videos to AVI, TS, and More</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/peekvids-file-saver-effortless-conversion-and-download-of-videos-as-mp4-mov-or-avi/"><u>PeekVids File Saver: Effortless Conversion and Download of Videos as MP4, MOV, or AVI</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-resolving-installation-fails-in-discord/"><u>The Ultimate Guide for Resolving Installation Fails in Discord</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-mp3-converter-software-ampassyte-fusion-compatible-with-mac-and-pc/"><u>Top MP3 Converter Software: Ampassyte Fusion - Compatible with Mac & PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-easy-free-the-top-choices-for-onsite-gif-to-video-changes/"><u>[New] Fast, Easy, Free The Top Choices for Onsite GIF to Video Changes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-maximize-visibility-a-guide-to-constructing-youtube-backlinks/"><u>[Updated] Maximize Visibility A Guide to Constructing YouTube Backlinks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137627863-50-ransomware-fix-with-smartphone-hacks-plus-how-chatgpt-is-shaping-our-podcast-conversations-today/"><u>$50 Ransomware Fix with Smartphone Hacks - Plus, How ChatGPT Is Shaping Our Podcast Conversations Today</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-guide-modifying-user-input-through-conditional-level-conversations/"><u>Advanced Guide: Modifying User Input Through Conditional-Level Conversations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-folder-tab-glitches-in-windows-11/"><u>Conquering Folder Tab Glitches in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-two-dimensions-techniques-for-3d-text-in-illustrator-for-2024/"><u>From Two-Dimensions Techniques for 3D Text in Illustrator for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-on-your-samsung-tablet/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents on Your Samsung Tablet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-flash-7-proven-methods-to-fix-a-shimmering-mobile-device-display/"><u>Stop the Flash: 7 Proven Methods to Fix a Shimmering Mobile Device Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-for-effective-use-of-the-tracert-command-on-windows-pcs/"><u>The Ultimate Walkthrough for Effective Use of the Tracert Command on Windows PCs</u></a></li>
 </ul></div>
 
