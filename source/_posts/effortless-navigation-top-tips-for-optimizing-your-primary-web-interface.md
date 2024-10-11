@@ -1,7 +1,7 @@
 ---
 title: "Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface"
-date: 2024-10-01T21:34:41.552Z
-updated: 2024-10-05T16:14:04.344Z
+date: 2024-10-04T16:47:40.251Z
+updated: 2024-10-11T05:03:19.064Z
 tags:
   - user-guide
 categories:
@@ -103,6 +103,19 @@ Import:
 
 ![Start Page](https://cdn.advancedinstaller.com/img/dialog/start-page.png "Start Page")  
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Actions
 
 If you need help use the F1 keyboard shortcut.
@@ -110,13 +123,6 @@ If you need help use the F1 keyboard shortcut.
 ### Creating a new project
 
 Select a project type and press \[Create Project \] or double click on a project type.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Opening a recent or existing project
 
@@ -128,18 +134,25 @@ Enabling "Automatically load most recent project" option skips the Start Page ne
 
 If a project is already open, press the \[Back to project \] button.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Message Center
 
 The Message Center keeps you up-to-date with the latest news from Advanced Installer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Options
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the wizard to create the project
 
@@ -148,10 +161,10 @@ Enable this option if you want to create the project using a wizard. More inform
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Not all project templates support disabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Language
@@ -159,13 +172,6 @@ Enable this option if you want to create the project using a wizard. More inform
 Here you can select the language in which the project is created. Additional build languages can be specified later in the [Languages Tab](https://tools.techidaily.com/advancedinstaller/products/) tab, on the[Translation page](https://tools.techidaily.com/advancedinstaller/products/). By default, the drop-down list contains only the languages for which translation dictionaries are registered in Advanced Installer. Additional dictionaries can also be added from this page.
 
 To select a language which doesn't have a translation dictionary, use the “More...” option from the drop-down list to bring up the [Select Language Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -229,21 +235,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-iphone-nightscape-techniques-unlocked-for-2024/"><u>[New] IPhone Nightscape Techniques Unlocked for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>[Updated] 2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-guide-on-detecting-installed-exe-files/"><u>Expert Guide on Detecting Installed EXE Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harnessing-the-power-of-fisheye-photography/"><u>Harnessing the Power of Fisheye Photography</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y77t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y77t Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-top-10-destinations-for-high-end-vectors/"><u>In 2024, Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/modify-system-settings-with-the-environment-var-handler-during-software-installation/"><u>Modify System Settings with the Environment Var Handler During Software Installation</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-through-file-hierarchies-understanding-directory-structures/"><u>Navigating Through File Hierarchies: Understanding Directory Structures</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-mastering-the-apowermirror-application-on-your-android/"><u>Step-by-Step Guide: Mastering the ApowerMirror Application on Your Android</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-prime-list-cutting-through-the-noise-to-find-top-9-free-tools/"><u>The Prime List Cutting Through the Noise to Find Top 9 FREE Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-trending-youtubers-for-2024/"><u>The Ultimate Guide to Trending YouTubers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cinematic-clips-reviewed-best-in-the-business/"><u>[New] In 2024, Cinematic Clips Reviewed Best in the Business</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>[Updated] In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-chroma-spectrum-now-crystal-clear-on-4k/"><u>2024 Approved The Ultimate Chroma Spectrum, Now Crystal Clear on 4K</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/achieving-perfect-silence-swaps-with-reaper-for-2024/"><u>Achieving Perfect Silence Swaps with Reaper for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/automate-tasks-with-ipowershell-utilizing-attached-script-files/"><u>Automate Tasks with IPowerShell: Utilizing Attached Script Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-file-management-techniques-using-ifolder-operations/"><u>Efficient File Management Techniques Using iFolder Operations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hydroclear-scan-reliable-soundproofing-capacity/"><u>HydroClear Scan: Reliable Soundproofing Capacity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/lut-lovers-delight-complimentary-sets-for-djis-miniair2-for-2024/"><u>LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2 for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-love-fantasies-compatibility-and-narratives-for-pc-gaming/"><u>Mastering Love Fantasies: Compatibility and Narratives for PC Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-windows-safescreen-state-against-user-tweaks/"><u>Protecting Windows SafeScreen State Against User Tweaks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
 </ul></div>
 

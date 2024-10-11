@@ -1,7 +1,7 @@
 ---
 title: Enhancing IATTAINED DLL Function Calls with Custom Actions
-date: 2024-10-04T18:12:01.373Z
-updated: 2024-10-05T17:15:28.228Z
+date: 2024-10-09T16:43:54.995Z
+updated: 2024-10-10T21:48:29.992Z
 tags:
   - user-guide
 categories:
@@ -126,16 +126,10 @@ Table of Contents
 ## IAttachedDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -143,10 +137,10 @@ Table of Contents
 IAttachedDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -162,10 +156,10 @@ This interface facilitates editing custom action for calling function from attac
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Example
@@ -178,10 +172,10 @@ $custAct.FunctionName = "MyFunction1"
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -223,22 +217,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-your-instagram-business-blueprint/"><u>[New] 2024 Approved Crafting Your Instagram Business Blueprint</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-initiate-social-media-exploration-with-a-new-twitter/"><u>[New] In 2024, Initiate Social Media Exploration with a New Twitter</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-different-writing-styles-a-comprehensive-guide/"><u>1. 'Different Writing Styles: A Comprehensive Guide'</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-top-camstudio-substitutes-enhancing-your-recording-experience/"><u>1. Top CamStudio Substitutes: Enhancing Your Recording Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sound-choices-essential-downloads-guide/"><u>2024 Approved Best Sound Choices Essential Downloads Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-apex-legends-engine-woes-effective-fixes-and-tips-for-an-uninterrupted-gaming-experience/"><u>Beat Apex Legends' Engine Woes: Effective Fixes and Tips for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-navigation-top-tips-for-optimizing-your-primary-web-interface/"><u>Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-nokia-c12-plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Nokia C12 Plus</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>In 2024, Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-inventory-tracking-understanding-your-iproductcode/"><u>Mastering Inventory Tracking: Understanding Your IProductCode</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/monetizing-with-youtube-avg-revenue-from-an-ad/"><u>Monetizing with Youtube Avg Revenue From An Ad?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimal-strategies-for-irs-validation-in-seo-tactics/"><u>Optimal Strategies for IRS Validation in SEO Tactics</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-apoweredit-user-guide-unleash-your-editing-potential/"><u>Step-by-Step ApowerEdit User Guide - Unleash Your Editing Potential</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-customizing-event-map-interfaces-for-seamless-workshops/"><u>Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/total-mastery-of-powerdirector-with-our-review-and-guide-for-2024/"><u>Total Mastery of PowerDirector with Our Review & Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-change-snapchat-voice-in-minutes-using-twin-methods/"><u>[New] 2024 Approved Change Snapchat Voice in Minutes Using Twin Methods</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximizing-view-count-faster-discover-the-most-effective-shortcuts/"><u>[New] Maximizing View Count Faster Discover the Most Effective Shortcuts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-engaging-local-audiences-with-social-media-videos-for-2024/"><u>[Updated] Engaging Local Audiences with Social Media Videos for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-tiktok-a-mac-users-quickstart-list/"><u>[Updated] In 2024, Mastering TikTok A Mac User's Quickstart List</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tunefab-screen-recorder-review/"><u>[Updated] In 2024, Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-27-significant-metaverse-demonstrations-unveiled/"><u>2024 Approved 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-professional-window-capturer-version-11/"><u>2024 Approved Professional Window Capturer - Version 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-guide-modifying-user-input-through-conditional-level-conversations/"><u>Advanced Guide: Modifying User Input Through Conditional-Level Conversations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/can-you-rely-on-windows-defender-for-adequate-malware-and-threat-protection/"><u>Can You Rely on Windows Defender For Adequate Malware and Threat Protection?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/diverse-strategies-for-creating-effective-add-ins/"><u>Diverse Strategies for Creating Effective Add-Ins</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-methods-to-transform-mkv-videos-into-wmv-file-type/"><u>Easy Methods to Transform MKV Videos Into WMV File Type</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhance-sound-organization-leading-android-apps-for-effortless-music-handling/"><u>Enhance Sound Organization: Leading Android Apps for Effortless Music Handling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A25 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrating-executable-files-a-guide-to-crafting-tailored-system-events/"><u>Integrating Executable Files: A Guide to Crafting Tailored System Events</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-on-your-samsung-tablet/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents on Your Samsung Tablet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
 </ul></div>
 

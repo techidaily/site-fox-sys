@@ -1,7 +1,7 @@
 ---
 title: "1. 'Different Writing Styles: A Comprehensive Guide'"
-date: 2024-09-28T21:23:25.687Z
-updated: 2024-10-05T16:05:22.595Z
+date: 2024-10-08T21:26:34.292Z
+updated: 2024-10-11T04:02:00.915Z
 tags:
   - user-guide
 categories:
@@ -77,15 +77,22 @@ This page allows you to create new text style or edit existing ones. You can als
 
 ![Text style](https://cdn.advancedinstaller.com/img/ui/text-style.png "Text style")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creating a new text style
 
 Use the \[New... \], the “New...” context menu item or press the Ins while the list is focused. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new style. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing a text style
@@ -93,10 +100,10 @@ Use the \[New... \], the “New...” context menu item or press the Ins while t
 Use the \[Edit... \], the “Edit...” context menu item or press theSpace while an element is selected. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a text style. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing a text style
@@ -104,22 +111,21 @@ Use the \[Edit... \], the “Edit...” context menu item or press theSpace whil
 Use the \[Remove \] button, the “Remove” context menu item or press theDel while an element is focused. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting the default style
 
 Use the \[Set Default \] button or the “Set Default” context menu item while the desired style is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -159,24 +165,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevating-your-live-experience-with-recorded-content/"><u>[New] In 2024, Elevating Your Live Experience with Recorded Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems-for-2024/"><u>[Updated] Unveiling the World of Haptic Navigation Systems for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevating-ppt-impact-through-high-quality-recordings/"><u>2024 Approved Elevating PPT Impact Through High-Quality Recordings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>2024 Approved Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://article-files.techidaily.com/elite-editions-unbiased-blu-ray-player-titles-for-pcmac/"><u>Elite Editions Unbiased Blu-Ray Player Titles for PC/Mac</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-disconnects-ensuring-uninterrupted-gameplay-in-halo-3-for-your-computer/"><u>No More Disconnects: Ensuring Uninterrupted Gameplay in Halo 3 for Your Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secrets-unveiled-saving-twitter-gifs-for-later-use/"><u>[New] Secrets Unveiled Saving Twitter GIFs for Later Use</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>[Updated] 2024 Approved Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-5-pinnacle-clippers-for-your-mac-experience-for-2024/"><u>[Updated] 5 Pinnacle Clippers for Your Mac Experience for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unseen-fb-video-tactics-unlock-all-sharing-options/"><u>[Updated] In 2024, Unseen FB Video Tactics Unlock All Sharing Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-secrets-of-inshot-editing-excellence/"><u>[Updated] Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-guide-to-iphone-x-animoji-mastery/"><u>2024 Approved Revolutionary Guide to iPhone X Animoji Mastery</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-techniques-in-sql-command-swap-windows-streamlining-database-operations/"><u>Advanced Techniques in SQL Command Swap Windows: Streamlining Database Operations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/confrontation-of-dusk-defender-and-dawn-protector/"><u>Confrontation of Dusk Defender and Dawn Protector</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-methods-to-eliminate-ransomware-from-your-windows-computer-a-step-by-step-guide/"><u>Effective Methods to Eliminate Ransomware From Your Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-ace-2v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Ace 2V Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-incorporate-an-exe-file-into-your-personalized-events-setup/"><u>How to Incorporate an Exe File Into Your Personalized Events Setup</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-se-2020-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone SE (2020) to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-p40-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel P40 FRP</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-strategies-for-effective-website-pages-creation/"><u>Innovative Strategies for Effective Website Pages Creation</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-background-replacement-in-images-using-advanced-photo-editors/"><u>Mastering Background Replacement in Images Using Advanced Photo Editors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/prevent-access-breaches-without-a-key-mastering-anti-hijack-measures-with-malwarefox-insights/"><u>Prevent Access Breaches Without a Key: Mastering Anti-Hijack Measures with MalwareFox Insights</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/speedy-solutions-top-tips-for-accelerating-your-android-smartphone/"><u>Speedy Solutions: Top Tips for Accelerating Your Android Smartphone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-alternatives-to-soundcloud-discover-the-best-music-sharing-platforms/"><u>Top Alternatives to Soundcloud: Discover the Best Music Sharing Platforms</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-apps-that-blend-audio-with-visuals-the-leading-selections/"><u>Ultimate Guide to Choosing Apps That Blend Audio with Visuals: The Leading Selections</u></a></li>
 </ul></div>
 

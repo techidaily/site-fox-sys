@@ -1,7 +1,7 @@
 ---
 title: "Mastering Inventory Tracking: Understanding Your IProductCode"
-date: 2024-09-28T20:28:56.869Z
-updated: 2024-10-05T16:51:27.328Z
+date: 2024-10-03T18:18:58.841Z
+updated: 2024-10-10T17:41:38.104Z
 tags:
   - user-guide
 categories:
@@ -110,21 +110,22 @@ Table of Contents
 
 This interface is meant to edit the [“Product Code”](https://tools.techidaily.com/advancedinstaller/products/) for specific languages present in the project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
  IProductCode: IDispatch 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -150,19 +151,6 @@ Generates a new product code for all languages in the project.
 **PrintProductCodes()** returns ProductCodes   
  Returns a string with all the product codes and the corresponding languages.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples
 
 $advinst = new-object -comObject "AdvancedInstaller"
@@ -172,26 +160,19 @@ $proj    = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 $proj.ProductDetails.ProductCode.GenerateAll()
 $new_prodCode = $proj.ProductDetails.ProductCode.GetProductCode()
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## generate upgrade code
 $upgradeCode     = $proj.ProductDetails.UpgradeCode.UpgradeCode
 $new_upgradeCode = $proj.ProductDetails.UpgradeCode.GenerateUpgradeCode()
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## load a project with multiple languages
 $projPath = "C:\Tests\Powershell COM\multi-language.aip" 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## generate different product codes for each language
 $projPath.ProductDetails.ProductCode.SetDifferentValues()
@@ -203,6 +184,13 @@ $pc_tr = $projPath.ProductDetails.ProductCode.GetProductCode(1055)
 $pc_de = $projPath.ProductDetails.ProductCode.GetProductCode(1031)
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -245,24 +233,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ccelerate-channels-youtubes-top-collaborative-growth-tips-for-2024/"><u>[New] Accelerate Channels YouTube's Top Collaborative Growth Tips for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-virtual-universes-clash-metaverse-vs-multiverse/"><u>[New] In 2024, Virtual Universes Clash Metaverse V/S Multiverse</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>[Updated] Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-music-visualizer-apps-of-2020-top-7-picks-for-immersive-audio-experience/"><u>Best Music Visualizer Apps of 2020: Top 7 Picks for Immersive Audio Experience</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-step-by-step-instructions-capturing-screenshots-on-your-windows-8-system/"><u>Complete Step-by-Step Instructions: Capturing Screenshots on Your Windows 8 System</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/different-techniques-for-taking-pictures-of-your-desktop-display/"><u>Different Techniques for Taking Pictures of Your Desktop Display</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-techniques-to-transform-videos-for-macos-mavericks-users/"><u>Easy Techniques to Transform Videos for macOS Mavericks Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/error-resolved-how-to-address-and-prevent-404-pages-on-your-site/"><u>Error Resolved: How to Address & Prevent 404 Pages on Your Site</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/individual-user-license-plans-tailored-access-solutions/"><u>Individual User License Plans: Tailored Access Solutions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/integrating-seamlessly-into-tiktok-lives-a-blueprint/"><u>Integrating Seamlessly Into TikTok Lives A Blueprint</u></a></li>
-<li><a href="https://discover-great.techidaily.com/live-streaming-mastery-top-picks-in-manycam-software-and-virtual-camera-solutions/"><u>Live Streaming Mastery: Top Picks in ManyCam Software and Virtual Camera Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-virtual-greeting-cards-top-picks-for-web-based-design-software-with-complete-beginners-guide/"><u>Mastering Virtual Greeting Cards: Top Picks for Web-Based Design Software with Complete Beginner's Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-the-world-of-sound-effects-in-youtube-videos-for-2024/"><u>Navigating the World of Sound Effects in YouTube Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-studio-vs-fraps-which-is-a-better-screen-capture-software-in-2024/"><u>OBS Studio vs Fraps – Which Is A Better Screen Capture Software, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-ignored-usb-expert-advice-on-making-it-work-again/"><u>Revive Your Ignored USB: Expert Advice on Making It Work Again</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solving-the-issue-why-cant-my-iphone-play-apple-music-and-how-to-get-it-working/"><u>Solving the Issue: Why Can't My iPhone Play Apple Music and How To Get It Working?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-ultimate-tutorial-on-crafting-a-captivating-book-trailer-to-boost-your-sales/"><u>The Ultimate Tutorial on Crafting a Captivating Book Trailer to Boost Your Sales</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-3-methods-for-converting-pdf-files-into-microsoft-word-format-on-pc/"><u>Top 3 Methods for Converting PDF Files Into Microsoft Word Format on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gimbal-mastery-7-drone-pros-recommended/"><u>[New] Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks/"><u>[New] In 2024, Craft a Masterpiece Techniques for Engaging, Viral TikTok Unpacks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[Updated] In 2024, A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-testimonial-videos-the-social-proof-powerhouse/"><u>2024 Approved Testimonial Videos The Social Proof Powerhouse</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-software-for-your-canon-pixma-mg2520mg2530-printers/"><u>Get the Newest Software for Your Canon PIXMA MG2520/MG2530 Printers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-redesigning-the-perception-of-sony-s3700-review/"><u>In 2024, Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-android-connectivity-discover-the-best-3-techniques-for-controlling-one-android-with-another/"><u>Mastering Android Connectivity: Discover the Best 3 Techniques for Controlling One Android with Another</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/quickcapture-5000-chrome-os-recording-pro/"><u>QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
 </ul></div>
 

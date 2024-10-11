@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to ICOM Type Libraries: Streamline Your Data Management"
-date: 2024-10-02T17:15:18.271Z
-updated: 2024-10-05T20:02:40.737Z
+date: 2024-10-07T03:14:16.843Z
+updated: 2024-10-11T00:36:28.302Z
 tags:
   - user-guide
 categories:
@@ -114,15 +114,28 @@ Table of Contents
 
 ## IComTypeLibrary
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IComTypeLibrary: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -130,10 +143,10 @@ IComTypeLibrary: IDispatch
 This interface is meant to allow you to specify the information that will be placed in the registry during the Type Library's registration process.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -154,10 +167,10 @@ This interface is meant to allow you to specify the information that will be pla
 Supported values: HKEY\_CLASSES\_ROOT\\TypeLib, HKEY\_CURRENT\_USER\\Software\\Classes\\TypeLib, HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Classes\\TypeLib, HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Wow6432Node\\Classes\\TypeLib.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -233,13 +246,6 @@ Supported values: HKEY\_CLASSES\_ROOT\\TypeLib, HKEY\_CURRENT\_USER\\Software\\C
 
     Copy
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## See also
 
 [IComComponent](https://tools.techidaily.com/advancedinstaller/products/)
@@ -277,18 +283,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-content-strategy-with-social-blade-and-youtube-stats/"><u>[New] In 2024, Elevate Your Content Strategy with Social Blade and YouTube Stats</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-the-depths-of-screen-recording-software/"><u>[Updated] 2024 Approved Exploring the Depths of Screen Recording Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-pip-in-chrome-for-every-os/"><u>2024 Approved Navigating PIP in Chrome for Every OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cutting-down-on-wait-time-how-to-speed-up-fallout-n-load-times-effectively/"><u>Cutting Down on Wait Time: How to Speed Up Fallout N Load Times Effectively</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-display-drivers-for-your-windows-1178-systems-today/"><u>Get the Newest Nvidia Display Drivers for Your Windows 11/7/8 Systems Today</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience-for-2024/"><u>The Ultimate Monitor List for an Immersive Xbox Series X Experience for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-for-securely-acquiring-mx-player-app-on-windows-operating-systems-including-windows-11108187/"><u>Ultimate Tutorial for Securely Acquiring MX Player App on Windows Operating Systems Including Windows 11/10/8.1/8/7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-6-superior-alternatives-to-photoshop-that-wont-cost-you-a-penny/"><u>Unveiling 6 Superior Alternatives to Photoshop That Won't Cost You a Penny</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-essentials-of-youtube-mastery-free-online-course-series/"><u>[New] 2024 Approved Essentials of YouTube Mastery Free Online Course Series</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamtech-analysis-rethinking-the-standard-choice/"><u>[New] 2024 Approved Streamtech Analysis Rethinking the Standard Choice</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-discover-top-10-flv-to-youtube-conversion-tools-for-2024/"><u>[New] Discover Top 10 Flv-to-YouTube Conversion Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-potential-in-online-collaboration-using-snap-photography/"><u>[New] In 2024, Unleash Potential in Online Collaboration Using Snap Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-triple-caption-magic-for-compelling-ig-videographies-for-2024/"><u>[New] Triple Caption Magic for Compelling IG Videographies for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8/"><u>[Updated] Artful Animation of Adventures Exploring the Top 8 Narrative Universities (Top 8)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-converter-convert-twitter-video-to-audiomp4webm-for-2024/"><u>[Updated] Twitter Video Converter | Convert Twitter Video to Audio/MP4/WebM for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-methods-to-eliminate-ransomware-from-your-windows-computer-a-step-by-step-guide/"><u>Effective Methods to Eliminate Ransomware From Your Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/essential-functions-understanding-windows-server-capabilities/"><u>Essential Functions: Understanding Windows Server Capabilities</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-incorporate-an-exe-file-into-your-personalized-events-setup/"><u>How to Incorporate an Exe File Into Your Personalized Events Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-quickly-solve-missing-mscorwksdll-errors-on-your-computer-best-practices/"><u>How to Quickly Solve Missing mscorwks.dll Errors on Your Computer – Best Practices</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-background-replacement-in-images-using-advanced-photo-editors/"><u>Mastering Background Replacement in Images Using Advanced Photo Editors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-screenshots-on-asus-zenphone-devices-zenfone-2-4-5-and/"><u>Mastering the Art of Screenshots on ASUS ZenPhone Devices (Zenfone 2, 4, 5 & 지)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/scopri-gli-11-migliori-siti-internet-per-la-vista-dei-tv-lcd-senza-costi-un-confronto-esauriente/"><u>Scopri Gli 11 Migliori Siti Internet per La Vista Dei TV LCD Senza Costi: Un Confronto Esauriente</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/speedy-solutions-top-tips-for-accelerating-your-android-smartphone/"><u>Speedy Solutions: Top Tips for Accelerating Your Android Smartphone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-transferring-data-from-huawei-nova-9-to-your-personal-computer/"><u>Step-by-Step Guide: Transferring Data From Huawei Nova 9 to Your Personal Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-apps-that-blend-audio-with-visuals-the-leading-selections/"><u>Ultimate Guide to Choosing Apps That Blend Audio with Visuals: The Leading Selections</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-resetting-a-forgotten-code-on-your-apple-device/"><u>Unlock the Secrets of Resetting a Forgotten Code on Your Apple Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wifi-and-ransomware-how-secure-are-you-and-what-might-shock-you-to-find-out/"><u>WiFi and Ransomware: How Secure Are You, And What Might Shock You to Find Out!</u></a></li>
 </ul></div>
 

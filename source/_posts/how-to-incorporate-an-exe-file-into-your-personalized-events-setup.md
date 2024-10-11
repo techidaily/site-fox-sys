@@ -1,7 +1,7 @@
 ---
 title: How to Incorporate an Exe File Into Your Personalized Events Setup
-date: 2024-09-29T17:59:40.341Z
-updated: 2024-10-05T21:06:40.712Z
+date: 2024-10-08T20:02:44.100Z
+updated: 2024-10-11T06:17:49.412Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,10 @@ Table of Contents
 ## Add an executable file as a custom event
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
@@ -102,10 +102,10 @@ An EXE file is an executable program you can run in Microsoft Windows. It's made
 The binary machine code in the EXE communicates directly with the computer, instructing the central processing unit on how to run a program. The processor then commands the computer's hardware what to do.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add an EXE file as an event
@@ -115,10 +115,10 @@ It is possible to create an event based on an EXE file you created. Depending on
 ![Exe file event](https://cdn.advancedinstaller.com/img/dialog/exe-file-event.png "Exe file event")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This event is equivalent to running the sample.exe param1 param2 prior or post-build time depending on how you created the event.
@@ -126,10 +126,10 @@ This event is equivalent to running the sample.exe param1 param2 prior or post-b
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)In case your script doesn't require command line arguments leave the "Arguments" field blank.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,24 +165,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-designing-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>[New] 2024 Approved Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-moto-z2-unpacked-a-smartphones-triumph/"><u>[New] 2024 Approved Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimize-engagement-and-analytics-harnessing-tubebuddys-insights/"><u>[Updated] Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-file-management-techniques-using-ifolder-operations/"><u>Efficient File Management Techniques Using iFolder Operations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-tips-for-youtube-edits-with-sony-vegas/"><u>Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exclusive-oculus-quest-2-elite-gaming-headset-straps-extra-battery-and-protective-case-unboxed/"><u>Exclusive Oculus Quest 2 Elite Gaming Headset - Straps, Extra Battery & Protective Case Unboxed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-razr-40-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Razr 40 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-reels-rhythm-mixing-in-musical-elements/"><u>Instagram Reels Rhythm Mixing in Musical Elements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instagrams-algorithm-unlocked-optimizing-your-reels/"><u>Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-to-change-m4a-audio-files-into-ringtone-format-m4r-using-a-reliable-file-converter/"><u>Simple Steps to Change M4A Audio Files Into Ringtone Format (M4R) Using a Reliable File Converter</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-capturing-flawless-footage-premium-pcmac-options-reviewed/"><u>[Updated] 2024 Approved Capturing Flawless Footage Premium PC/Mac Options Reviewed</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-transform-your-live-broadcasting-skills-using-dslr-on-personal-computers/"><u>[Updated] In 2024, Transform Your Live Broadcasting Skills Using DSLR on Personal Computers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-transition-timings-in-premiere-audio/"><u>2024 Approved Perfecting Transition Timings in Premiere Audio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285503711-avchdtsmovaviwmvflv/"><u>全サポート動画フォーマットの変換技術＆方法：AVCHD、TS、MOV、AVI、WMV、FLV対応コンバータ</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charming-cyberspace-ai-for-romance-fraud/"><u>Charming Cyberspace: AI for Romance Fraud</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-techniques-for-eliminating-shadows-in-photographs/"><u>Effective Techniques for Eliminating Shadows in Photographs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x8b-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor X8b?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-z-flip-5-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy Z Flip 5 Phone without Google Account?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-update-your-tiktok-avatar-a-2022-guide/"><u>Simple Steps to Update Your TikTok Avatar: A 2022 Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
 </ul></div>
 

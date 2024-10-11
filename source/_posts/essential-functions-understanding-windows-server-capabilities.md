@@ -1,7 +1,7 @@
 ---
 title: "Essential Functions: Understanding Windows Server Capabilities"
-date: 2024-09-29T18:46:21.589Z
-updated: 2024-10-05T18:26:10.447Z
+date: 2024-10-04T17:38:13.901Z
+updated: 2024-10-11T00:25:09.410Z
 tags:
   - user-guide
 categories:
@@ -81,13 +81,20 @@ Table of Contents
 
 ![Windows Server Roles](https://cdn.advancedinstaller.com/img/dialog/windows-server-roles.png "Windows Server Roles")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Role Installation
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
@@ -95,10 +102,10 @@ Table of Contents
 The standard role identifier. This field is read-only.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Condition
@@ -106,10 +113,10 @@ The standard role identifier. This field is read-only.
 The role will be installed only if the condition is resolved to TRUE.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Role Services
@@ -117,13 +124,6 @@ The role will be installed only if the condition is resolved to TRUE.
 In this section, you can add extra services for the role. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)There is no need to manually handle Server Role Service dependencies. They will be automatically handled (enabled) during installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -158,24 +158,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-gionee-f3-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Gionee F3 Pro.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-how-to-move-your-entire-spotify-library-over-to-apple-music/"><u>Complete Guide: How to Move Your Entire Spotify Library Over to Apple Music</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958987997-drivers-for-hp-download-and-install-easily/"><u>Drivers for HP Download & Install EASILY</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-operations-through-iserviceconfigurationmethod/"><u>Enhancing Operations Through IServiceConfigurationMethod</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-message-alert-how-to-fix-usb-not-installing-due-to-access-is-denied/"><u>Error Message Alert! How to Fix USB Not Installing Due To Access Is Denied</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-basics-your-ultimate-guide-to-playing-roblox-across-windows-and-macos/"><u>Mastering the Basics: Your Ultimate Guide to Playing Roblox Across Windows and macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlight-solutions-best-for-video-illumination/"><u>Streamlight Solutions Best for Video Illumination</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/strongpassword-checker-reliable-tool-for-evaluating-your-passphrase-security/"><u>StrongPassword Checker: Reliable Tool for Evaluating Your Passphrase Security</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a59-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A59 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-for-resolving-audio-services-failed-on-windows-11/"><u>Top Solutions for Resolving 'Audio Services Failed' On Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-surface-pro-7s-flashing-display/"><u>Troubleshoot Surface Pro 7'S Flashing Display</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-walkthrough-setting-up-and-enjoying-honkai-impact-3-on-a-personal-computer/"><u>Ultimate Walkthrough: Setting Up and Enjoying Honkai Impact 3 on a Personal Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creative-control-over-images/"><u>Unleash Creative Control Over Images</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/update-component-for-itext-files-streamlined-data-processing/"><u>Update Component for iText Files: Streamlined Data Processing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] 2024 Approved Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-choose-your-perfect-wedding-tales-youtubes-finest-8-for-2024/"><u>[Updated] Choose Your Perfect Wedding Tales - Youtube's Finest 8 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exclusive-movies-behind-the-best-chart/"><u>2024 Approved Exclusive Movies Behind the Best Chart</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-7-plus-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 7 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-s24-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy S24 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/breaking-the-ice-with-instagrams-interactive-audience-queries-for-2024/"><u>Breaking the Ice with Instagram's Interactive Audience Queries for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-editing-of-components-and-groups-in-the-user-interface/"><u>Efficient Editing of Components and Groups in the User Interface</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printers-white-sheets-cured-with-new-solution/"><u>HP Printer’s White Sheets Cured with New Solution</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-time-stamping-for-higher-youtube-rankings/"><u>In 2024, Step-by-Step Guide to Time Stamping for Higher YouTube Rankings</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-analysis-unveiling-the-strengths-and-weaknesses-of-screencast-crafting-tool/"><u>In-Depth Analysis: Unveiling the Strengths & Weaknesses of Screencast-Crafting Tool</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-android-connectivity-discover-the-best-3-techniques-for-controlling-one-android-with-another/"><u>Mastering Android Connectivity: Discover the Best 3 Techniques for Controlling One Android with Another</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/professional-image-editors-expert-level-tools-for-perfecting-picture-backdrops/"><u>Professional Image Editors: Expert-Level Tools for Perfecting Picture Backdrops</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/sample-sql-commands-for-database-management-professionals/"><u>Sample SQL Commands for Database Management Professionals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-ar-glasses-trends-a-comprehensive-review-by-zdnet/"><u>Top AR Glasses Trends : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-rated-web-based-image-modifier-convert-any-pictures-backdrop-to-pure-white/"><u>Top-Rated Web-Based Image Modifier: Convert Any Picture's Backdrop to Pure White</u></a></li>
 </ul></div>
 

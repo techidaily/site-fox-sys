@@ -1,7 +1,7 @@
 ---
 title: "Dialogue on Physical Path Permissions: Strengthening Security Through Verified Credentials"
-date: 2024-10-01T18:47:51.544Z
-updated: 2024-10-05T20:08:31.590Z
+date: 2024-10-05T00:05:21.152Z
+updated: 2024-10-11T01:45:04.991Z
 tags:
   - user-guide
 categories:
@@ -99,13 +99,6 @@ In this dialog you can set physical path credentials for your IIS Web Site or Vi
 
 ![Iis physical path dialog](https://cdn.advancedinstaller.com/img/dialog/iis-physical-path-dialog.png "Iis physical path dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Connect As
 
 ### Application user (pass-through authentication)
@@ -116,42 +109,49 @@ Connect as the application user (pass-through authentication).
 
 Specify a user to connect as.
 
-## User
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## User
 
 ### Property based user
 
 Use a property based user. Click on the \[... \] button to select a property.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installed user
 
 Use an installed user. Click on the \[... \] button to select an account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Password
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use predefined password
 
 Specify a password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use a property to set password
 
@@ -190,14 +190,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-content-reach-livestreaming-past-footage-on-facebook/"><u>[New] Revolutionize Your Content Reach Livestreaming Past Footage on Facebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-edge-in-tiktok-two-effect-adding-methods/"><u>[Updated] 2024 Approved Creative Edge in TikTok Two Effect-Adding Methods</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-drivers-for-hp-pavilion-elitebook-8460p-on-windows-complete-guide/"><u>Download and Update Drivers for HP Pavilion EliteBook 8460P on Windows - Complete Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effective-mastering-strategies-tips-insights-and-techniques/"><u>Effective, Mastering, Strategies, Tips, Insights, and Techniques.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-progid-attributes-in-windows-com-objects-essential-guide/"><u>Exploring ProgID Attributes in Windows COM Objects: Essential Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-quickly-restore-removed-images-on-your-ipod-touch-4th5th-gen/"><u>How To Quickly Restore Removed Images on Your iPod Touch (4Th/5th Gen)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimizing-core-service-functionality-an-in-depth-guide/"><u>Optimizing Core Service Functionality: An In-Depth Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-20-github-chatgpt-interaction-cases/"><u>Premier 20 GitHub ChatGPT Interaction Cases</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-microsoft-drivers-on-your-pc-with-windows-11-8-or-7/"><u>Quick Guide: Downloading and Updating Microsoft Drivers on Your PC with Windows 11, 8, or 7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-top-open-source-video-tools-for-pcs-and-macs/"><u>[New] In 2024, Exploring Top Open Source Video Tools for PCs and Macs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-preserve-and-access-your-favorite-discord-livestreams-easily/"><u>[Updated] How to Preserve and Access Your Favorite Discord Livestreams Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionize-live-streaming-top-4-approaches-to-record-on-fb-for-2024/"><u>[Updated] Revolutionize Live Streaming Top 4 Approaches to Record on FB for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>2024 Approved Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/configuring-mime-settings-a-step-by-step-guide/"><u>Configuring MIME Settings - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-tech-game-with-expert-advice-from-tome-hardware-corner/"><u>Elevate Your Tech Game with Expert Advice From Tom'e Hardware Corner</u></a></li>
+<li><a href="https://network-issues.techidaily.com/elevate-your-win10-experience-updated-amd-radeon-hd-6950-drivers/"><u>Elevate Your Win10 Experience: Updated AMD Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-your-xiaomi-11-display-on-tv-a-step-by-step-guide/"><u>Mirroring Your Xiaomi 11 Display on TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/most-effective-android-apps-for-designing-professional-slideshows-easily/"><u>Most Effective Android Apps for Designing Professional Slideshows Easily</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/practical-strategies-for-converting-pdfs-into-epub-format/"><u>Practical Strategies for Converting PDFs Into EPUB Format</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/sample-sql-commands-for-database-management-professionals/"><u>Sample SQL Commands for Database Management Professionals</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-for-retrieving-deleted-data-from-your-samsung-smartphone-via-galaxy-data-recovery-software/"><u>Step-by-Step Tutorial for Retrieving Deleted Data From Your Samsung Smartphone via Galaxy Data Recovery Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/streamline-your-web-development-with-ipatch-sequence-target-techniques/"><u>Streamline Your Web Development with IPatch Sequence Target Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-10-screen-capture-tools-for-windows-10-free-and-premium-options/"><u>Top 10 Screen Capture Tools for Windows 10: Free and Premium Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-video-conference-solutions-security-first-for-businesses/"><u>Top Video Conference Solutions Security First for Businesses</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-rated-web-based-image-modifier-convert-any-pictures-backdrop-to-pure-white/"><u>Top-Rated Web-Based Image Modifier: Convert Any Picture's Backdrop to Pure White</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-narzo-60-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Narzo 60 Pro 5G?</u></a></li>
 </ul></div>
 

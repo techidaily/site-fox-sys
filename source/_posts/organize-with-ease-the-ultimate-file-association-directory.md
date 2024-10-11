@@ -1,7 +1,7 @@
 ---
 title: "Organize with Ease: The Ultimate File Association Directory"
-date: 2024-10-04T16:27:18.227Z
-updated: 2024-10-05T21:30:28.357Z
+date: 2024-10-10T02:27:55.983Z
+updated: 2024-10-10T17:03:23.008Z
 tags:
   - user-guide
 categories:
@@ -91,25 +91,32 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![New File Association Wizard](https://cdn.advancedinstaller.com/img/toolbar/wizard.png "New File Association Wizard")Use the \[New File Association Wizard \] toolbar button, to quickly and easily set up a new file association, following step-by-step directions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new ProgIDs
 
 ![New ProgID](https://cdn.advancedinstaller.com/img/toolbar/new-progid.png "New ProgID")Use the \[New ProgID \] toolbar button, the “New ProgID” tree context menu item or press the \* key while the “ProgID, Extensions and Verbs” panel is focused. This action will create a ProgID that can be associated with either an extension or a COM in the [COM page](https://tools.techidaily.com/advancedinstaller/products/). This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A ProgID will not be created at install time unless it is associated with an extension or a COM.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only one extension should be associated with each ProgID.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new extensions
@@ -125,10 +132,16 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![Default Programs](https://cdn.advancedinstaller.com/img/toolbar/default-prog.png "Default Programs")Use the \[New Default Program \] toolbar button, the “New Default Program” tree context menu item or press the \- key while the “ProgID, Extensions, Verbs and Default Programs” panel is focused. This action will create a default program with default properties for the selected extension. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating new shell context menu
@@ -138,47 +151,40 @@ The left-side pane contains a tree with all the ProgIDs you defined on the first
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The Drive Context Menu option is not supported by the new Windows 11 Context Menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Renaming ProgIDs, extensions,verbs, default programs and context menus
 
  Use the “Rename” tree context menu item or press theF2 key while an element from the left-side panel is selected.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Locating the attached component for an extension
 
  Use the “Go To Component” tree context menu item or press theF8 key while an element from the “ProgID, Extensions and Verbs” panel is selected. This command will activate the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Removing ProgIDs, extensions, verbs, default programs and context menus
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while an element from the “ProgID, Extensions and Verbs” panel is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See Also
 
 For more in-depth information please see [Create new file extensions and make file associations](https://tools.techidaily.com/advancedinstaller/products/) article.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -227,20 +233,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-intersecting-realities-metaverse-and-multiverse-differences-for-2024/"><u>[New] Intersecting Realities Metaverse and Multiverse Differences for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/"><u>[Updated] 2024 Approved Climbing the Social Ladder 6 Precise Methods for Gaining Instagram Verification</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[Updated] 2024 Approved Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spark-engagement-the-ultimate-list-of-video-text-effects/"><u>2024 Approved Spark Engagement The Ultimate List of Video Text Effects</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/choose-a-solution-with-msix-foundation-the-ultimate-dialogue/"><u>Choose a Solution with MSIX Foundation: The Ultimate Dialogue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-lava-yuva-2-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Lava Yuva 2.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ibuildcomponents-the-ultimate-building-blocks-of-modern-software-development/"><u>IBuildComponents: The Ultimate Building Blocks of Modern Software Development</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus 12 Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-k70e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi K70E to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-inventory-tracking-understanding-your-iproductcode/"><u>Mastering Inventory Tracking: Understanding Your IProductCode</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mohu-blade-tv-latch-review-distinct-design-features-for-optimal-inside-broadcast-performance/"><u>Mohu Blade TV Latch Review: Distinct Design Features for Optimal Inside Broadcast Performance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolve-compatibility-problems-with-your-realtek-rtl8723be-network-adapter/"><u>Resolve Compatibility Problems with Your Realtek RTL8723BE Network Adapter</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-apoweredit-user-guide-unleash-your-editing-potential/"><u>Step-by-Step ApowerEdit User Guide - Unleash Your Editing Potential</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/trusted-techniques-for-securely-downloading-mp3-music-collections/"><u>Trusted Techniques for Securely Downloading MP3 Music Collections</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-digital-signatures-how-they-work-and-why-you-need-them/"><u>Understanding Digital Signatures: How They Work & Why You Need Them</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-guide-modifying-user-input-through-conditional-level-conversations/"><u>Advanced Guide: Modifying User Input Through Conditional-Level Conversations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-mute-problems-how-to-restore-sound-on-windows-11-pcs/"><u>Cyberpunk 2077 Mute Problems: How to Restore Sound on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/facebook-streaming-simplified-a-comprehensive-tutorial-for-hassle-free-online-broadcasts/"><u>Facebook Streaming Simplified: A Comprehensive Tutorial for Hassle-Free Online Broadcasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-f15-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy F15 5Gwith/without a PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-9-free-youtube-logo-makers/"><u>In 2024, Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-multi-platform-windows-film-editor-clones/"><u>In 2024, Multi-Platform Windows Film Editor Clones</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-account-recovery-navigating-through-common-chatgpt-login-errors/"><u>Mastering Account Recovery: Navigating Through Common ChatGPT Login Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/psvr-and-pc-integration-how-to-link-them-effortlessly/"><u>PSVR and PC Integration – How To Link Them Effortlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-soundscape-evolution-a-new-chapter-for-facebook-and-spotify/"><u>Social Soundscape Evolution: A New Chapter for Facebook and Spotify</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-on-your-samsung-tablet/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents on Your Samsung Tablet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-cubefit-terramat-for-active-standing-solutions-at-work/"><u>The Ultimate Review: CubeFit TerraMat for Active Standing Solutions at Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-creative-potential-with-full-length-vivacut-review-24-for-2024/"><u>Unleash Your Creative Potential with Full-Length VivaCut Review '24 for 2024</u></a></li>
 </ul></div>
 

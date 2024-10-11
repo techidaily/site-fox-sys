@@ -1,7 +1,7 @@
 ---
 title: Modify System Settings with the Environment Var Handler During Software Installation
-date: 2024-10-02T18:52:31.771Z
-updated: 2024-10-05T16:35:06.967Z
+date: 2024-10-07T23:36:55.750Z
+updated: 2024-10-10T18:27:08.228Z
 tags:
   - user-guide
 categories:
@@ -79,23 +79,9 @@ Table of Contents
 
 ## General
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Name
 
  The environment variable's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Value
 
@@ -115,10 +101,10 @@ Table of Contents
 ## Adding and Removing
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Install
@@ -134,6 +120,20 @@ Table of Contents
 This checkbox will make the Windows Installer remove the environment variable when the package is uninstalled.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)During an uninstall Windows Installer will remove only what it added. If a value was appended to an existing environment variable, only that value will be removed (not the entire variable).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### System variable
 
@@ -182,21 +182,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-windows-wonders-top-9-tools-to-capture-and-save-animated-gif-art/"><u>[New] 2024 Approved Windows Wonders Top 9 Tools to Capture and Save Animated GIF Art</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-simplifycast-the-ultimate-guide-to-starting-your-podcast-livestream/"><u>[New] SimplifyCast The Ultimate Guide to Starting Your Podcast Livestream</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>2024 Approved Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-banner-tactics-dos-and-donts-for-optimal-visibility/"><u>2024 Approved YouTube Banner Tactics Dos and Don'ts for Optimal Visibility</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/descarga-guia-facil-eliminar-ratoneras-publicitarias-y-avisos-emergentes-en-windows-10/"><u>Descarga Guía Fácil: Eliminar Ratoneras Publicitarias Y Avisos Emergentes en Windows 10</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-techniques-to-decelerate-your-sound-files/"><u>Effortless Techniques to Decelerate Your Sound Files</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-future-interactive-enhancements-to-stories-panel/"><u>Facebook's Future: Interactive Enhancements to Stories Panel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-emotion-artificial-intelligence-interpret-human-sentiments/"><u>How Does Emotion Artificial Intelligence Interpret Human Sentiments?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/innovative-iregistry-component-solutions-streamlining-system-configuration-and-access-control/"><u>Innovative IRegistry Component Solutions – Streamlining System Configuration and Access Control</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-surprises-in-yokus-isle-expressions-grand-ventures-redefined/"><u>Navigating Surprises in Yoku's Isle Expressions: Grand Ventures Redefined</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/organize-with-ease-the-ultimate-file-association-directory/"><u>Organize with Ease: The Ultimate File Association Directory</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-to-affordable-gopro-acquisitions/"><u>Secrets to Affordable GoPro Acquisitions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-immaculate-file-registration-with-imsm/"><u>Step-by-Step Guide to Immaculate File Registration with IMSM</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unlocking-visual-potential-the-power-of-lut-transformations/"><u>Unlocking Visual Potential The Power of LUT Transformations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-identify-10-shadowy-instagram-story-observers/"><u>[New] 2024 Approved Identify 10 Shadowy Instagram Story Observers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ultimate-list-free-best-ios-video-editor-tools/"><u>[New] 2024 Approved Ultimate List Free, Best iOS Video Editor Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-attention-top-10-grids-for-stunning-pics/"><u>[New] Capture Attention Top 10 Grids for Stunning Pics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions/"><u>[Updated] In 2024, Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-gif-odyssey-navigating-the-most-effective-9-tools-of-memetic-crafting/"><u>[Updated] The GIF Odyssey Navigating the Most Effective 9 Tools of Memetic Crafting</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/20347499-in-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/journey-to-new-realities-the-prime-10-smartphone-vr-headsets/"><u>Journey to New Realities - The Prime 10 Smartphone VR Headsets</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revolutionize-your-images-using-the-innovative-ipatch-solution/"><u>Revolutionize Your Images Using the Innovative IPatch Solution</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco Phone Network-Ready</u></a></li>
 </ul></div>
 

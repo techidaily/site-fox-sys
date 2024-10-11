@@ -1,7 +1,7 @@
 ---
 title: "Integrating Executable Files: A Guide to Crafting Tailored System Events"
-date: 2024-10-01T21:01:15.968Z
-updated: 2024-10-05T18:06:00.286Z
+date: 2024-10-07T16:27:50.547Z
+updated: 2024-10-10T17:26:25.606Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,16 @@ Table of Contents
 ## Add an executable file as a custom event
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
@@ -102,10 +108,10 @@ An EXE file is an executable program you can run in Microsoft Windows. It's made
 The binary machine code in the EXE communicates directly with the computer, instructing the central processing unit on how to run a program. The processor then commands the computer's hardware what to do.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add an EXE file as an event
@@ -115,10 +121,10 @@ It is possible to create an event based on an EXE file you created. Depending on
 ![Exe file event](https://cdn.advancedinstaller.com/img/dialog/exe-file-event.png "Exe file event")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This event is equivalent to running the sample.exe param1 param2 prior or post-build time depending on how you created the event.
@@ -126,10 +132,10 @@ This event is equivalent to running the sample.exe param1 param2 prior or post-b
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)In case your script doesn't require command line arguments leave the "Arguments" field blank.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,14 +171,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlining-video-aesthetics-blur-background-in-microsoft-teams/"><u>[Updated] 2024 Approved Streamlining Video Aesthetics Blur Background in Microsoft Teams</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-access-free-eco-friendly-vfx-backdrops-online/"><u>[Updated] Top 8 Access Free Eco-Friendly VFX Backdrops Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-harmonizing-content-and-sound-in-instagram-reels/"><u>2024 Approved Harmonizing Content & Sound in Instagram Reels</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y100i-power-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y100i Power 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-top-6-video-dubbing-tools-for-pc-free-download-options/"><u>Updated Top 6 Video Dubbing Tools for PC Free Download Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-harmonious-photographic-mosaics-with-ease/"><u>[New] Crafting Harmonious Photographic Mosaics with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-capture-and-replay-top-four-strategies-for-gameplay-recording/"><u>[Updated] In 2024, Capture & Replay Top Four Strategies for Gameplay Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-amateur-to-expert-15-must-knows-in-tiktok-video-edits/"><u>[Updated] In 2024, From Amateur to Expert 15 Must-Knows in TikTok Video Edits</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-resume-writing-via-chatgpt-techniques/"><u>Cutting-Edge Resume Writing via ChatGPT Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-to-follow-tutorial-on-linking-a-mac-computer-to-your-samsung-tv-screen/"><u>Easy-to-Follow Tutorial on Linking a Mac Computer to Your Samsung TV Screen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fathers-day-greeting-cards-inspiration-best-practices-and-creative-concepts-for-perfect-messages/"><u>Father's Day Greeting Cards Inspiration: Best Practices & Creative Concepts for Perfect Messages</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones/"><u>Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-most-popular-public-domain-songs-for-visual-compositions/"><u>New 2024 Approved Most Popular Public Domain Songs for Visual Compositions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revamping-parameters-master-the-edit-arguments-feature/"><u>Revamping Parameters: Master the Edit Arguments Feature</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/forming-your-youtube-profile-descriptions/"><u>Transforming Your YouTube Profile Descriptions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-the-dependency-settings-pane-a-comprehensive-guide/"><u>Understanding the Dependency Settings Pane: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops
-date: 2024-10-02T21:01:14.337Z
-updated: 2024-10-05T17:20:55.920Z
+date: 2024-10-04T19:09:15.606Z
+updated: 2024-10-11T01:09:28.502Z
 tags:
   - user-guide
 categories:
@@ -87,10 +87,10 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,10 +98,10 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -145,21 +145,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-pinnacle-of-picture-perfection-top-10-screens/"><u>[New] In 2024, Pinnacle of Picture Perfection Top 10 Screens</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-tactics-podcast-recording-on-ios-devices-for-voice-broadcasts/"><u>[New] Top Tactics Podcast Recording on iOS Devices for Voice Broadcasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>[Updated] 2024 Approved Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/05232020-updated-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-foremost-news-channels-on-youtube-to-watch-daily-for-2024/"><u>[Updated] Foremost News Channels on YouTube to Watch Daily for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-current-applications-to-future-drone-horizons/"><u>[Updated] From Current Applications to Future Drone Horizons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-productivity-and-ease-10-most-effective-ai-pdf-tools/"><u>Boost Productivity & Ease: 10 Most Effective AI PDF Tools</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-how-to-move-your-entire-spotify-library-over-to-apple-music/"><u>Complete Guide: How to Move Your Entire Spotify Library Over to Apple Music</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-basics-your-ultimate-guide-to-playing-roblox-across-windows-and-macos/"><u>Mastering the Basics: Your Ultimate Guide to Playing Roblox Across Windows and macOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-5-leading-tools-for-data-retrieval-from-damaged-drives/"><u>Top 5 Leading Tools for Data Retrieval From Damaged Drives</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-college-tech-elite-laptop-reviews-to-boost-your-academic-performance-and-fun/"><u>Top College Tech: Elite Laptop Reviews to Boost Your Academic Performance and Fun</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/update-component-for-itext-files-streamlined-data-processing/"><u>Update Component for iText Files: Streamlined Data Processing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[New] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-guide-iphones-video-loop-functionality/"><u>[New] In 2024, Quick Guide IPhone's Video Loop Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/adding-bing-dwen-dwen-a-step-by-step-guide-for-enhancing-your-olympics-2022-images/"><u>Adding Bing Dwen Dwen: A Step-by-Step Guide for Enhancing Your Olympics 2022 Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y78plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y78+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/master-the-art-of-cropping-videos-for-instagrams-highest-standards-for-2024/"><u>Master the Art of Cropping Videos for Instagram's Highest Standards for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-your-xiaomi-11-display-on-tv-a-step-by-step-guide/"><u>Mirroring Your Xiaomi 11 Display on TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-through-sql-servers-tips-and-strategies-for-efficient-browsing/"><u>Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-change-documents-from-microsoft-word-into-a-pdf-file/"><u>Simple Steps to Change Documents From Microsoft Word Into a PDF File</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IBuildComponents: The Ultimate Building Blocks of Modern Software Development"
-date: 2024-10-01T20:11:18.721Z
-updated: 2024-10-05T16:03:32.932Z
+date: 2024-10-08T23:47:23.556Z
+updated: 2024-10-10T19:48:49.434Z
 tags:
   - user-guide
 categories:
@@ -110,22 +110,15 @@ Table of Contents
 
 ## IBuildComponent
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IBuildComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -135,6 +128,13 @@ This component gives access to builds present in the package and lets you add or
 ## Properties
 
 **Array<Builds>** \- Gets all the builds present in the package.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -151,16 +151,10 @@ CreateKeyByPath(String **path**) returns [IRegistryKey](https://tools.techidaily
 This method creates a new key at the specified path.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -170,10 +164,10 @@ This method creates a new key at the specified path.
 [IBuild](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -216,21 +210,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-flixfortress-over-a-hundred-channels-of-fortitude/"><u>[New] 2024 Approved FlixFortress Over a Hundred Channels of Fortitude</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>[New] Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-checklist-for-perfecting-your-laptops-screen-capture-abilities-for-2024/"><u>[New] The Ultimate Checklist for Perfecting Your Laptop's Screen Capture Abilities for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-absentee-gps-on-pokemon-adventure-paths/"><u>Combatting Absentee GPS on Pokémon Adventure Paths</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/easy-ways-to-merge-igtv-and-instagram-stories-for-2024/"><u>Easy Ways to Merge IGTV & Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>In 2024, How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-lets-introduce-the-top-5-applications-to-add-a-song-to-a-video-for-free-with-some-amazing-sound-and-visual-effects/"><u>New 2024 Approved Lets Introduce the Top 5 Applications to Add a Song to a Video for Free with some Amazing Sound and Visual Effects</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/recording-your-live-feed-without-spending-a-dime-for-2024/"><u>Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-launch-success-a-guide-to-10-motivating-movies/"><u>[New] In 2024, Launch Success A Guide to 10 Motivating Movies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-speak-the-code-vr-lingo-essentials/"><u>[New] Speak the Code VR Lingo Essentials</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-create-excellence-professional-thumbnails-in-gaming-art-for-2024/"><u>[Updated] Quick-Create Excellence Professional Thumbnails in Gaming Art for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-top-camstudio-substitutes-enhancing-your-recording-experience/"><u>1. Top CamStudio Substitutes: Enhancing Your Recording Experience</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/choose-a-solution-with-msix-foundation-the-ultimate-dialogue/"><u>Choose a Solution with MSIX Foundation: The Ultimate Dialogue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-play-solutions-to-combat-gaming-lag-frame-drops-and-glitchy-action/"><u>Enhance Your Play: Solutions to Combat Gaming Lag, Frame Drops, and Glitchy Action!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-write-a-script-for-a-youtube-video-for-2024/"><u>How to Write a Script for a YouTube Video for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-40-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Edge 40 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-inventory-tracking-understanding-your-iproductcode/"><u>Mastering Inventory Tracking: Understanding Your IProductCode</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users/"><u>New The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/optimal-strategies-for-irs-validation-in-seo-tactics/"><u>Optimal Strategies for IRS Validation in SEO Tactics</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-apoweredit-user-guide-unleash-your-editing-potential/"><u>Step-by-Step ApowerEdit User Guide - Unleash Your Editing Potential</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-customizing-event-map-interfaces-for-seamless-workshops/"><u>Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trusted-techniques-for-securely-downloading-mp3-music-collections/"><u>Trusted Techniques for Securely Downloading MP3 Music Collections</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-apps-to-convert-videos-to-live-photos-on-iphone-for-2024/"><u>Updated Top Apps to Convert Videos to Live Photos on iPhone for 2024</u></a></li>
 </ul></div>
 

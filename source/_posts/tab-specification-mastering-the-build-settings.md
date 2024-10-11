@@ -1,7 +1,7 @@
 ---
 title: "Tab Specification: Mastering the 'Build' Settings"
-date: 2024-09-29T16:06:25.545Z
-updated: 2024-10-05T20:31:33.112Z
+date: 2024-10-06T17:26:48.483Z
+updated: 2024-10-10T19:24:46.407Z
 tags:
   - user-guide
 categories:
@@ -82,19 +82,19 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 ![Specify builds dialog](https://cdn.advancedinstaller.com/img/ui/prerequisites-builds-tab.png "Specify builds dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Builds
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include prerequisites in all builds
@@ -102,10 +102,10 @@ This tab allows you to specify the builds which will contain a prerequisite. You
 Include the prerequisite in all the builds contained by your project
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Include the prerequisite only in the selected builds
@@ -145,18 +145,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-recover-hidden-shorts-thumbnails-in-videos/"><u>[New] 2024 Approved How to Recover Hidden Shorts' Thumbnails in Videos</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-compelling-tiktok-captions-5-must-knows/"><u>[New] 2024 Approved The Ultimate Guide to Crafting Compelling TikTok Captions (5 Must-Knows)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-complete-examination-the-video-show-app/"><u>[New] Complete Examination The Video Show App</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bringing-still-images-to-life-a-step-by-step-guide-for-slow-motion-videos-with-photos/"><u>[Updated] Bringing Still Images to Life A Step-by-Step Guide for Slow-Motion Videos with Photos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-narzo-n55-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme Narzo N55 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-sierras-icloud-drive-accessibility/"><u>In 2024, Mastering Sierra’s iCloud Drive Accessibility</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-and-fixing-0xc00d5212-errors-during-videoaudio-playback-in-windows-11/"><u>Troubleshooting and Fixing 0XC00D5212 Errors During Video/Audio Playback in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/zoom-blackout-blues-eliminate-pc-screen-troubles-in-your-meetings-the-definitive-guide-to-fixing-issues/"><u>Zoom Blackout Blues? Eliminate PC Screen Troubles in Your Meetings – The Definitive Guide to Fixing Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-compelling-short-videos-for-youtube-a-top-10-list/"><u>[New] 2024 Approved Crafting Compelling Short Videos for YouTube - A Top 10 List</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices-for-2024/"><u>5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enable-built-in-administrator-account-in-windows-10-7-and-8-step-by-step/"><u>Enable Built-In Administrator Account in Windows 10, 7 & 8 (Step by Step)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/re-these-seven-sources-for-youtube-sound-effects-for-2024/"><u>Explore These Seven Sources for YouTube Sound Effects for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-sound-problems-in-windows-11-easily/"><u>How to Resolve Sound Problems in Windows 11 Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s17t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S17t Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-how-to-use-luts-in-after-effect/"><u>In 2024, How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-crashes-effective-solutions-for-stability-in-back-4-blood/"><u>Solving Game Crashes: Effective Solutions for Stability in 'Back 4 Blood'</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-easy-mp4-editing-on-windows-8-top-rated-video-editor-for-2024/"><u>Updated Easy MP4 Editing on Windows 8 Top-Rated Video Editor for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Picture Gallery - Discover Image Features
-date: 2024-10-03T16:11:38.291Z
-updated: 2024-10-05T18:19:51.393Z
+date: 2024-10-10T04:10:08.784Z
+updated: 2024-10-10T22:49:02.682Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ Table of Contents
 You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image resource and Advanced Installer will offer you the option to convert it to a regular image (i.e. .ico, .jpg or .png).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new image
@@ -93,10 +93,10 @@ You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image
 Use the \[New... \] button, the “New...” context menu item or press the Ins key. The [Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new binary image.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an image
@@ -104,10 +104,10 @@ Use the \[New... \] button, the “New...” context menu item or press the Ins 
 Use the \[Edit \] button, the “Edit...” context menu item, press the Space key or double click an item in the list. The[Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit an image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing an image
@@ -115,10 +115,10 @@ Use the \[Edit \] button, the “Edit...” context menu item, press the Space k
 Use the \[Remove \] button, the “Remove” or press theDel key while an element from the list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -163,15 +163,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-building-brands-on-the-buzzing-platform-of-instagram-marketing/"><u>[New] 2024 Approved Building Brands on the Buzzing Platform of Instagram Marketing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-editor-techniques-from-the-experts-at-canva/"><u>[New] Advanced Editor Techniques From the Experts at Canva</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-through-historical-twitter-data/"><u>[New] Navigating Through Historical Twitter Data</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-10-best-action-adventure-games-of-all-time/"><u>[Updated] 10 Best Action-Adventure Games of All Time</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/different-techniques-for-taking-pictures-of-your-desktop-display/"><u>Different Techniques for Taking Pictures of Your Desktop Display</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-for-handling-mass-email-selection-on-googles-mail-service/"><u>How-To for Handling Mass Email Selection on Google's Mail Service</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/six-essential-dependencies-every-project-manager-must-master/"><u>Six Essential Dependencies Every Project Manager Must Master</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-security-pick-the-safest-web-browsing-software-in-2020-discover-malwarefox/"><u>Top Security Pick: The Safest Web Browsing Software in 2020 – Discover MalwareFox!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-installation-settings-and-configurations/"><u>Understanding Installation Settings and Configurations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-fbm-transcripts-how-to-get-and-use-complete-records/"><u>[Updated] In 2024, FBM Transcripts How to Get and Use Complete Records</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-master-the-art-of-customizing-youtube-thumbnails-and-improving-visibility/"><u>[Updated] In 2024, Master the Art of Customizing YouTube Thumbnails and Improving Visibility</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-value-of-netflix-for-your-budget/"><u>Evaluating the Value of Netflix for Your Budget</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/furbos-camera-triumph-ultimate-canine-spy-review/"><u>Furbo's Camera Triumph: Ultimate Canine Spy Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-blending-primary-and-b-roll-for-smooth-transitions/"><u>In 2024, Blending Primary and B-Roll for Smooth Transitions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-system-settings-with-the-environment-var-handler-during-software-installation/"><u>Modify System Settings with the Environment Var Handler During Software Installation</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-through-file-hierarchies-understanding-directory-structures/"><u>Navigating Through File Hierarchies: Understanding Directory Structures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ranking-top-tools-convert-srt-files-with-zero-charge/"><u>Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repaired-comintegration-fault-winos-update-successful/"><u>Repaired ComIntegration Fault, WinOS Update Successful</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-mastering-the-apowermirror-application-on-your-android/"><u>Step-by-Step Guide: Mastering the ApowerMirror Application on Your Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-8-best-video-converter-on-iphonedesktop-for-2024/"><u>Top 8 Best Video Converter on iPhone/Desktop for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ios-175s-unexpected-photo-recovery-apple-sheds-light-on-the-process-and-future-actions/"><u>Understanding iOS 17.5'S Unexpected Photo Recovery: Apple Sheds Light on the Process & Future Actions</u></a></li>
 </ul></div>
 

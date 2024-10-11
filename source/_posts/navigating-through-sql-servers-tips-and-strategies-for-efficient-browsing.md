@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing"
-date: 2024-10-02T18:29:19.904Z
-updated: 2024-10-05T17:37:22.915Z
+date: 2024-10-10T04:06:50.318Z
+updated: 2024-10-10T20:50:05.665Z
 tags:
   - user-guide
 categories:
@@ -80,13 +80,6 @@ Table of Contents
 
 ![Sql server browse](https://cdn.advancedinstaller.com/img/ui/sql-server-browse.png "Sql server browse")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Browse type
 
 Advanced Installer supports three types of SQL browsing:
@@ -99,30 +92,50 @@ Advanced Installer supports three types of SQL browsing:
 
 The "Please Wait..." message box for SQL Server Browse will be shown. Also, if an error occurs when connecting to the SQL Server, a dialog box will be shown containing the error response.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Output
 
 Advanced Installer dumps the result of the browse operation (the SQL Servers list) in one of the following locations:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display the result into a ListBox or CheckList control
 
 Specify the installer property associated with a [ListBox](https://tools.techidaily.com/advancedinstaller/products/) or[CheckList](https://tools.techidaily.com/advancedinstaller/products/) control which will be populated with the available SQL servers.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Display the result into a ComboBox control
 
 Specify the installer property associated with a [ComboBox control](https://tools.techidaily.com/advancedinstaller/products/) which will be populated with the available SQL servers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Put the result into a property
@@ -145,10 +158,10 @@ Configure how the items will be shown in the ListBox, ComboBox controls or how t
 This is the selected item value format when outputting to ListBox or ComboBox controls. The user will see the **Output text format** but when selecting an item, the **Output value format** will be stored in the control's associated property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Execution
@@ -158,19 +171,6 @@ SQL Server Browse can be triggered by scheduling the associated action in the Wi
 ### Run in UI sequence
 
 Enabling this option will trigger the SQL Server Browse operation when an associated custom action will be executed in the installation sequence. To configure the custom action in the [Custom Actions Page](https://tools.techidaily.com/advancedinstaller/products/), press on the **Scheduled Action** link button.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Attached to an event
 
@@ -211,24 +211,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-online-tv-shows/"><u>[New] How to Record Online TV Shows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-how-to-create-metaverse-avatar-easily-an-ultimate-guide/"><u>[New] In 2024, How to Create Metaverse Avatar Easily An Ultimate Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring-for-2024/"><u>[Updated] Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/choose-a-solution-with-msix-foundation-the-ultimate-dialogue/"><u>Choose a Solution with MSIX Foundation: The Ultimate Dialogue</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-tutorial-how-to-save-or-record-a-microsoft-lync-webinar-for-both-windows-and-macos-users/"><u>Easy Tutorial: How to Save or Record a Microsoft Lync Webinar for Both Windows & macOS Users</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-guide-navigating-the-advanced-features-of-your-installation-wizard/"><u>Expert Guide: Navigating the Advanced Features of Your Installation Wizard</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-samsung-galaxy-a20-is-it-worth-your-budget/"><u>Exploring the Samsung Galaxy A20 - Is It Worth Your Budget?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nokia-c12-plus-by-drfone-android/"><u>Full Guide to Unlock Your Nokia C12 Plus</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ibuildcomponents-the-ultimate-building-blocks-of-modern-software-development/"><u>IBuildComponents: The Ultimate Building Blocks of Modern Software Development</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/improving-discord-voice-chat-during-gaming-game-audio-captured-successfully-now/"><u>Improving Discord Voice Chat During Gaming: Game Audio Captured Successfully Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-8-online-locations-for-3d-text-psd-downloads/"><u>In 2024, Best 8 Online Locations for 3D Text PSD Downloads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-e-comic-crafting-kit/"><u>In 2024, E-Comic Crafting Kit</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker/"><u>New 2024 Approved Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-digital-signatures-how-they-work-and-why-you-need-them/"><u>Understanding Digital Signatures: How They Work & Why You Need Them</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unveiling-the-art-of-sideways-iphone-photography/"><u>Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screen-capture-without-cost-best-free-software-guide/"><u>[New] 2024 Approved Screen Capture Without Cost Best Free Software Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-forgotten-basics-of-instagram-reels-success/"><u>[New] 2024 Approved The Forgotten Basics of Instagram Reels Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-perfect-ending-for-youtubers-best-practices-and-pro-files/"><u>[Updated] In 2024, Perfect Ending for YouTubers Best Practices and Pro Files</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>2024 Approved Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-guide-modifying-user-input-through-conditional-level-conversations/"><u>Advanced Guide: Modifying User Input Through Conditional-Level Conversations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/can-you-rely-on-windows-defender-for-adequate-malware-and-threat-protection/"><u>Can You Rely on Windows Defender For Adequate Malware and Threat Protection?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-content-writing-on-social-platforms-using-chatgpt-techniques/"><u>Enhance Your Content Writing on Social Platforms Using ChatGPT Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
+<li><a href="https://blog-min.techidaily.com/masterclass-in-elevating-video-quality-comprehensive-insights-into-premium-video-upgradation-tools-and-methods/"><u>Masterclass in Elevating Video Quality: Comprehensive Insights Into Premium Video Upgradation Tools and Methods</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-on-your-samsung-tablet/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents on Your Samsung Tablet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-hue-harmonizer-tool-for-2024/"><u>Ultimate Hue Harmonizer Tool for 2024</u></a></li>
 </ul></div>
 

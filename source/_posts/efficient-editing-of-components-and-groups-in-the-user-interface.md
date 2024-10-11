@@ -1,7 +1,7 @@
 ---
 title: Efficient Editing of Components and Groups in the User Interface
-date: 2024-09-29T17:55:49.068Z
-updated: 2024-10-05T21:40:13.971Z
+date: 2024-10-09T23:12:49.226Z
+updated: 2024-10-11T00:43:15.254Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 ![Edit Qualified Components Dialog](https://cdn.advancedinstaller.com/img/dialog/qualified-component.png "Edit Qualified Components Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Category GUID
@@ -93,10 +93,10 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 Specify a GUID for the category of components being grouped together. Use the drop-down list to choose an existing category or create another
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Qualifier
@@ -104,10 +104,10 @@ Specify a GUID for the category of components being grouped together. Use the dr
 Specify a qualifier for the component. This string is used to distinguish components from the same category.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -115,16 +115,10 @@ Specify a qualifier for the component. This string is used to distinguish compon
 Specify a description for the qualified component. The content of this field is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -164,21 +158,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-redesigned-look-at-s3700-sony-entertainment/"><u>[New] In 2024, Redesigned Look at S3700 Sony Entertainment</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-smart-selection-identifying-our-top-5-webcams-for-video-and-audio/"><u>[Updated] Smart Selection Identifying Our Top 5 Webcams for Video & Audio</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-new-wave-of-youtube-branding-best-titles-for-vloggers-and-filmmakers-keep-it-under-or-at-156-characters/"><u>[Updated] The New Wave of YouTube Branding Best Titles for Vloggers & Filmmakers (Keep It Under or at 156 Characters)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-psd-text-direction/"><u>2024 Approved Superior PSD Text Direction</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-youtube-cutting-apps-buyers-guide-compilation/"><u>2024 Approved Top 10 YouTube Cutting Apps - Buyer's Guide Compilation</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ce-frontiers-the-finest-youtube-channels-to-follow/"><u>Finance Frontiers The Finest YouTube Channels to Follow</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-absent-system-error/"><u>Graphics Absent: System Error</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/techniques-to-lower-your-cpu-usage-while-playing-new-world-online-game/"><u>Techniques to Lower Your CPU Usage While Playing New World Online Game</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-essentials-of-managing-and-modifying-plain-text-documents-online/"><u>The Essentials of Managing and Modifying Plain Text Documents Online</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-harnessing-the-power-of-tension-building-melodies-in-cinematic-storytelling-for-2024/"><u>Updated Harnessing the Power of Tension-Building Melodies in Cinematic Storytelling for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-competing-to-the-best-substitutes-for-samsungs-gear-360-for-2024/"><u>[Updated] Competing to the Best Substitutes for Samsung's Gear 360 for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-ringtones-selection-high-quality-sites/"><u>2024 Approved Elite Ringtones Selection High-Quality Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-techniques-for-eliminating-shadows-in-photographs/"><u>Effective Techniques for Eliminating Shadows in Photographs</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-defy-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Defy 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/flip-your-pdfs-with-this-free-tool-seamlessly-convert-and-rotate-pdf-files-today/"><u>Flip Your PDFs With This Free Tool - Seamlessly Convert and Rotate PDF Files Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a15-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A15 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-laughters-playground-top-15-youtube-hits-for-fun/"><u>In 2024, Laughter's Playground Top 15 YouTube Hits for Fun</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sprint-towards-subscriber-goal-reach-1000/"><u>In 2024, Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976026130-install-the-latest-drivers-for-your-epson-wf-2750-printer-download-here/"><u>Install the Latest Drivers for Your Epson WF-2750 Printer - Download Here!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-update-your-tiktok-avatar-a-2022-guide/"><u>Simple Steps to Update Your TikTok Avatar: A 2022 Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
 </ul></div>
 

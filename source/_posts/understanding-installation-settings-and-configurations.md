@@ -1,7 +1,7 @@
 ---
 title: Understanding Installation Settings and Configurations
-date: 2024-10-04T21:46:50.919Z
-updated: 2024-10-05T18:58:22.320Z
+date: 2024-10-06T21:21:06.436Z
+updated: 2024-10-11T07:04:13.295Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,10 @@ Table of Contents
 This component is meant to edit install parameters. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +122,10 @@ This component is meant to edit install parameters.
 IInstallParameters: IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +170,16 @@ $project.InstallParameters.RunAsAdmin = "True"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -215,22 +221,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-10-essential-gratuitous-lut-downloads-of-the-year/"><u>[New] 2024 Approved Top 10 Essential, Gratuitous LUT Downloads of the Year</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-music-in-premiere-pro/"><u>[New] How To Add Music In Premiere Pro?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-process-to-perfect-your-fb-reel-skills/"><u>[Updated] In 2024, Step-by-Step Process to Perfect Your FB Reel Skills</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>2023'S Top Contenders GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-method-for-recorded-instagram-stories/"><u>2024 Approved The Ultimate Method for Recorded Instagram Stories</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/descarga-guia-facil-eliminar-ratoneras-publicitarias-y-avisos-emergentes-en-windows-10/"><u>Descarga Guía Fácil: Eliminar Ratoneras Publicitarias Y Avisos Emergentes en Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-civi-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Civi 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-delete-video-posts-android-and-windows-devices/"><u>In 2024, How to Delete Video Posts Android & Windows Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-potential-making-your-vids-go-viral/"><u>In 2024, Unleash Potential Making Your Vids Go Viral</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/innovative-iregistry-component-solutions-streamlining-system-configuration-and-access-control/"><u>Innovative IRegistry Component Solutions – Streamlining System Configuration and Access Control</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-narzo-n55-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme Narzo N55</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-immaculate-file-registration-with-imsm/"><u>Step-by-Step Guide to Immaculate File Registration with IMSM</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-captivation-creator-for-articles/"><u>[New] 2024 Approved Captivation Creator for Articles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-full-potential-with-powerdirector-a-comprehensive-review/"><u>2024 Approved Unlocking Full Potential with PowerDirector - A Comprehensive Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-top-3-replacements-for-picasa-modern-photo-editing-software/"><u>Best Top 3 Replacements for Picasa: Modern Photo Editing Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhance-your-youtube-music-experience-with-just-two-simple-tweaks/"><u>Enhance Your YouTube Music Experience with Just Two Simple Tweaks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fathers-day-greeting-cards-inspiration-best-practices-and-creative-concepts-for-perfect-messages/"><u>Father's Day Greeting Cards Inspiration: Best Practices & Creative Concepts for Perfect Messages</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>In 2024, Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-product-information-navigating-the-features-and-specifications-section/"><u>In-Depth Product Information: Navigating the Features & Specifications Section</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inspecting-slowdown-in-your-photo-booth-recording-for-2024/"><u>Inspecting Slowdown in Your Photo Booth Recording for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-parent-child-conversations-a-comprehensive-guide/"><u>Modify Parent-Child Conversations: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-unveiling-top-tunes-without-words-a-guide-to-musical-backdrops-for-films-for-2024/"><u>New Unveiling Top Tunes Without Words A Guide to Musical Backdrops for Films for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revamping-parameters-master-the-edit-arguments-feature/"><u>Revamping Parameters: Master the Edit Arguments Feature</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-the-dependency-settings-pane-a-comprehensive-guide/"><u>Understanding the Dependency Settings Pane: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-c55-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme C55 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Individual User License Plans: Tailored Access Solutions"
-date: 2024-10-04T20:45:58.436Z
-updated: 2024-10-05T20:00:26.098Z
+date: 2024-10-06T23:27:56.703Z
+updated: 2024-10-10T19:10:32.643Z
 tags:
   - user-guide
 categories:
@@ -53,10 +53,10 @@ About the **Per-User Subscription**:
 A subscription allows you to start using Advanced Installer at the best price available. Once a subscription expires you can no longer use Advanced Installer but you can still distribute the setup package created when the subscriptionwas valid. If you prefer a perpetual license, please check the prices for our one-time [purchase option](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Registering with a Per-User Subscription
@@ -68,10 +68,16 @@ Now launch Advanced Installer, go to Start Page and select the option "Log in wi
 Advanced Installer will automatically register using the highest active edition available in your account.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does the Per-User Subscription license work?
@@ -81,10 +87,10 @@ The Advanced Installer tool allows users to install and use the software on mult
 If the builds can be triggered by other developers, then you would need a license for each member of the team that works with Advanced Installer (creates, edits, or builds an installer project) or you can use a [Team Subscription](https://tools.techidaily.com/advancedinstaller/products/). If the builds are running independently on the server machine, e.g., there is no developer that can trigger a build, then you don't need a license for the developers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -126,19 +132,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agricultural-adventures-with-allies-top-10-farmers-titles/"><u>[New] 2024 Approved Agricultural Adventures with Allies Top 10 Farmer's Titles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] In 2024, 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pathway-to-perfect-pitches-insights-from-magix-maker/"><u>[New] The Pathway to Perfect Pitches Insights From Magix Maker</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-spotting-success-stories-2023s-most-shared-tweets/"><u>[Updated] 2024 Approved Spotting Success Stories 2023’S Most Shared Tweets</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-selecting-the-perfect-footage-editor-hero-vs-the-cube/"><u>2024 Approved Selecting the Perfect Footage Editor Hero Vs. The Cube</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/configuring-mime-settings-a-step-by-step-guide/"><u>Configuring MIME Settings - A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-13c-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi 13C 5G support MOV videos ?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-journey-into-joke-making-mastering-the-art-of-gif-memes/"><u>In 2024, Journey Into Joke-Making Mastering the Art of GIF Memes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/in-depth-analysis-unveiling-the-strengths-and-weaknesses-of-screencast-crafting-tool/"><u>In-Depth Analysis: Unveiling the Strengths & Weaknesses of Screencast-Crafting Tool</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/most-effective-android-apps-for-designing-professional-slideshows-easily/"><u>Most Effective Android Apps for Designing Professional Slideshows Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-firefox-freezes-ultimate-fix-guide/"><u>No More Firefox Freezes: Ultimate Fix Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/sample-sql-commands-for-database-management-professionals/"><u>Sample SQL Commands for Database Management Professionals</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/streamline-your-web-development-with-ipatch-sequence-target-techniques/"><u>Streamline Your Web Development with IPatch Sequence Target Techniques</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-rated-web-based-image-modifier-convert-any-pictures-backdrop-to-pure-white/"><u>Top-Rated Web-Based Image Modifier: Convert Any Picture's Backdrop to Pure White</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>[New] Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-conquering-podcast-title-creativity-a-comprehensive-tutorial-and-idea-list/"><u>[New] Conquering Podcast Title Creativity A Comprehensive Tutorial & Idea List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-top-20-trending-memes-reddit-vs-twitter/"><u>[New] In 2024, Top 20 Trending Memes Reddit Vs. Twitter</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-filming-gameplay-on-fbx/"><u>[New] Streamline Your Filming - Gameplay on FBX</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[Updated] Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/different-techniques-for-taking-pictures-of-your-desktop-display/"><u>Different Techniques for Taking Pictures of Your Desktop Display</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-virtual-greeting-cards-top-picks-for-web-based-design-software-with-complete-beginners-guide/"><u>Mastering Virtual Greeting Cards: Top Picks for Web-Based Design Software with Complete Beginner's Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/six-essential-dependencies-every-project-manager-must-master/"><u>Six Essential Dependencies Every Project Manager Must Master</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-installation-settings-and-configurations/"><u>Understanding Installation Settings and Configurations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-voice-potential-5-innovative-gpt-commands/"><u>Unleash Voice Potential: 5 Innovative GPT Commands</u></a></li>
 </ul></div>
 

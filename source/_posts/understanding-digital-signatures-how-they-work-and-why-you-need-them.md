@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Signatures: How They Work & Why You Need Them"
-date: 2024-09-30T21:27:32.115Z
-updated: 2024-10-05T16:30:26.870Z
+date: 2024-10-09T04:11:57.285Z
+updated: 2024-10-10T18:16:26.841Z
 tags:
   - user-guide
 categories:
@@ -109,32 +109,25 @@ Table of Contents
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IDigitalSignature: IDispatch
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overview
 
 This component is meant to edit digital signature details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -154,10 +147,10 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -176,6 +169,19 @@ This method sets the password policy to store the encrypted password in the proj
 
 **SetCertificatePasswordManually()**  
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -216,15 +222,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-fastest-indie-film-tips-for-at-home-creators/"><u>2024 Approved 5 Fastest Indie Film Tips for At-Home Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/automate-tasks-with-ipowershell-utilizing-attached-script-files/"><u>Automate Tasks with IPowerShell: Utilizing Attached Script Files</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-file-management-techniques-using-ifolder-operations/"><u>Efficient File Management Techniques Using iFolder Operations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/experience-cinematic-quality-with-these-tips-for-watching-4k-video-on-netflix/"><u>Experience Cinematic Quality with These Tips for Watching 4K Video on Netflix</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-13t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 13T Through Google Earth?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-webs-whiz-kids-10-highest-viewing-stars/"><u>In 2024, Web's Whiz Kids 10 Highest Viewing Stars</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-the-sound-mobile-beats-best-ripplers-for-2024/"><u>Shake the Sound Mobile Beats' Best Ripplers for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>[New] 2024 Approved Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-different-writing-styles-a-comprehensive-guide/"><u>1. 'Different Writing Styles: A Comprehensive Guide'</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-s18-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo S18 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-3-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 3 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-navigation-top-tips-for-optimizing-your-primary-web-interface/"><u>Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/game-changing-msi-motherboard-debut-with-unmatched-camm2-ram-compatibility-redefining-gaming-pc-experience-with-z7-project-zero-innovation/"><u>Game-Changing MSI Motherboard Debut with Unmatched CAMM2 RAM Compatibility - Redefining Gaming PC Experience with Z7# Project Zero Innovation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-90-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 90 Phone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ibuildcomponents-the-ultimate-building-blocks-of-modern-software-development/"><u>IBuildComponents: The Ultimate Building Blocks of Modern Software Development</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-shaky-no-more-a-step-by-step-guide-to-video-stabilization-for-2024/"><u>New Shaky No More A Step-by-Step Guide to Video Stabilization for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-the-lead-in-latest-geekbench-6-testing-marking-65-performance-milestone/"><u>Snapdragon X CPU Takes the Lead in Latest Geekbench 6 Testing, Marking 6.5% Performance Milestone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-playback-issues-with-mkv-files-in-vlc-media-player/"><u>Solving Playback Issues with MKV Files in VLC Media Player</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Web Development with IPatch Sequence Target Techniques
-date: 2024-09-28T20:03:11.902Z
-updated: 2024-10-05T19:54:41.253Z
+date: 2024-10-09T01:41:37.693Z
+updated: 2024-10-11T00:32:35.534Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchSequenceTarget
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,10 +129,16 @@ Table of Contents
 IPatchSequenceTarget : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -140,10 +146,10 @@ IPatchSequenceTarget : IDispatch
 This interface is meant to edit sequence target options. This information is required by the installer in order to determine the sequence in which the patches are applied.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,10 +165,10 @@ This interface is meant to edit sequence target options. This information is req
 **Bool SupersedeEarlierPatches** \- Gets or sets the flag that specifies if the sequence supersedes earlier patches.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -204,16 +210,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-definitive-guide-to-iptv-stream-preservation/"><u>[Updated] In 2024, The Definitive Guide to IPTV Stream Preservation</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>2024 Approved Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-podcast-production-perfection-from-draft-to-audio-bliss/"><u>2024 Approved Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/can-you-rely-on-windows-defender-for-adequate-malware-and-threat-protection/"><u>Can You Rely on Windows Defender For Adequate Malware and Threat Protection?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/diverse-strategies-for-creating-effective-add-ins/"><u>Diverse Strategies for Creating Effective Add-Ins</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-methods-to-transform-mkv-videos-into-wmv-file-type/"><u>Easy Methods to Transform MKV Videos Into WMV File Type</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-sound-organization-leading-android-apps-for-effortless-music-handling/"><u>Enhance Sound Organization: Leading Android Apps for Effortless Music Handling</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-12-live-views-at-your-fingertips-for-2024/"><u>Exclusive 12 Live Views at Your Fingertips for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-note-12-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi Note 12 4G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/integrating-executable-files-a-guide-to-crafting-tailored-system-events/"><u>Integrating Executable Files: A Guide to Crafting Tailored System Events</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-gaming-rigs-revealed-the-ultimate-pc-case-picks/"><u>Top-Rated Gaming Rigs Revealed: The Ultimate PC Case Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>[New] TikTok Beats as Ringtones Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-video-discoverability-key-youtube-seo-techniques/"><u>[Updated] Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/disabling-site-alerts-in-your-browser-tips-for-chrome-firefox-and-edge-users/"><u>Disabling Site Alerts in Your Browser: Tips for Chrome, Firefox & Edge Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ideal-digital-classrooms-a-guide-to-premium-online-education-platforms/"><u>Ideal Digital Classrooms: A Guide to Premium Online Education Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-prohibited-to-save-youtube-footage/"><u>Is It Prohibited to Save YouTube Footage?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/modify-settings-in-edit-dialogue-updating-your-text-files/"><u>Modify Settings in Edit Dialogue: Updating Your Text Files</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/optimized-project-management-with-cache-tab-solutions/"><u>Optimized Project Management with Cache Tab Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securing-privacy-a-guide-to-hiding-contact-info-on-android-devices/"><u>Securing Privacy: A Guide to Hiding Contact Info on Android Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-youtube-experience/"><u>Troubleshooting Tips: How to Fix a Non-Responsive YouTube Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Advanced Search Settings: A Guide to Effective Result Filtering"
-date: 2024-09-28T19:01:12.376Z
-updated: 2024-10-05T21:11:04.065Z
+date: 2024-10-08T02:11:28.110Z
+updated: 2024-10-10T17:30:01.136Z
 tags:
   - user-guide
 categories:
@@ -106,25 +106,18 @@ Specify what files (or types of files) should be added to the project.
 
 You can specify what files will be added to the package. Use the \[New \], \[Edit \] and \[Remove \] buttons to do that. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Attributes
 
 You can specify the attributes of the files that will be added to the package.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The include filters are applied only to files. They are not taken into consideration for folders.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Exclude Filters
 
@@ -133,10 +126,17 @@ Specify what files (or types of files) should be left out of the project. The ex
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Folders can be excluded only by using an exclude filter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Exclude sub-folders
@@ -144,10 +144,16 @@ Specify what files (or types of files) should be left out of the project. The ex
 Enable the “Exclude Sub-folders” check-box if you don't want to include the synchronized folder's sub-folders in your project.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -188,20 +194,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>[New] 2024 Approved Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-creating-compelling-visual-collections-from-single-images/"><u>[Updated] In 2024, Creating Compelling Visual Collections From Single Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wepbjpeg-movavi/"><u>無償で簡単WepbJpegファイルを移行 - Movaviのガイド</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-the-web-to-reality-embedding-youtube-videos-in-slides-for-2024/"><u>Bringing the Web to Reality Embedding YouTube Videos in Slides for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/dialogue-on-physical-path-permissions-strengthening-security-through-verified-credentials/"><u>Dialogue on Physical Path Permissions: Strengthening Security Through Verified Credentials</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effective-mastering-strategies-tips-insights-and-techniques/"><u>Effective, Mastering, Strategies, Tips, Insights, and Techniques.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-progid-attributes-in-windows-com-objects-essential-guide/"><u>Exploring ProgID Attributes in Windows COM Objects: Essential Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-quickly-restore-removed-images-on-your-ipod-touch-4th5th-gen/"><u>How To Quickly Restore Removed Images on Your iPod Touch (4Th/5th Gen)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-server-connection-lost-problems-while-playing-escape-from-tarkov/"><u>How to Resolve Server Connection Lost Problems While Playing Escape From Tarkov</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/narratives-unleashed-10-adventure-games-reviewed/"><u>Narratives Unleashed #10 Adventure Games Reviewed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015104625-no-audio-on-your-airpods-pro-heres-how-to-fix-it/"><u>No Audio on Your AirPods Pro? Here's How to Fix It</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimizing-core-service-functionality-an-in-depth-guide/"><u>Optimizing Core Service Functionality: An In-Depth Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-5-leading-tools-for-data-retrieval-from-damaged-drives/"><u>Top 5 Leading Tools for Data Retrieval From Damaged Drives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-top-9-invisible-media-extractors/"><u>[New] Top 9 Invisible Media Extractors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-10-web-based-hd-screen-capture-tools/"><u>[Updated] 2024 Approved Best 10 Web-Based HD Screen Capture Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-youtube-titulos-con-algoritmos/"><u>[Updated] Mastering YouTube Títulos Con Algoritmos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unraveling-the-web-of-social-media-illusions-for-marketers/"><u>[Updated] Unraveling the Web of Social Media Illusions for Marketers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/boost-your-gaming-pc-performance-with-newest-geforce-gtx-1650-super-drivers-on-windows/"><u>Boost Your Gaming PC Performance with Newest GeForce GTX 1650 Super Drivers on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-to-capturing-lol-games/"><u>Comprehensive Guide to Capturing LOL Games</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-editing-of-components-and-groups-in-the-user-interface/"><u>Efficient Editing of Components and Groups in the User Interface</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/in-depth-analysis-unveiling-the-strengths-and-weaknesses-of-screencast-crafting-tool/"><u>In-Depth Analysis: Unveiling the Strengths & Weaknesses of Screencast-Crafting Tool</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-android-connectivity-discover-the-best-3-techniques-for-controlling-one-android-with-another/"><u>Mastering Android Connectivity: Discover the Best 3 Techniques for Controlling One Android with Another</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/professional-image-editors-expert-level-tools-for-perfecting-picture-backdrops/"><u>Professional Image Editors: Expert-Level Tools for Perfecting Picture Backdrops</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-initiation-with-ease/"><u>Streamlining Windows 11 Initiation with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-future-of-home-safety-evaluating-the-battery-version-of-googles-wireless-nest-doorbell/"><u>The Future of Home Safety: Evaluating the Battery Version of Google's Wireless Nest Doorbell</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark 20C? | Dr.fone</u></a></li>
 </ul></div>
 

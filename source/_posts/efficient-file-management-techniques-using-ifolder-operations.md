@@ -1,7 +1,7 @@
 ---
 title: Efficient File Management Techniques Using iFolder Operations
-date: 2024-10-04T16:53:18.887Z
-updated: 2024-10-05T18:12:55.335Z
+date: 2024-10-08T03:40:03.294Z
+updated: 2024-10-10T22:04:53.187Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 This interface is meant to specify details about folder removal and overwrite behavior. By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,10 +127,10 @@ This interface is meant to specify details about folder removal and overwrite be
 IFolderOperations : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -151,10 +151,10 @@ Supported values: OverwriteOlderFiles if the files from the folder on the target
 **String OverwriteCondition** \- Condition when the folder content will be preserved. Condition will work only for DoNotOverwrite overwrite behavior.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -198,18 +198,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-identifying-ideal-frame-rates-in-slow-mo-vids/"><u>[New] Identifying Ideal Frame Rates in Slow-Mo Vids</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-eliminating-malware-induced-search-and-shopping-traffic-hijacking-a-step-by-step-guide/"><u>1. Eliminating Malware-Induced Search & Shopping Traffic Hijacking: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-mastering-audio-balance-achieving-consistent-volume-levels-with-vlc-media-player/"><u>2024 Approved Mastering Audio Balance Achieving Consistent Volume Levels with VLC Media Player</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-to-transfer-your-iphone-songs-to-a-computer-without-hassle/"><u>Easy Steps to Transfer Your iPhone Songs to a Computer Without Hassle</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-reno-10-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Reno 10 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-made-simple-displaying-android-content-on-a-philips-television-screen/"><u>Mirroring Made Simple: Displaying Android Content on a Philips Television Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-windows-sound-problems-no-more-popping-or-hissing/"><u>Solving Windows Sound Problems: No More Popping or Hissing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/system-stability-and-me-driver/"><u>System Stability & ME Driver</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-critical-hardware-and-software-analysis-by-tom/"><u>The Ultimate Resource for Critical Hardware and Software Analysis by Tom</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-strategies-for-altering-pdf-colors-a-comprehensive-guide-updated/"><u>Top Strategies for Altering PDF Colors: A Comprehensive Guide (Updated)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-effortless-image-addition-guide-for-instagram-users-for-2024/"><u>[New] Effortless Image Addition Guide for Instagram Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>[Updated] 2024 Approved DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-showcase-video-reversal-techniques/"><u>[Updated] 2024 Approved Instagram Showcase Video Reversal Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-m4a-wma/"><u>使いやすく安価! Movaviでオンデマンド M4A からWMAファイル変換ツールを無料ダウンロード</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/buyers-picks-highest-ranked-impermeable-smartphone-covers-of-the-year-2024/"><u>Buyer's Picks: Highest-Ranked Impermeable Smartphone Covers of the Year 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-retrieving-deleted-texts-across-all-mobile-devices/"><u>Guide: Retrieving Deleted Texts Across All Mobile Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-vanishing-mouse-pointer-in-windows-11-complete-guide/"><u>How to Fix a Vanishing Mouse Pointer in Windows 11 - Complete Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-elite-laptops-powered-by-the-latest-snapdragon-x-processor-surpassing-the-15-hour-mark-and-challenging-intel-rivals/"><u>Unveiling Elite Laptops Powered by the Latest Snapdragon X Processor: Surpassing the 15-Hour Mark & Challenging Intel Rivals</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring ProgID Attributes in Windows COM Objects: Essential Guide"
-date: 2024-10-01T19:10:49.885Z
-updated: 2024-10-05T20:04:58.865Z
+date: 2024-10-07T00:37:04.548Z
+updated: 2024-10-10T23:32:36.246Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## ProgID Properties
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -90,10 +90,10 @@ Table of Contents
  Detailed explanation for the files handled by the selected ProgID. This field is of [PseudoFormatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display
@@ -101,10 +101,10 @@ Table of Contents
  Specify an icon that will be associated with all the files handled by that ProgID. Choose a file containing icons by using the\[Browse... \] button, and select an icon from the available icons from the drop-down list box. Press\[Reset \] to revert to no icon. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mac OS X
@@ -146,20 +146,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>[New] Deciding on the Best Videography Camera Type DSLR or Mirrorless?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-tinder-profiles-top-tricks-for-instant-love-interest/"><u>[Updated] Mastering the Art of Tinder Profiles Top Tricks for Instant Love Interest</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-live-stream-tools-xsplit-or-obs/"><u>Best Live Stream Tools XSplit or OBS?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-top-3-replacements-for-picasa-modern-photo-editing-software/"><u>Best Top 3 Replacements for Picasa: Modern Photo Editing Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-custom-ai-powered-visuals-directly-through-google-search-new-update/"><u>Create Custom AI-Powered Visuals Directly Through Google Search - New Update!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fathers-day-greeting-cards-inspiration-best-practices-and-creative-concepts-for-perfect-messages/"><u>Father's Day Greeting Cards Inspiration: Best Practices & Creative Concepts for Perfect Messages</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/in-depth-product-information-navigating-the-features-and-specifications-section/"><u>In-Depth Product Information: Navigating the Features & Specifications Section</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/modify-parent-child-conversations-a-comprehensive-guide/"><u>Modify Parent-Child Conversations: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-persistent-blinking-a-complete-guide/"><u>Resolve the Persistent Blinking: A Complete Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solving-the-issue-why-cant-my-iphone-play-apple-music-and-how-to-get-it-working/"><u>Solving the Issue: Why Can't My iPhone Play Apple Music and How To Get It Working?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-3-methods-for-converting-pdf-files-into-microsoft-word-format-on-pc/"><u>Top 3 Methods for Converting PDF Files Into Microsoft Word Format on PC</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-5-compatible-screen-mirroring-applications-for-your-windows-11-pc/"><u>Top 5 Compatible Screen Mirroring Applications for Your Windows 11 PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-note-12-proplus-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi Note 12 Pro+ 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-movie-maker-turn-your-ideas-into-animated-reality/"><u>Windows Movie Maker Turn Your Ideas Into Animated Reality</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unlocking-virality-on-tiktok-through-strategic-hashtags/"><u>[New] 2024 Approved Unlocking Virality on TikTok Through Strategic Hashtags</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagrams-selfie-codex-decoding-image-integrity/"><u>[New] In 2024, Instagram's Selfie Codex Decoding Image Integrity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-construct-powerpoint-into-digital-film/"><u>2024 Approved Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-which-video-sharing-platform-prevails-analyzing-igtv-vs-youtube/"><u>2024 Approved Which Video Sharing Platform Prevails? Analyzing IGTV Vs. YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrective-measures-for-blinking-display-hp/"><u>Corrective Measures for Blinking Display (HP)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-tutorial-how-to-save-or-record-a-microsoft-lync-webinar-for-both-windows-and-macos-users/"><u>Easy Tutorial: How to Save or Record a Microsoft Lync Webinar for Both Windows & macOS Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expert-guide-navigating-the-advanced-features-of-your-installation-wizard/"><u>Expert Guide: Navigating the Advanced Features of Your Installation Wizard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-four-main-approaches-regulators-take-for-ai-tools-supervision/"><u>Exploring the Four Main Approaches Regulators Take for AI Tools Supervision</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elite-edits-the-best-video-editors-ranked/"><u>In 2024, Elite Edits The Best Video Editors Ranked</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202660702-stellar-file-eraser-5-windows-standard-en-setting-scheduler-for/"><u>Stellar File Eraser 5 Windows Standard en Setting Scheduler for ...</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-digital-signatures-how-they-work-and-why-you-need-them/"><u>Understanding Digital Signatures: How They Work & Why You Need Them</u></a></li>
 </ul></div>
 

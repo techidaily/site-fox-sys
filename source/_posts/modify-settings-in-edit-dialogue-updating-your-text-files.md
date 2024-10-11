@@ -1,7 +1,7 @@
 ---
 title: "Modify Settings in Edit Dialogue: Updating Your Text Files"
-date: 2024-09-28T17:16:20.593Z
-updated: 2024-10-05T21:33:56.546Z
+date: 2024-10-09T01:03:07.056Z
+updated: 2024-10-11T05:46:27.310Z
 tags:
   - user-guide
 categories:
@@ -95,22 +95,15 @@ The main dialog interface is composed from two panels. The left side will displa
 Multiple updates can be defined. These operations will be executed on the files specified under [Global Properties](https://tools.techidaily.com/advancedinstaller/products/) in the “Include” field.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add an Append/Create operation
 
 A new append/create operation can be created by selecting\[New \] from the context menu or by pressing+ key while the left panel is focused.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add a Search and Replace operation
 
@@ -119,22 +112,28 @@ A new Search and Replace operation can be created by selecting\[New \] from the 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)Only **one** append/create operation can be declared per "Text File Update".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Rename an operation
 
 A created operation can be renamed by selecting\[Rename \] from the context menu or by pressingF2 key while the operation is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Move Up
 
@@ -148,6 +147,14 @@ To move up the selected update operation select from the context menu the \[Move
 
 An update operation can be deleted by selecting from the context menu the \[Delete \] command or by pressing theDelete key while an update is selected.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Topics
 
 * [Text File Properties](https://tools.techidaily.com/advancedinstaller/products/)  
@@ -192,19 +199,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-streamcatcher-pro-for-facebook-videos/"><u>[New] 2024 Approved StreamCatcher Pro for Facebook Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fix-fixed-no-more-obs-camera-issues-for-2024/"><u>[Updated] Fix Fixed No More OBS Camera Issues for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] In 2024, Get Perfect Film Endings for Your Projects - On the House</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-a-faulty-corsair-audio-device-a-step-by-step-guide/"><u>Diagnosing and Repairing a Faulty Corsair Audio Device: A Step by Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-repairs-get-your-corsair-void-mic-working-again/"><u>DIY Repairs: Get Your Corsair Void Mic Working Again</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-operations-through-iserviceconfigurationmethod/"><u>Enhancing Operations Through IServiceConfigurationMethod</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-tracker-heres-how-to-disable-them/"><u>Facebook Tracker? Here's How to Disable Them</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-basics-your-ultimate-guide-to-playing-roblox-across-windows-and-macos/"><u>Mastering the Basics: Your Ultimate Guide to Playing Roblox Across Windows and macOS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-users-how-to-fix-the-yakuza-3-remastered-game-crash-issue/"><u>PC Users! How to Fix the Yakuza 3 Remastered Game Crash Issue?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/strongpassword-checker-reliable-tool-for-evaluating-your-passphrase-security/"><u>StrongPassword Checker: Reliable Tool for Evaluating Your Passphrase Security</u></a></li>
-<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-walkthrough-setting-up-and-enjoying-honkai-impact-3-on-a-personal-computer/"><u>Ultimate Walkthrough: Setting Up and Enjoying Honkai Impact 3 on a Personal Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/update-component-for-itext-files-streamlined-data-processing/"><u>Update Component for iText Files: Streamlined Data Processing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-integrating-obs-in-daily-skype-monitoring/"><u>[New] In 2024, Integrating OBS in Daily Skype Monitoring</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks/"><u>[Updated] 2024 Approved Unveiling Secrets How to Dominate FB Searches with These 10 Hacks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-enhance-engagement-personalize-twitter-videos-with-new-thumbnails/"><u>[Updated] Enhance Engagement Personalize Twitter Videos with New Thumbnails</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-transforming-your-instagram-films-with-border-magic/"><u>[Updated] In 2024, Transforming Your Instagram Films with Border Magic</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-methods-to-eliminate-ransomware-from-your-windows-computer-a-step-by-step-guide/"><u>Effective Methods to Eliminate Ransomware From Your Windows Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-incorporate-an-exe-file-into-your-personalized-events-setup/"><u>How to Incorporate an Exe File Into Your Personalized Events Setup</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a59-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A59 5G FRP Without Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-background-replacement-in-images-using-advanced-photo-editors/"><u>Mastering Background Replacement in Images Using Advanced Photo Editors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/speedy-solutions-top-tips-for-accelerating-your-android-smartphone/"><u>Speedy Solutions: Top Tips for Accelerating Your Android Smartphone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-transferring-data-from-huawei-nova-9-to-your-personal-computer/"><u>Step-by-Step Guide: Transferring Data From Huawei Nova 9 to Your Personal Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-conversion-transforming-m4a-files-into-mp4-for-easy-video-uploads/"><u>Successful Conversion: Transforming M4A Files Into MP4 for Easy Video Uploads!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-apps-that-blend-audio-with-visuals-the-leading-selections/"><u>Ultimate Guide to Choosing Apps That Blend Audio with Visuals: The Leading Selections</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-f5-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco F5 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimized Project Management with Cache Tab Solutions
-date: 2024-09-28T20:04:17.354Z
-updated: 2024-10-05T21:00:00.413Z
+date: 2024-10-05T04:36:14.581Z
+updated: 2024-10-11T04:05:23.071Z
 tags:
   - user-guide
 categories:
@@ -83,20 +83,27 @@ To speed up the build process, Advanced Installer will store and reuse the archi
 
 You can enable caching in your project archives by selecting the “Speed up builds by caching unchanged archives” check-box.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Store cached files next to project
 
  A sub-folder is created in the project folder; and will be used for caching.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Store cached files next in folder
 
 This option allows you to specify a particular folder to be used for caching.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Disabling cache
 
@@ -105,10 +112,16 @@ You can disable caching in your project by unselecting the “Speed up builds by
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When disabling the cache, the cached files are deleted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reusing archives
@@ -119,26 +132,13 @@ If the source files are changed, the stored archive will be removed and rebuilt.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)In order to perform a clean build without reusing cached archives, you can use the “/rebuild” command-line or the Rebuild context menu button from the [Builds](https://tools.techidaily.com/advancedinstaller/products/) page.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)The OS does not guarantee that the file dates are updated in real time so there might be situations when the cached archives are used even if a source file content has been modified (without changing its dates and size). You should always rebuild the project for your release deployments to make sure that the newest source files are used.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resources
@@ -180,18 +180,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-10-guide-to-simple-business-channel-launches-on-youtube/"><u>[Updated] 2024 Approved Top 10 Guide to Simple Business Channel Launches on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/analyzing-public-sentiment-for-vllo-for-2024/"><u>Analyzing Public Sentiment for VLLO for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-how-to-move-your-entire-spotify-library-over-to-apple-music/"><u>Complete Guide: How to Move Your Entire Spotify Library Over to Apple Music</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-avchd-video-files-to-mov-format-using-mac-os-x-el-capitan/"><u>Convert AVCHD Video Files to MOV Format Using Mac OS X El Capitan</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-methods-to-save-videos-from-omegle-encounters/"><u>Effortless Methods to Save Videos From Omegle Encounters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/harnessing-the-power-of-hashtags-to-amplify-your-igtv-content-for-2024/"><u>Harnessing the Power of Hashtags to Amplify Your IGTV Content for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-expert-tips-extracting-audio-from-youtube-video-playback/"><u>In 2024, Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-3-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 3 Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pro-level-strategies-for-remote-audio-capture-for-2024/"><u>Pro-Level Strategies for Remote Audio Capture for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tab-specification-mastering-the-build-settings/"><u>Tab Specification: Mastering the 'Build' Settings</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-5-leading-tools-for-data-retrieval-from-damaged-drives/"><u>Top 5 Leading Tools for Data Retrieval From Damaged Drives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-watch-facebook-live-on-your-apple-media-hub/"><u>[New] How to Watch Facebook Live on Your Apple Media Hub</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-masterful-mp4-transformation-tools-facebook-edition/"><u>[Updated] 2024 Approved Masterful MP4 Transformation Tools (Facebook Edition)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-guide-to-macs-finest-sniping-tools-uncovered-for-2024/"><u>[Updated] A Guide to Mac's Finest Sniping Tools Uncovered for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-ensure-the-best-live-experience-with-top-networks/"><u>[Updated] How to Ensure the Best Live Experience with Top Networks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-slack-and-filmora-efficient-meeting-planning-and-recording-guide-for-2024/"><u>[Updated] Mastering Slack & Filmora Efficient Meeting Planning & Recording Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pulsating-performance-audio-addition-to-videos-on-win11/"><u>2024 Approved Pulsating Performance Audio Addition to Videos on Win11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/adding-bing-dwen-dwen-a-step-by-step-guide-for-enhancing-your-olympics-2022-images/"><u>Adding Bing Dwen Dwen: A Step-by-Step Guide for Enhancing Your Olympics 2022 Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/coloredge-clarity-redefined-examining-eizos-4kcg318-display-for-2024/"><u>ColorEdge Clarity Redefined – Examining EIZO’s 4KCG318 Display for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/essential-functions-understanding-windows-server-capabilities/"><u>Essential Functions: Understanding Windows Server Capabilities</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-classpnpsys-errors-for-windows-11-and-windows-7-users/"><u>How to Fix Classpnp.sys Errors for Windows 11 and Windows 7 Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-screenshots-on-asus-zenphone-devices-zenfone-2-4-5-and/"><u>Mastering the Art of Screenshots on ASUS ZenPhone Devices (Zenfone 2, 4, 5 & 지)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-through-sql-servers-tips-and-strategies-for-efficient-browsing/"><u>Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/online-free-tool-easy-conversion-of-webm-videos-into-high-quality-mp4-formats/"><u>Online Free Tool: Easy Conversion of WebM Videos Into High-Quality MP4 Formats</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsungs-evolution-in-smartphones-the-galaxy-s10plus-versus-the-newly-launched-s20/"><u>Samsung's Evolution in Smartphones - The Galaxy S10+ versus the Newly Launched S20</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-change-documents-from-microsoft-word-into-a-pdf-file/"><u>Simple Steps to Change Documents From Microsoft Word Into a PDF File</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-adding-audio-to-pictures-with-legally-free-content-sources/"><u>Step-by-Step Tutorial: Adding Audio to Pictures with Legally Free Content Sources</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wifi-and-ransomware-how-secure-are-you-and-what-might-shock-you-to-find-out/"><u>WiFi and Ransomware: How Secure Are You, And What Might Shock You to Find Out!</u></a></li>
 </ul></div>
 
