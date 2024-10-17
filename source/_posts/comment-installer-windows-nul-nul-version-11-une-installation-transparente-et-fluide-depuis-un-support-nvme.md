@@ -1,7 +1,7 @@
 ---
 title: "Comment Installer Windows Nul Nul, Version 11: Une Installation Transparente Et Fluide Depuis Un Support NVME"
-date: 2024-10-03T17:24:57.943Z
-updated: 2024-10-11T04:25:57.100Z
+date: 2024-10-11T07:53:43.541Z
+updated: 2024-10-16T18:21:50.822Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/42a3217d9873863c48091846f5f8a9e9b9b6456440b499628df593e7d229a025.jpg
@@ -49,13 +49,20 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -78,10 +85,10 @@ Causes of "winload.efi missing or contains error after clone" issues:
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
@@ -105,10 +112,10 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
@@ -118,6 +125,13 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -133,16 +147,16 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -186,6 +200,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Exercise caution to avoid potential system errors when using this command.
 
 ### Option 5\. Repair EFI Boot Loader
@@ -222,6 +243,13 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -238,34 +266,7 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -303,13 +304,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -335,22 +329,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-connected-world-sharing-twitter-media-in-whatsapp-chat/"><u>[New] In 2024, The Connected World Sharing Twitter Media in WhatsApp Chat</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-uninstall-discord-server-on-all-devices-for-2024/"><u>[New] Uninstall Discord Server on All Devices for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-seamless-skype-call-recordings-a-cross-platform-approach/"><u>2024 Approved Seamless Skype Call Recordings A Cross-Platform Approach</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-drive-seamless-integration-with-targus-docking-station-drivers/"><u>Download & Drive: Seamless Integration with Targus Docking Station Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-chats-adding-tunes-via-whatsapp-status/"><u>Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-your-reading-experience-tips-for-clarity-in-digital-flipbooks-on-flipbuildercom/"><u>Enhancing Your Reading Experience - Tips for Clarity in Digital Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-template-types-how-do-classical-spread-and-float-differ-on-flipbuilder-unraveling-the-comparison/"><u>Exploring Template Types: How Do Classical, Spread & Float Differ on FlipBuilder? Unraveling the Comparison</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-12-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone 12 Pro Apple ID and Apple Pay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-htc-u23-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to HTC U23 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-modify-internal-and-external-page-backgrounds-in-your-epub-file-with-flipbuilder/"><u>How to Modify Internal and External Page Backgrounds in Your ePub File with FlipBuilder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/incorporating-your-brand-identity-a-step-by-step-guide-on-adding-a-company-logo-to-flipbooks-toolbar/"><u>Incorporating Your Brand Identity: A Step-by-Step Guide on Adding a Company Logo to FlipBook's Toolbar</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/inside-look-at-changes-in-the-new-samsung-galaxy-s21-model/"><u>Inside Look at Changes in the New Samsung Galaxy S21 Model</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instantly-enhance-lenovo-g580-with-new-drivers/"><u>Instantly Enhance Lenovo G580 with New Drivers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-it-possible-to-embed-videos-and-images-in-pdfs-using-flippdf-tools/"><u>Is It Possible to Embed Videos & Images in PDFs Using FlipPDF Tools?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-the-art-of-custom-gradients-in-your-digital-books-with-flipbook/"><u>Mastering the Art of Custom Gradients in Your Digital Books with FlipBook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-and-enjoy-multifaceted-ebook-content-effortlessly-using-our-flip-feature-flipbuildercom/"><u>Navigate and Enjoy Multifaceted eBook Content Effortlessly Using Our Flip Feature | flipBuilder.com</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/redesigning-with-ease-integrating-projects-into-the-flip-program-platform/"><u>Redesigning with Ease: Integrating Projects Into the Flip Program Platform</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-cutting-edge-approaches-to-crafting-top-fb-cover-videos/"><u>[New] In 2024, Cutting-Edge Approaches to Crafting Top FB Cover Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[Updated] 2024 Approved The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-video-content-transcriber/"><u>[Updated] In 2024, Video Content Transcriber</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-installer-avec-facilite-un-second-hdd-sur-votre-pc-windows-astuces-simples-a-suivre/"><u>Comment Installer Avec Facilité Un Second HDD Sur Votre PC Windows - Astuces Simples À Suivre !</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-recuperer-et-restaurer-des-fichiers-raw-sans-formatage-sur-carte-sd/"><u>Comment Récupérer Et Restaurer Des Fichiers RAW Sans Formatage Sur Carte SD</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Nokia C300 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C12 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-potential-of-hd-videos-on-android-devices/"><u>In 2024, Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/libreoffice-dokumente-wiedergewinnen-professionelle-methoden-und-tipps/"><u>LibreOffice-Dokumente Wiedergewinnen: Professionelle Methoden Und Tipps</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/meet-the-talented-author-unveiling-zelias-captivating-story/"><u>Meet the Talented Author: Unveiling Zelia's Captivating Story</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nahimic-driver-installment-swift-and-easy-enhancement-of-your-sound-system/"><u>Nahimic Driver Installment - Swift and Easy Enhancement of Your Sound System</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-effects-of-pausing-on-facebook/"><u>The Effects of Pausing on Facebook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/write-down-the-two-numbers-one-below-the-other-aligned-on-the-rightmost-digit/"><u>Write Down the Two Numbers, One Below the Other, Aligned on the Rightmost Digit.</u></a></li>
 </ul></div>
 
