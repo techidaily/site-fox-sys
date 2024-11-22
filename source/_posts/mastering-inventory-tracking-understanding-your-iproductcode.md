@@ -1,7 +1,7 @@
 ---
 title: "Mastering Inventory Tracking: Understanding Your IProductCode"
-date: 2024-10-03T18:18:58.841Z
-updated: 2024-10-10T17:41:38.104Z
+date: 2024-11-16T12:20:34.820Z
+updated: 2024-11-22T10:06:54.104Z
 tags:
   - user-guide
 categories:
@@ -111,10 +111,7 @@ Table of Contents
 This interface is meant to edit the [“Product Code”](https://tools.techidaily.com/advancedinstaller/products/) for specific languages present in the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -122,10 +119,7 @@ This interface is meant to edit the [“Product Code”](https://tools.techidail
  IProductCode: IDispatch 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -156,16 +150,13 @@ Generates a new product code for all languages in the project.
 $advinst = new-object -comObject "AdvancedInstaller"
 $proj    = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## generate new product code
 $proj.ProductDetails.ProductCode.GenerateAll()
 $new_prodCode = $proj.ProductDetails.ProductCode.GetProductCode()
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## generate upgrade code
 $upgradeCode     = $proj.ProductDetails.UpgradeCode.UpgradeCode
@@ -177,6 +168,10 @@ $projPath = "C:\Tests\Powershell COM\multi-language.aip"
 ## generate different product codes for each language
 $projPath.ProductDetails.ProductCode.SetDifferentValues()
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## get product code per language package
 $pc_en = $projPath.ProductDetails.ProductCode.GetProductCode(1033)
 $pc_fr = $projPath.ProductDetails.ProductCode.GetProductCode(1036)
@@ -186,10 +181,7 @@ $pc_de = $projPath.ProductDetails.ProductCode.GetProductCode(1031)
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -233,20 +225,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gimbal-mastery-7-drone-pros-recommended/"><u>[New] Gimbal Mastery 7 Drone Pros Recommended</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks/"><u>[New] In 2024, Craft a Masterpiece Techniques for Engaging, Viral TikTok Unpacks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[Updated] In 2024, A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-testimonial-videos-the-social-proof-powerhouse/"><u>2024 Approved Testimonial Videos The Social Proof Powerhouse</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-resource-collection-hub/"><u>Comprehensive Resource Collection Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-software-for-your-canon-pixma-mg2520mg2530-printers/"><u>Get the Newest Software for Your Canon PIXMA MG2520/MG2530 Printers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-redesigning-the-perception-of-sony-s3700-review/"><u>In 2024, Redesigning the Perception of Sony S3700 Review</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/innovative-techniques-and-applications-for-observing-computer-behavior/"><u>Innovative Techniques and Applications for Observing Computer Behavior</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-android-connectivity-discover-the-best-3-techniques-for-controlling-one-android-with-another/"><u>Mastering Android Connectivity: Discover the Best 3 Techniques for Controlling One Android with Another</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigate-through-picture-gallery-discover-image-features/"><u>Navigate Through Picture Gallery - Discover Image Features</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-advanced-search-settings-a-guide-to-effective-result-filtering/"><u>Navigating Advanced Search Settings: A Guide to Effective Result Filtering</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quickcapture-5000-chrome-os-recording-pro/"><u>QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-methods-for-sharing-your-android-display-on-windows-and-mac/"><u>Simple Methods for Sharing Your Android Display on Windows and Mac</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-top-competitors-of-listento-on-youtube-a-comprehensive-guide/"><u>The Top Competitors of Listento on YouTube: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>[New] In 2024, A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-sandbox-adventures-not-to-skip/"><u>[New] In 2024, Top Sandbox Adventures Not To Skip</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-trivia-collection-general-knowledge-2024/"><u>[New] The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximize-views-the-art-of-timestamp-integration-on-youtube/"><u>[Updated] In 2024, Maximize Views The Art of Timestamp Integration on YouTube</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728508602431-windows-111087/"><u>恢复 Windows 11/10/8/7 系统中的资料夹和文件：一步一步指南</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/centralized-data-protection-with-aomei-cyberbackup-no-cost-full-features-for-servers-and-pcs/"><u>Centralized Data Protection with AOMEI CyberBackup: No Cost, Full Features for Servers and PCs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/die-top-2-methoden-zum-einrichten-von-windows-11-auf-einer-neuen-ssd-schritt-fur-schritt-anleitung/"><u>Die Top-2 Methoden Zum Einrichten Von Windows 11 Auf Einer Neuen SSD: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-powerful-conversations-with-freedchat/"><u>Harnessing Powerful Conversations with FreedChat</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-7-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 7 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-for-your-lenovo-usb-drivers-resolve-common-connectivity-issues/"><u>Quick Fixes for Your Lenovo USB Drivers - Resolve Common Connectivity Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-linking-airpods-with-windows-pcs/"><u>Quick Guide: Linking AirPods with Windows PCs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolved-fixing-issues-with-nonfunctional-windows-10-start-menu-and-taskbar/"><u>Resolved: Fixing Issues with Nonfunctional Windows 10 Start Menu & Taskbar</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-microsoft-word-crashes-on-office-365-platforms/"><u>Solving Microsoft Word Crashes on Office 365 Platforms</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-arf-pet-food-dispenser-convenient-nutrition-for-your-furry-friend/"><u>The Arf Pet Food Dispenser: Convenient Nutrition for Your Furry Friend</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728509170873-windows-10/"><u>Windows 10中恢复删除的设备驱动程序：三种方法</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728496793569-windows-11/"><u>Windows 11 恢复环境迅速设置：五个直接指南</u></a></li>
 </ul></div>
 

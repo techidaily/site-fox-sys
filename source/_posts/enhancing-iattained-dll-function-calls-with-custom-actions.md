@@ -1,7 +1,7 @@
 ---
 title: Enhancing IATTAINED DLL Function Calls with Custom Actions
-date: 2024-10-09T16:43:54.995Z
-updated: 2024-10-10T21:48:29.992Z
+date: 2024-11-16T16:20:06.639Z
+updated: 2024-11-21T21:23:18.146Z
 tags:
   - user-guide
 categories:
@@ -123,13 +123,14 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IAttachedDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +138,7 @@ Table of Contents
 IAttachedDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
@@ -156,10 +154,7 @@ This interface facilitates editing custom action for calling function from attac
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Example
@@ -172,10 +167,7 @@ $custAct.FunctionName = "MyFunction1"
     Copy
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -217,24 +209,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-change-snapchat-voice-in-minutes-using-twin-methods/"><u>[New] 2024 Approved Change Snapchat Voice in Minutes Using Twin Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximizing-view-count-faster-discover-the-most-effective-shortcuts/"><u>[New] Maximizing View Count Faster Discover the Most Effective Shortcuts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-engaging-local-audiences-with-social-media-videos-for-2024/"><u>[Updated] Engaging Local Audiences with Social Media Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-mastering-tiktok-a-mac-users-quickstart-list/"><u>[Updated] In 2024, Mastering TikTok A Mac User's Quickstart List</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tunefab-screen-recorder-review/"><u>[Updated] In 2024, Tunefab Screen Recorder Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-27-significant-metaverse-demonstrations-unveiled/"><u>2024 Approved 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-professional-window-capturer-version-11/"><u>2024 Approved Professional Window Capturer - Version 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/advanced-guide-modifying-user-input-through-conditional-level-conversations/"><u>Advanced Guide: Modifying User Input Through Conditional-Level Conversations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/can-you-rely-on-windows-defender-for-adequate-malware-and-threat-protection/"><u>Can You Rely on Windows Defender For Adequate Malware and Threat Protection?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/diverse-strategies-for-creating-effective-add-ins/"><u>Diverse Strategies for Creating Effective Add-Ins</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-methods-to-transform-mkv-videos-into-wmv-file-type/"><u>Easy Methods to Transform MKV Videos Into WMV File Type</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-sound-organization-leading-android-apps-for-effortless-music-handling/"><u>Enhance Sound Organization: Leading Android Apps for Effortless Music Handling</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A25 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/integrate-iidriver-seamlessly-with-your-applications/"><u>Integrate IIDriver Seamlessly with Your Applications</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/integrating-executable-files-a-guide-to-crafting-tailored-system-events/"><u>Integrating Executable Files: A Guide to Crafting Tailored System Events</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-on-your-samsung-tablet/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents on Your Samsung Tablet</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/steps-to-restore-deleted-or-damaged-spreadsheet-and-document-files/"><u>Steps to Restore Deleted or Damaged Spreadsheet and Document Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-with-smart-video-cropping-and-exporting/"><u>[Updated] In 2024, Boost Engagement with Smart Video Cropping & Exporting</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-resoudre-lerreur-windows-7-qui-refuse-de-demarrer-sur-une-machine-differente-post-clonage/"><u>Comment Résoudre L'erreur Windows 7 Qui Refuse De Démarrer Sur Une Machine Différente Post-Clonage ?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-facile-pour-recuperation-de-fichiers-indesign-non-enregistres-sous-windows-et-macintosh/"><u>Guide Facile Pour Récupération De Fichiers InDesign Non Enregistrés Sous Windows Et Macintosh</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/klopft-datenabbildung-von-windows-10-ohne-formatkonversion-an/"><u>Klopft Datenabbildung Von Windows 10 Ohne Formatkonversion An</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-road-awareness-exploring-the-features-and-adaptive-technology-of-the-escort-ix-radar-detector/"><u>Mastering Road Awareness: Exploring the Features and Adaptive Technology of the Escort iX Radar Detector</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-srt-mp4-conversion-for-video-enhancement-for-2024/"><u>Mastering SRT MP4 Conversion for Video Enhancement for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/techniques-pour-retrouver-une-partition-perdue-en-windows-11-apres-suppression-involontaire-conseils-dexperts/"><u>Techniques Pour Retrouver Une Partition Perdue en Windows 11 Après Suppression Involontaire - Conseils D'experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433461562-transform-your-mobile-experience-with-bings-smart-search-technology/"><u>Transform Your Mobile Experience with Bing's Smart Search Technology.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tutorial-paso-a-paso-como-hacer-una-copia-de-seguridad-del-servidor-windows-por-la-consola-de-comando-dos-metodos/"><u>Tutorial Paso a Paso: Cómo Hacer Una Copia De Seguridad Del Servidor Windows Por La Consola De Comando (Dos Métodos)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/which-screen-recorder-reigns-supreme-obs-or-fraps-for-2024/"><u>Which Screen Recorder Reigns Supreme OBS or Fraps for 2024</u></a></li>
 </ul></div>
 

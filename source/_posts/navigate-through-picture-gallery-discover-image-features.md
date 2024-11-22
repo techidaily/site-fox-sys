@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Picture Gallery - Discover Image Features
-date: 2024-10-10T04:10:08.784Z
-updated: 2024-10-10T22:49:02.682Z
+date: 2024-11-17T20:50:46.019Z
+updated: 2024-11-22T08:25:58.025Z
 tags:
   - user-guide
 categories:
@@ -73,30 +73,28 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Images Tab
 
  In this page you specify custom images that can be displayed on the dialogs or controls. A preview of an image is showed in the lower pane if that image is selected in the list.
 
 ![Images tab](https://cdn.advancedinstaller.com/img/ui/images-tab.png "Images tab")  
 
-You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image resource and Advanced Installer will offer you the option to convert it to a regular image (i.e. .ico, .jpg or .png).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image resource and Advanced Installer will offer you the option to convert it to a regular image (i.e. .ico, .jpg or .png).
 
 ### Adding a new image
 
 Use the \[New... \] button, the “New...” context menu item or press the Ins key. The [Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new binary image.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing an image
@@ -104,10 +102,7 @@ Use the \[New... \] button, the “New...” context menu item or press the Ins 
 Use the \[Edit \] button, the “Edit...” context menu item, press the Space key or double click an item in the list. The[Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit an image.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Removing an image
@@ -115,10 +110,7 @@ Use the \[Edit \] button, the “Edit...” context menu item, press the Space k
 Use the \[Remove \] button, the “Remove” or press theDel key while an element from the list is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -163,21 +155,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-fbm-transcripts-how-to-get-and-use-complete-records/"><u>[Updated] In 2024, FBM Transcripts How to Get and Use Complete Records</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-master-the-art-of-customizing-youtube-thumbnails-and-improving-visibility/"><u>[Updated] In 2024, Master the Art of Customizing YouTube Thumbnails and Improving Visibility</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-value-of-netflix-for-your-budget/"><u>Evaluating the Value of Netflix for Your Budget</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/furbos-camera-triumph-ultimate-canine-spy-review/"><u>Furbo's Camera Triumph: Ultimate Canine Spy Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-blending-primary-and-b-roll-for-smooth-transitions/"><u>In 2024, Blending Primary and B-Roll for Smooth Transitions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/modify-system-settings-with-the-environment-var-handler-during-software-installation/"><u>Modify System Settings with the Environment Var Handler During Software Installation</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-through-file-hierarchies-understanding-directory-structures/"><u>Navigating Through File Hierarchies: Understanding Directory Structures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ranking-top-tools-convert-srt-files-with-zero-charge/"><u>Ranking Top Tools Convert Srt Files with Zero Charge</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-comintegration-fault-winos-update-successful/"><u>Repaired ComIntegration Fault, WinOS Update Successful</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-mastering-the-apowermirror-application-on-your-android/"><u>Step-by-Step Guide: Mastering the ApowerMirror Application on Your Android</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-8-best-video-converter-on-iphonedesktop-for-2024/"><u>Top 8 Best Video Converter on iPhone/Desktop for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ios-175s-unexpected-photo-recovery-apple-sheds-light-on-the-process-and-future-actions/"><u>Understanding iOS 17.5'S Unexpected Photo Recovery: Apple Sheds Light on the Process & Future Actions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-dont-miss-these-youtube-seo-tools-to-boost-your-video/"><u>[New] In 2024, Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-notch-hacks-navigating-instagrams-forgotten-features-for-2024/"><u>[New] Top-Notch Hacks Navigating Instagram's Forgotten Features for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[Updated] Conquer & Cease The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728498773703-hdd/"><u>「効率的なHDD共有手法：ネットワーク内での実践例」</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/bilden-sie-einen-ssd-aus-einem-hdd-mit-kostenlosem-tool-tutorial-fur-windows-10-11-und-altere-versionen/"><u>Bilden Sie Einen SSD Aus Einem HDD Mit Kostenlosem Tool - Tutorial Für Windows 10, 11 Und Ältere Versionen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/drei-effektive-strategien-zur-schutz-ihrer-daten-wie-sichert-man-eine-fehlerhafte-festplatte/"><u>Drei Effektive Strategien Zur Schutz Ihrer Daten: Wie Sichert Man Eine Fehlerhafte Festplatte?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s From Your Apple ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 Bootloader Easily</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/pc-verzeichnisspiegelung-mit-onedrive-erfahre-drei-innovative-methoden-fur-nahtloses-backup-und-zugriff/"><u>PC-Verzeichnisspiegelung Mit OneDrive: Erfahre Drei Innovative Methoden Für Nahtloses Backup Und Zugriff</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-hot-40-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Hot 40 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wie-behandeln-sie-eine-migration-wenn-ihr-externes-laufwerk-nicht-migrierbar-ist/"><u>Wie Behandeln Sie Eine Migration, Wenn Ihr Externes Laufwerk Nicht Migrierbar Ist?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-server-2019-rdp-stuck-heres-how-to-resolve-and-prevent-unresponsive-sessions/"><u>Windows Server 2019 RDP Stuck? Here's How to Resolve and Prevent Unresponsive Sessions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/optimalnyj-process-sozdaniya-tochnoj-kopii-zhestkogo-diska-dlya-windows-server-2008-r2-ekspertnyj-analiz/"><u>Оптимальный Процесс Создания Точной Копии Жесткого Диска Для Windows Server 2008 (R2): Экспертный Анализ</u></a></li>
 </ul></div>
 

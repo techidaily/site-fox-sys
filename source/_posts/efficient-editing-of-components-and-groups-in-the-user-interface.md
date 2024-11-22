@@ -1,7 +1,7 @@
 ---
 title: Efficient Editing of Components and Groups in the User Interface
-date: 2024-10-09T23:12:49.226Z
-updated: 2024-10-11T00:43:15.254Z
+date: 2024-11-17T16:44:31.661Z
+updated: 2024-11-22T03:13:47.154Z
 tags:
   - user-guide
 categories:
@@ -75,6 +75,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Qualified Component And Group Dialog
 
 The Edit Qualified Components dialog allows you to specify the qualified properties for a component.
@@ -82,10 +86,7 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 ![Edit Qualified Components Dialog](https://cdn.advancedinstaller.com/img/dialog/qualified-component.png "Edit Qualified Components Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Category GUID
@@ -93,10 +94,7 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 Specify a GUID for the category of components being grouped together. Use the drop-down list to choose an existing category or create another
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qualifier
@@ -104,10 +102,7 @@ Specify a GUID for the category of components being grouped together. Use the dr
 Specify a qualifier for the component. This string is used to distinguish components from the same category.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Description
@@ -115,10 +110,7 @@ Specify a qualifier for the component. This string is used to distinguish compon
 Specify a description for the qualified component. The content of this field is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Feature
@@ -158,18 +150,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-competing-to-the-best-substitutes-for-samsungs-gear-360-for-2024/"><u>[Updated] Competing to the Best Substitutes for Samsung's Gear 360 for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-understanding-pre-set-conditions-a-comprehensive-guide/"><u>1. Understanding Pre-Set Conditions: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-ringtones-selection-high-quality-sites/"><u>2024 Approved Elite Ringtones Selection High-Quality Sites</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effective-techniques-for-eliminating-shadows-in-photographs/"><u>Effective Techniques for Eliminating Shadows in Photographs</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-motorola-defy-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Defy 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/flip-your-pdfs-with-this-free-tool-seamlessly-convert-and-rotate-pdf-files-today/"><u>Flip Your PDFs With This Free Tool - Seamlessly Convert and Rotate PDF Files Today!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a15-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy A15 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laughters-playground-top-15-youtube-hits-for-fun/"><u>In 2024, Laughter's Playground Top 15 YouTube Hits for Fun</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-sprint-towards-subscriber-goal-reach-1000/"><u>In 2024, Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976026130-install-the-latest-drivers-for-your-epson-wf-2750-printer-download-here/"><u>Install the Latest Drivers for Your Epson WF-2750 Printer - Download Here!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-steps-to-update-your-tiktok-avatar-a-2022-guide/"><u>Simple Steps to Update Your TikTok Avatar: A 2022 Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhanced-entertainment-tv-ready-looping-techniques-for-video-content-for-2024/"><u>[New] Enhanced Entertainment Tv-Ready Looping Techniques for Video Content for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-imagery-an-in-depth-review-of-the-gopro-karma-drone/"><u>[Updated] In 2024, Elevating Imagery An In-Depth Review of the GoPro Karma Drone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windowsppt/"><u>馬上解決！在Windows系統下PPT失去保存功能時的辦法</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hering-youtubes-shorts-funding-mechanism/"><u>Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guida-allautomazione-dei-backup-computer-centralizzati-creazione-e-gestione-dalla-console/"><u>Guida All'automazione Dei Backup Computer Centralizzati: Creazione E Gestione Dalla Console</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-understanding-the-law-screencasting-youtube-videos/"><u>In 2024, Understanding the Law Screencasting YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-compatible-techniques-to-conquer-pokemon-worlds/"><u>IOS Compatible Techniques to Conquer Pokémon Worlds</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/maximize-performance-seamless-transition-of-windows-nto-an-ssd-no-need-for-reinstallation/"><u>Maximize Performance: Seamless Transition of Windows Nto an SSD - No Need for Reinstallation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professionelle-hd-dvd-brennprogramm-winx-platin-edition-authentische-erwerbung-mit-voller-nutzungsrechte/"><u>Professionelle HD DVD-Brennprogramm WinX - Platin Edition: Authentische Erwerbung Mit Voller Nutzungsrechte</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-7-solutions-for-dealing-with-a-disabled-apple-id-on-itunes-and-app-store/"><u>Top 7 Solutions for Dealing with a Disabled Apple ID on iTunes & App Store</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/transferencia-sencilla-del-sistema-operativo-windows-a-un-disco-duro-ssd-en-equipos-lenovo/"><u>Transferencia Sencilla Del Sistema Operativo Windows a Un Disco Duro SSD en Equipos Lenovo</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-duckduckgo-a-comprehensive-guide/"><u>Understanding DuckDuckGo: A Comprehensive Guide</u></a></li>
 </ul></div>
 

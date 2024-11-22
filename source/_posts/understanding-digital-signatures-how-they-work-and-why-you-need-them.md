@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Signatures: How They Work & Why You Need Them"
-date: 2024-10-09T04:11:57.285Z
-updated: 2024-10-10T18:16:26.841Z
+date: 2024-11-14T20:52:51.781Z
+updated: 2024-11-21T16:42:06.318Z
 tags:
   - user-guide
 categories:
@@ -106,13 +106,14 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -124,10 +125,7 @@ IDigitalSignature: IDispatch
 This component is meant to edit digital signature details.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -147,10 +145,7 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -171,16 +166,7 @@ This method sets the password policy to store the encrypted password in the proj
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -222,19 +208,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-innovators-choice-top-5-state-of-the-art-slow-cams/"><u>[New] 2024 Approved Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-different-writing-styles-a-comprehensive-guide/"><u>1. 'Different Writing Styles: A Comprehensive Guide'</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-s18-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo S18 Pro System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-lava-yuva-3-pro-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Lava Yuva 3 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-navigation-top-tips-for-optimizing-your-primary-web-interface/"><u>Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/game-changing-msi-motherboard-debut-with-unmatched-camm2-ram-compatibility-redefining-gaming-pc-experience-with-z7-project-zero-innovation/"><u>Game-Changing MSI Motherboard Debut with Unmatched CAMM2 RAM Compatibility - Redefining Gaming PC Experience with Z7# Project Zero Innovation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-90-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 90 Phone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ibuildcomponents-the-ultimate-building-blocks-of-modern-software-development/"><u>IBuildComponents: The Ultimate Building Blocks of Modern Software Development</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-shaky-no-more-a-step-by-step-guide-to-video-stabilization-for-2024/"><u>New Shaky No More A Step-by-Step Guide to Video Stabilization for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snapdragon-x-cpu-takes-the-lead-in-latest-geekbench-6-testing-marking-65-performance-milestone/"><u>Snapdragon X CPU Takes the Lead in Latest Geekbench 6 Testing, Marking 6.5% Performance Milestone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/solving-playback-issues-with-mkv-files-in-vlc-media-player/"><u>Solving Playback Issues with MKV Files in VLC Media Player</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-interactive-content-the-key-to-boosted-facebook-pages/"><u>[New] 2024 Approved Interactive Content The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-view-facebook-content-on-your-home-theater-in-2024/"><u>[New] How To View Facebook Content On Your Home Theater, In 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>[Updated] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-simple-strategies-to-resolve-common-issues-with-your-acer-erecovery-system/"><u>1. Simple Strategies to Resolve Common Issues with Your Acer eRecovery System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/a-compreenasian-guide-to-obs-installation-on-apple-systems-for-2024/"><u>A Compreenasian Guide to OBS Installation on Apple Systems for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/can-you-trust-stellar-data-recovery-a-comprehensive-security-and-efficacy-overview/"><u>Can You Trust Stellar Data Recovery? - A Comprehensive Security and Efficacy Overview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conquering-connectivity-issues-the-ultimate-fixes-for-netflixs-nw-1-19-error-code/"><u>Conquering Connectivity Issues: The Ultimate Fixes for Netflix's NW-1-19 Error Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-for-2024/"><u>In-Depth Appraisal Does InShot Rule in Video Edits for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/migracion-de-datos-entre-windows-10-y-11-tres-tecnicas-faciles-para-transferir-archivos-eficientemente/"><u>Migración De Datos Entre Windows 10 Y 11: Tres Técnicas Fáciles Para Transferir Archivos Eficientemente</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-and-safe-guide-configuring-a-pxe-boot-server-on-windows-with-minimal-hassle/"><u>Simple & Safe Guide: Configuring a PXE Boot Server on Windows with Minimal Hassle</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-protecting-raspberry-pi-data-safeguarding-sd-storage-across-win-11-10-8-and-amo/"><u>Step-by-Step Guide to Protecting Raspberry Pi Data: Safeguarding SD Storage Across Win 11, 10, 8, & Amo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-facebook-video-mp4-downloaders/"><u>Top Facebook Video MP4 Downloaders</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-warzone-the-top-10-free-online-fps-games-on-the-web/"><u>Ultimate Warzone: The Top 10 Free Online FPS Games on the Web</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops
-date: 2024-10-04T19:09:15.606Z
-updated: 2024-10-11T01:09:28.502Z
+date: 2024-11-21T10:33:10.376Z
+updated: 2024-11-22T07:38:48.603Z
 tags:
   - user-guide
 categories:
@@ -80,6 +80,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Event Mapping Dialog
 
 This dialog allows you to subscribe the selected control to an event published by another control or the Windows Installer.
@@ -87,10 +91,11 @@ This dialog allows you to subscribe the selected control to an event published b
 ![Event Mapping Dialog](https://cdn.advancedinstaller.com/img/dialog/event-mapping.png "Event Mapping Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Subscribe to
@@ -98,10 +103,7 @@ This dialog allows you to subscribe the selected control to an event published b
 Specify the type of event that is subscribed to by the control.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Attribute to set
@@ -145,14 +147,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[New] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-guide-iphones-video-loop-functionality/"><u>[New] In 2024, Quick Guide IPhone's Video Loop Functionality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-power-of-time-lapse-with-gopro-hero5/"><u>2024 Approved Unlock the Power of Time-Lapse with GoPro Hero5</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/adding-bing-dwen-dwen-a-step-by-step-guide-for-enhancing-your-olympics-2022-images/"><u>Adding Bing Dwen Dwen: A Step-by-Step Guide for Enhancing Your Olympics 2022 Images</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y78plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y78+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/master-the-art-of-cropping-videos-for-instagrams-highest-standards-for-2024/"><u>Master the Art of Cropping Videos for Instagram's Highest Standards for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-your-xiaomi-11-display-on-tv-a-step-by-step-guide/"><u>Mirroring Your Xiaomi 11 Display on TV: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-through-sql-servers-tips-and-strategies-for-efficient-browsing/"><u>Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-steps-to-change-documents-from-microsoft-word-into-a-pdf-file/"><u>Simple Steps to Change Documents From Microsoft Word Into a PDF File</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-art-of-virtual-visualization-in-digital-streaming-platforms/"><u>[New] In 2024, The Art of Virtual Visualization in Digital Streaming Platforms</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skilled-uav-operation-tips-for-filmmakers/"><u>[New] Skilled UAV Operation Tips for Filmmakers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-youtube-time-tracking/"><u>[New] The Essential Guide to YouTube Time Tracking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fb-video-placement-upright-or-flat-angle/"><u>[Updated] In 2024, FB Video Placement - Upright or Flat Angle?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-av1-an-entry-point-to-encoding/"><u>[Updated] Unlocking AV1 An Entry Point to Encoding</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-live-data-synchronization-using-aomei-backupper-a-step-by-step-guide/"><u>1. Live Data Synchronization Using AOMEI Backupper: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728503746873-google/"><u>四大法子重建被誤删除的Google文档：完全指南</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-6-free-tools-to-securely-back-up-your-iphone-data-on-a-pc/"><u>Best 6 Free Tools to Securely Back Up Your iPhone Data on a PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/chrome-default-folder-vanished-effective-solutions/"><u>Chrome Default Folder Vanished: Effective Solutions!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quiet-browser-alerts-chrome-guide-for-windows/"><u>How to Quiet Browser Alerts: Chrome Guide for Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-complete-analysis-triangulating-life-with-samsung-vr/"><u>In 2024, Complete Analysis Triangulating Life with Samsung VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors-for-2024/"><u>Is an M1-Enabled Laptop a Worthwhile Investment for Editors for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/issue-resolved-itunes-failed-iphone-backup-successfully-completed/"><u>Issue Resolved: ITunes Failed iPhone Backup Successfully Completed</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/les-5-techniques-utiles-pour-le-sauvetage-et-la-restauration-de-vos-messages-outlook/"><u>Les 5 Techniques Utiles Pour Le Sauvetage Et La Restauration De Vos Messages Outlook</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/photographic-resurrection-a-safe-approach-to-restore-lost-images-on-an-iphone/"><u>Photographic Resurrection: A Safe Approach to Restore Lost Images on an iPhone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simplifica-tu-almacenamiento-mediante-el-software-raid-clone-para-crear-configuraciones-raid-multiunidad/"><u>Simplifica Tu Almacenamiento Mediante El Software RAID Clone Para Crear Configuraciones RAID Multiunidad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-solving-compatibility-issues-between-hp-displays-and-various-windows-versions/"><u>Step-by-Step Guide: Solving Compatibility Issues Between HP Displays and Various Windows Versions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/techniques-et-etapes-pour-reflechir-avec-succes-votre-disque-dur-datasystem-un-manuel-complementaire/"><u>Techniques Et Étapes Pour Réfléchir Avec Succès Votre Disque Dur Datasystem : Un Manuel Complémentaire</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trampas-comunes-y-facil-recuperacion-supera-el-error-del-99-durante-la-configuracion-de-windows-11/"><u>Trampas Comunes Y Fácil Recuperación: Supera El Error Del 99% Durante La Configuración De Windows 11</u></a></li>
 </ul></div>
 

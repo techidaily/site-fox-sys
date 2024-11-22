@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Successful SQL Server Reporting Services Setup
-date: 2024-10-04T21:18:05.791Z
-updated: 2024-10-10T18:56:00.980Z
+date: 2024-11-14T18:54:02.361Z
+updated: 2024-11-22T03:31:43.128Z
 tags:
   - user-guide
 categories:
@@ -82,27 +82,7 @@ This section allows you to configure SSRS deployments which will be executed dur
 
 To impersonate the current user, use the “Impersonate installing user” context menu option. You can check this option if you want to run the deployment as the user installing the application, not under the Local System account.
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Server URL
 
@@ -113,19 +93,24 @@ URL of the Report Server Web Service (e.g._http://localhost:80/ReportServer\_INS
 The name of the target folder where the reports will be deployed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dataset folder
 
 The name of the target folder where the datasets will be deployed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Datasource folder
 
 The name of the target folder where the datasources will be deployed. Edit this field using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Condition
 
@@ -138,6 +123,10 @@ By enabling this option all reports' resources are removed during uninstall.
 ## Resources
 
  Here you can add and edit the files needed for the deployment (report, dataset and datasource files). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adding a new resource
 
@@ -155,20 +144,14 @@ To remove an existing resource use the \[Remove \] button.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)For performing the deployment, Advanced Installer uses a tool which is part of the Reporting Services component of the SQL Server. Therefore you must have an instance of the SQL Server installed on the machine where you are running the install package.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more detailed help, please press the F1 key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -209,21 +192,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-7-precision-shooter-classics/"><u>[New] 2024 Approved Top 7 Precision Shooter Classics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-practices-selecting-devices-for-zoom-recording/"><u>[New] In 2024, Best Practices Selecting Devices for Zoom Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-content-with-these-25-powerful-instagram-tags/"><u>[New] In 2024, Elevate Your Content with These 25 Powerful Instagram Tags</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>[New] Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-fusing-music-and-photos-online-for-2024/"><u>[Updated] Fusing Music and Photos Online for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/3-proven-techniques-for-eradicating-ransomware-infections-on-windows-systems-expert-advice-inside/"><u>3 Proven Techniques for Eradicating Ransomware Infections on Windows Systems - Expert Advice Inside!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-to-icom-type-libraries-streamline-your-data-management/"><u>Complete Guide to ICOM Type Libraries: Streamline Your Data Management</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/disabling-chromes-security-alert-a-step-by-step-guide-with-malwarefox/"><u>Disabling Chrome's Security Alert: A Step-by-Step Guide with MalwareFox</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/facebook-streaming-simplified-a-comprehensive-tutorial-for-hassle-free-online-broadcasts/"><u>Facebook Streaming Simplified: A Comprehensive Tutorial for Hassle-Free Online Broadcasts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-view-avi-videos-on-your-iphone-easy-step-by-step-guide/"><u>How to View AVI Videos on Your iPhone - Easy Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-essential-japenese-greetings/"><u>Learn Essential Japenese Greetings</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionary-breakthrough-samsung-unveils-worlds-slimmest-memory-chip-the-new-lpddr5x/"><u>Revolutionary Breakthrough: Samsung Unveils World’s Slimmest Memory Chip, the New LPDDR5X</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-youtube-thumbnails-that-get-views-for-2024/"><u>The Ultimate Guide to YouTube Thumbnails that Get Views for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-capturing-images-on-twitter-with-screen-shot-techniques/"><u>Ultimate Guide: Capturing Images on Twitter with Screen Shot Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fine-tuning-focus-closeups-on-teams-for-2024/"><u>[New] Fine-Tuning Focus Closeups on Teams for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[Updated] Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-restore-your-images-from-icloud-with-these-easy-techniques/"><u>1. Restore Your Images From iCloud with These Easy Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728466195406-aomei-backupper/"><u>使用AOMEI Backupper進行徹底抹除:高效清空硬碟指南</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a1-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A1 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-configurer-un-systeme-dimage-pour-windows-server-201/"><u>Comment Configurer Un Système D'Image Pour Windows Server 201</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-travel-gear-top-3-must-have-accessories-every-traveler-should-pack/"><u>Essential Travel Gear: Top 3 Must-Have Accessories Every Traveler Should Pack</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fehlerbehebung-und-losungen-fur-das-scheitern-der-windows-server-2019-installation/"><u>Fehlerbehebung Und Lösungen Für Das Scheitern Der Windows Server 2019 Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-match-in-twitch-streaming-software-expert-opinions-on-free-and-paid-solutions-for-optimal-broadcasting-success-zdnet/"><u>Find Your Perfect Match in Twitch Streaming Software: Expert Opinions on FREE and PAID Solutions for Optimal Broadcasting Success | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/quick-fixes-resolving-the-error-when-outlook-fails-to-access-an-ost-file/"><u>Quick Fixes: Resolving the Error When Outlook Fails to Access an OST File</u></a></li>
+<li><a href="https://solve-help.techidaily.com/reviving-your-pc-top-6-methods-to-successfully-repair-a-windows-10-system-restore-failure/"><u>Reviving Your PC: Top 6 Methods to Successfully Repair a Windows 10 System Restore Failure</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-for-backing-up-your-networknas-device-in-windows-10-and-11-systems/"><u>Step-by-Step Guide for Backing Up Your Network/NAS Device in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wd-my-passport-windows-111087/"><u>WD My Passport跨版本圖書館备份: Windows 11、10、8及7的完美解決方案</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windowsig/"><u>Windows电脑上的照片恢复技巧：了解如何使用IG删除功能进行逆向操作</u></a></li>
 </ul></div>
 

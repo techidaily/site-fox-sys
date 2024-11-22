@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Navigating the Advanced Features of Your Installation Wizard"
-date: 2024-10-06T20:55:06.917Z
-updated: 2024-10-10T19:13:26.626Z
+date: 2024-11-19T10:12:06.581Z
+updated: 2024-11-22T12:09:01.954Z
 tags:
   - user-guide
 categories:
@@ -66,9 +66,17 @@ Table of Contents
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This article is **deprecated**, for the latest Advanced Installer user interface documentation see the [Ribbon page](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The menu bar gives you access to all the features of Advanced Installer, some of them not available from the toolbar. It contains the following sub menus: “File”, “View”, “Installation”, “Project”, “Wizards”, “Options” and “Help”. 
 
 ![Main Menu](https://cdn.advancedinstaller.com/img/ui/quick-toolbar.png "Main Menu")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The File menu
 
@@ -88,10 +96,7 @@ Table of Contents
 * Exit - closes the application.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The View menu
@@ -114,13 +119,6 @@ Table of Contents
    * [Notes Pane](https://tools.techidaily.com/advancedinstaller/products/) \- displays various notes added and is specific for the selected view.  
    * Notifications Pane - displays a list with all the notifications that appeared while authoring the package. Also, notifications about synchronized folders will be displayed when loading the project.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Installation menu
 
 This menu contains grouped links to all available installation pages. The pages unavailable in the current project appear disabled. The currently selected page is marked with a bullet. Clicking on an item will bring up the corresponding page.
@@ -137,10 +135,7 @@ This menu contains grouped links to all available installation pages. The pages 
 * Find - this dialog allows you to customize the search criteria. The search is made globally(the entire project) and it is possible to add more tables to the search.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Wizard menu
@@ -151,10 +146,7 @@ This menu contains grouped links to all available installation pages. The pages 
 * Add Adobe Plug-in
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Options
@@ -216,22 +208,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-launching-successful-online-gaming-shows-on-youtube/"><u>[New] Launching Successful Online Gaming Shows on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-simple-screen-recorder-for-windows-11-download/"><u>[Updated] 2024 Approved Simple Screen Recorder for Windows 11 Download</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
-<li><a href="https://facebook.techidaily.com/analysis-q2-sales-surge-oculus-quests-purchased-by-facebook-users/"><u>Analysis: Q2 Sales Surge - Oculus Quests Purchased by Facebook Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audio-alchemy-excellent-picks-for-skype-ringtone-downloads/"><u>Audio Alchemy Excellent Picks for Skype Ringtone Downloads</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-dreame-bot-l10-pro-the-advanced-autonomous-cleaning-system-using-lidar-technology/"><u>Comprehensive Review of Dreame Bot L10 Pro: The Advanced Autonomous Cleaning System Using LiDAR Technology</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-gaming-experience-accessing-mobile-legends-gameplay-on-a-personal-computer/"><u>Enhancing Gaming Experience: Accessing Mobile Legends Gameplay on a Personal Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/performance-insights-and-benchmarking-of-asrocks-compact-wi-fi-solution-z790i-lightning/"><u>Performance Insights and Benchmarking of ASRock's Compact Wi-Fi Solution - Z790I Lightning</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-roadmap-to-chatgpt-excellence-with-new-plugins/"><u>The Roadmap to ChatGPT Excellence with New Plugins</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-live-thumbnails-the-ultimate-guide/"><u>YouTube Live Thumbnails The Ultimate Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mac-users-adding-the-social-app-snapchat/"><u>[New] In 2024, Mac Users Adding the Social App Snapchat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-potential-advanced-techniques-in-instagram-loop-creation-for-2024/"><u>[Updated] Unleash Potential Advanced Techniques in Instagram Loop Creation for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/beheben-sie-den-fehler-der-volume-shadow-copy-dienstfunktionalitat-in-windows-11-10-8-und-7/"><u>Beheben Sie Den Fehler Der Volume Shadow Copy Dienstfunktionalität in Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/come-recuperare-la-tabella-delle-partizioni-su-windows-11-guida-passo-passo/"><u>Come Recuperare La Tabella Delle Partizioni Su Windows 11: Guida Passo-Passo</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/die-bestehende-losungen-zum-synchronisieren-von-microsoft-outlook-e-mails-mit-ihrem-computer-eine-liste-der-top-2-techniken/"><u>Die Bestehende Lösungen Zum Synchronisieren Von Microsoft Outlook-E-Mails Mit Ihrem Computer - Eine Liste Der Top 2 Techniken</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/dos-metodos-faciles-para-crear-una-copia-de-seguridad-del-bucket-de-office-365-guia-paso-a-paso/"><u>Dos Métodos Fáciles Para Crear Una Copia De Seguridad Del Bucket De Office 365: Guía Paso a Paso</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/if-updatingrolling-back-doesnt-work/"><u>If Updating/Rolling Back Doesn't Work:</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/la-guida-facile-e-completa-al-clonaggio-dellhdd-windows-and-macos/"><u>La Guida Facile E Completa Al Clonaggio Dell'HDD: Windows & macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-services-dedition-video-jeux-en-202/"><u>Les Meilleurs Services D'Édition Vidéo Jeux En 202</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029174438-mp4mov/"><u>MP4ビデオをMOVフォーマットへのシンプル変換ガイド</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-permanent-solution-for-the-king-of-fighters-xv-stability-issues-on-pc/"><u>No More Interruptions: Permanent Solution for 'The King of Fighters XV' Stability Issues on PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/optimiertes-datenmanagementsystem-fur-effektive-exporte-mit-windows-11/"><u>Optimiertes Datenmanagementsystem Für Effektive Exporte Mit Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/streamline-windows-data-mirroring-utilizing-robocopy-from-the-command-prompt/"><u>Streamline Windows Data Mirroring: Utilizing Robocopy From the Command Prompt</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899118514-the-ultimate-guide-to-picking-the-perfect-motherboard-explore-7-important-details/"><u>The Ultimate Guide to Picking the Perfect Motherboard: Explore 7 Important Details</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-solving-the-issue-of-non-functional-airdrop-on-your-iphone-se/"><u>Ultimate Guide: Solving the Issue of Non-Functional AirDrop on Your iPhone SE</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unparalleled-audio-file-reader-free-top-quality-mp3-creation-from-professional-mpa-soundtracks/"><u>Updated Unparalleled Audio File Reader Free, Top Quality MP3 Creation From Professional MPA Soundtracks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wiederherstellen-der-original-firmeneinstellungen-in-windows-11-3-effiziente-reset-methoden-vom-bootvorgang-aus/"><u>Wiederherstellen Der Original-Firmeneinstellungen in Windows 11: 3 Effiziente Reset-Methoden Vom Bootvorgang Aus</u></a></li>
 </ul></div>
 

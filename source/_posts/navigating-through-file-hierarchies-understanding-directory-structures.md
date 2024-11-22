@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through File Hierarchies: Understanding Directory Structures"
-date: 2024-10-08T16:37:53.825Z
-updated: 2024-10-11T04:28:35.838Z
+date: 2024-11-15T11:51:04.009Z
+updated: 2024-11-21T20:01:34.080Z
 tags:
   - user-guide
 categories:
@@ -81,6 +81,10 @@ Table of Contents
 * [Advanced Installer Blog](https://tools.techidaily.com/advancedinstaller/products/)
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Paths of the folders in the "Files and Folders" Page
 
 The folders in the "Files and Folders" page use predefined and custom installer properties which store their paths.
@@ -129,9 +133,17 @@ Depending on the package type, the paths will change; this means that if the pac
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If other files are present in the same **AppDataFolder**, near the shortcuts, these are not redirected and they are placed in **AppDataFolder**. For more info about shortcut redirection click [here](https://learn.microsoft.com/en-us/windows/win32/msi/installation-context "Installation Context").
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A special property is "AI\_ProgramFiles", which is used only in a "Mixed 32/64-bit matching the platform" installation package. When creating this type of package the presence of this property in the field "Application Folder" from the [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page is mandatory. The property will automatically resolve to "ProgramFilesFolder" or "ProgramFiles64Folder", depending on the machine's type on which the package is installed.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The sample paths are from a machine which has Windows installed on the C: drive. Also,**<username>** represents the name current user's name (the user account on which the installation runs).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -166,27 +178,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[New] In 2024, Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-easy-steps-to-download-twitters-media-to-phone-for-2024/"><u>[Updated] Easy Steps to Download Twitters Media to Phone for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premier-7-phone-apps-for-changing-tone-quality-for-2024/"><u>[Updated] Premier 7 Phone Apps for Changing Tone Quality for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-simplicity-in-ipad-screen-saving-tactics-for-2024/"><u>[Updated] Unveiling Simplicity in iPad Screen Saving Tactics for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-top-3-replacements-for-picasa-modern-photo-editing-software/"><u>Best Top 3 Replacements for Picasa: Modern Photo Editing Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-to-follow-tutorial-on-linking-a-mac-computer-to-your-samsung-tv-screen/"><u>Easy-to-Follow Tutorial on Linking a Mac Computer to Your Samsung TV Screen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fathers-day-greeting-cards-inspiration-best-practices-and-creative-concepts-for-perfect-messages/"><u>Father's Day Greeting Cards Inspiration: Best Practices & Creative Concepts for Perfect Messages</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/game-capture-software-rivalry-obs-vs-shadowplay/"><u>Game Capture Software Rivalry OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 8 Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/meme-making-made-simple-without-cost/"><u>Meme-Making Made Simple, Without Cost</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/revamping-parameters-master-the-edit-arguments-feature/"><u>Revamping Parameters: Master the Edit Arguments Feature</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-the-dependency-settings-pane-a-comprehensive-guide/"><u>Understanding the Dependency Settings Pane: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-easy-loop-keeping-iphone-videos-running/"><u>[New] 2024 Approved Easy Loop Keeping iPhone Videos Running</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-choice-of-gopro-film-editing-programs/"><u>[New] Ultimate Choice of GoPro Film-Editing Programs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728504761477-hdd/"><u>「最適な外付けHDD同期ソフトウェアで簡単に自動同期する - 今すぐダウンロード可能」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>2024 Approved Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-1111-dvd-usb/"><u>无成本生成Windows 11/11 快照DVD或 USB设备——方法介绍</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-marketer-writes-guide-to-utilizing-hashtags-effectively-on-facebook-for-2024/"><u>A Marketer' Writes Guide to Utilizing Hashtags Effectively on Facebook for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/convertir-en-fichier-pst-comment-exporter-une-boite-de-reception-microsoft-exchange-vers-outlook/"><u>Convertir en Fichier PST - Comment Exporter Une Boîte De Réception Microsoft Exchange Vers Outlook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/gratisk-bootfardig-usb-pinnsats-tillgang-for-windows-7/"><u>Gratisk Bootfärdig USB-Pinnsats - Tillgång För Windows 7</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guia-facil-para-cambiar-el-partition-boot-de-windows-11-al-ssd-sin-necesidad-de-reinstalar/"><u>Guía Fácil Para Cambiar El Partition Boot De Windows 11 Al SSD Sin Necesidad De Reinstalar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-7-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Pop 7 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/methodes-rapides-pour-assurer-la-sauvegarde-recurrente-des-donnees-avec-wbadmin-dans-windows-server/"><u>Méthodes Rapides Pour Assurer La Sauvegarde Récurrente Des Données Avec Wbadmin Dans Windows Server</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/schnellere-vms-garantiert-mehr-uber-performance-boosting-in-der-vmware-umgebung-7-wertvolle-raten/"><u>Schnellere VMs Garantiert: Mehr Über Performance-Boosting in Der VMware Umgebung (7 Wertvolle Raten)</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-launch-of-immortals-fenyx-rising-the-godly-quest-begins/"><u>Successful Launch of Immortals Fenyx Rising: The Godly Quest Begins</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-successfully-restarting-a-computer-stuck-on-boot-sequence/"><u>Tips for Successfully Restarting a Computer Stuck on Boot Sequence</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tutoriel-detaille-installation-et-mise-en-place-des-disques-ssd-adata-pour-windows-supporte-par-les-versions-111087/"><u>Tutoriel Détaillé : Installation Et Mise en Place Des Disques SSD ADATA Pour Windows (Supporté Par Les Versions 11/10/8/7)</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

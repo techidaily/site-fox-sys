@@ -1,7 +1,7 @@
 ---
 title: "IBuildComponents: The Ultimate Building Blocks of Modern Software Development"
-date: 2024-10-08T23:47:23.556Z
-updated: 2024-10-10T19:48:49.434Z
+date: 2024-11-18T09:32:22.468Z
+updated: 2024-11-22T06:24:50.839Z
 tags:
   - user-guide
 categories:
@@ -110,30 +110,32 @@ Table of Contents
 
 ## IBuildComponent
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IBuildComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
 
 This component gives access to builds present in the package and lets you add or remove builds. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Properties
 
 **Array<Builds>** \- Gets all the builds present in the package.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -151,10 +153,7 @@ CreateKeyByPath(String **path**) returns [IRegistryKey](https://tools.techidaily
 This method creates a new key at the specified path.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -162,13 +161,6 @@ This method creates a new key at the specified path.
 [IAdvinstProject](https://tools.techidaily.com/advancedinstaller/products/)
 
 [IBuild](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -210,20 +202,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-launch-success-a-guide-to-10-motivating-movies/"><u>[New] In 2024, Launch Success A Guide to 10 Motivating Movies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-speak-the-code-vr-lingo-essentials/"><u>[New] Speak the Code VR Lingo Essentials</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-create-excellence-professional-thumbnails-in-gaming-art-for-2024/"><u>[Updated] Quick-Create Excellence Professional Thumbnails in Gaming Art for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-top-camstudio-substitutes-enhancing-your-recording-experience/"><u>1. Top CamStudio Substitutes: Enhancing Your Recording Experience</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/choose-a-solution-with-msix-foundation-the-ultimate-dialogue/"><u>Choose a Solution with MSIX Foundation: The Ultimate Dialogue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-play-solutions-to-combat-gaming-lag-frame-drops-and-glitchy-action/"><u>Enhance Your Play: Solutions to Combat Gaming Lag, Frame Drops, and Glitchy Action!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-write-a-script-for-a-youtube-video-for-2024/"><u>How to Write a Script for a YouTube Video for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-edge-40-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Edge 40 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-inventory-tracking-understanding-your-iproductcode/"><u>Mastering Inventory Tracking: Understanding Your IProductCode</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users/"><u>New The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimal-strategies-for-irs-validation-in-seo-tactics/"><u>Optimal Strategies for IRS Validation in SEO Tactics</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-apoweredit-user-guide-unleash-your-editing-potential/"><u>Step-by-Step ApowerEdit User Guide - Unleash Your Editing Potential</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-customizing-event-map-interfaces-for-seamless-workshops/"><u>Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/trusted-techniques-for-securely-downloading-mp3-music-collections/"><u>Trusted Techniques for Securely Downloading MP3 Music Collections</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-apps-to-convert-videos-to-live-photos-on-iphone-for-2024/"><u>Updated Top Apps to Convert Videos to Live Photos on iPhone for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tructuring-engaging-online-vignettes/"><u>[New] Structuring Engaging Online Vignettes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-complete-guide-to-crafting-perfect-instagram-stories/"><u>[Updated] In 2024, The Complete Guide to Crafting Perfect Instagram Stories</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-crescendo-of-creativity-the-best-matched-music-for-every-video-format/"><u>2024 Approved Crescendo of Creativity The Best Matched Music for Every Video Format</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quicksnap-hd-pro-logging-kit/"><u>2024 Approved QuickSnap HD Pro Logging Kit</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5a626zu75qwt55wm44gr44gk44gr44kl44cb6yyy55s755so44op44o844oj44oh44kj44k544kv44gu44op44kk44ov44k144kk44kv44or55cg6kej77ya/"><u>家電業界における、録画用ハードディスクのライフサイクル理解：</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-low-speed-photo-and-video-capture-tools-iosandroid-for-2024/"><u>Best Low-Speed Photo and Video Capture Tools, iOS/Android for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/fans-gain-free-access-to-wnba-via-fb-and-twt/"><u>Fans Gain Free Access to WNBA via FB & Twt</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guida-passo-passo-come-eseguire-il-backup-completo-di-un-server-windows-server-versioni-2022-2019-2016-2012-e-2008/"><u>Guida Passo-Passo: Come Eseguire Il Backup Completo Di Un Server Windows Server (Versioni 2022, 2019, 2016, 2012 E 2008)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-or-methods/"><u>Guide or Methods.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-6-minecraft-abodes-for-survivors/"><u>In 2024, Top 6 Minecraft Abodes for Survivors</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/inkrementelle-synchronisation-von-daten-unter-windows-10-8-oder-7-erstellen/"><u>Inkrementelle Synchronisation Von Daten Unter Windows 10, 8 Oder 7 Erstellen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/losungen-fur-das-problem-der-nicht-gefundenen-systemreservediskette-methoden-zur-reparatur-und-wiederherstellung/"><u>Lösungen Für Das Problem Der Nicht Gefundenen Systemreservediskette - Methoden Zur Reparatur Und Wiederherstellung</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/retrieve-your-disappearing-iphone-images-post-ios-1718-update-a-comprehensive-guide-with-4-solutions/"><u>Retrieve Your Disappearing iPhone Images Post-iOS 17/18 Update: A Comprehensive Guide with 4 Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/sauvegarde-de-courriels-imap-dans-microsoft-outlook-guide-des-deux-methodes-cles/"><u>Sauvegarde De Courriels IMAP Dans Microsoft Outlook : Guide Des Deux Méthodes Clés</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-definitive-handbook-for-retrieving-lost-digital-information-straightforward-and-productive-methods/"><u>The Definitive Handbook for Retrieving Lost Digital Information: Straightforward and Productive Methods</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trois-facons-efficaces-de-decompresser-les-fichiers-vhd-sur-windows-11-10-et-versions-precedentes-guide-pratique/"><u>Trois Façons Efficaces De Décompresser Les Fichiers VHD Sur Windows 11, 10 Et Versions Précédentes : Guide Pratique</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-youtube-videos-a-guide-for-syncing-sound-and-visuals-in-chromefirefox/"><u>Unstick Your YouTube Videos - A Guide for Syncing Sound and Visuals in Chrome/Firefox</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/wiederholung-verlorener-dateien-von-unsynchronisiertem-onedrive-mit-myrecovery/"><u>Wiederholung Verlorener Dateien Von Unsynchronisiertem OneDrive Mit MyRecovery</u></a></li>
 </ul></div>
 
