@@ -1,7 +1,7 @@
 ---
 title: "Mastering Inventory Tracking: Understanding Your IProductCode"
-date: 2024-11-16T12:20:34.820Z
-updated: 2024-11-22T10:06:54.104Z
+date: 2024-11-28T16:46:04.180Z
+updated: 2024-11-30T21:42:03.031Z
 tags:
   - user-guide
 categories:
@@ -106,20 +106,20 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IProductCode
 
 This interface is meant to edit the [“Product Code”](https://tools.techidaily.com/advancedinstaller/products/) for specific languages present in the project.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Declaration
 
  IProductCode: IDispatch 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -151,12 +151,16 @@ $advinst = new-object -comObject "AdvancedInstaller"
 $proj    = $advinst.CreateProject($advinst.ProjectTypes.Architect)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## generate new product code
 $proj.ProductDetails.ProductCode.GenerateAll()
 $new_prodCode = $proj.ProductDetails.ProductCode.GetProductCode()
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## generate upgrade code
 $upgradeCode     = $proj.ProductDetails.UpgradeCode.UpgradeCode
@@ -168,10 +172,6 @@ $projPath = "C:\Tests\Powershell COM\multi-language.aip"
 ## generate different product codes for each language
 $projPath.ProductDetails.ProductCode.SetDifferentValues()
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## get product code per language package
 $pc_en = $projPath.ProductDetails.ProductCode.GetProductCode(1033)
 $pc_fr = $projPath.ProductDetails.ProductCode.GetProductCode(1036)
@@ -181,7 +181,7 @@ $pc_de = $projPath.ProductDetails.ProductCode.GetProductCode(1031)
 Copy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -225,21 +225,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>[New] In 2024, A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-sandbox-adventures-not-to-skip/"><u>[New] In 2024, Top Sandbox Adventures Not To Skip</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-trivia-collection-general-knowledge-2024/"><u>[New] The Ultimate Trivia Collection - General Knowledge 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximize-views-the-art-of-timestamp-integration-on-youtube/"><u>[Updated] In 2024, Maximize Views The Art of Timestamp Integration on YouTube</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728508602431-windows-111087/"><u>恢复 Windows 11/10/8/7 系统中的资料夹和文件：一步一步指南</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/centralized-data-protection-with-aomei-cyberbackup-no-cost-full-features-for-servers-and-pcs/"><u>Centralized Data Protection with AOMEI CyberBackup: No Cost, Full Features for Servers and PCs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/die-top-2-methoden-zum-einrichten-von-windows-11-auf-einer-neuen-ssd-schritt-fur-schritt-anleitung/"><u>Die Top-2 Methoden Zum Einrichten Von Windows 11 Auf Einer Neuen SSD: Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/harnessing-powerful-conversations-with-freedchat/"><u>Harnessing Powerful Conversations with FreedChat</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-7-plus-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 7 Plus? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fixes-for-your-lenovo-usb-drivers-resolve-common-connectivity-issues/"><u>Quick Fixes for Your Lenovo USB Drivers - Resolve Common Connectivity Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-linking-airpods-with-windows-pcs/"><u>Quick Guide: Linking AirPods with Windows PCs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolved-fixing-issues-with-nonfunctional-windows-10-start-menu-and-taskbar/"><u>Resolved: Fixing Issues with Nonfunctional Windows 10 Start Menu & Taskbar</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solving-microsoft-word-crashes-on-office-365-platforms/"><u>Solving Microsoft Word Crashes on Office 365 Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-arf-pet-food-dispenser-convenient-nutrition-for-your-furry-friend/"><u>The Arf Pet Food Dispenser: Convenient Nutrition for Your Furry Friend</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728509170873-windows-10/"><u>Windows 10中恢复删除的设备驱动程序：三种方法</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728496793569-windows-11/"><u>Windows 11 恢复环境迅速设置：五个直接指南</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-full-screen-pro-tips-and-tricks-for-editors/"><u>[New] In 2024, Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-your-videography-from-monochrome-to-high-dynamic-range-masterpieces/"><u>[New] Transforming Your Videography From Monochrome to High-Dynamic Range Masterpieces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>[Updated] Blur the Outside, Sharpen Inside Bokeh Balance Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728491278651-outlook-3/"><u>「Outlookメールデータを最高度に保護する: 3つの効果的なバックアップ方法とその実行手順」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-windows-10-dvdavimp4h264androidiphoneipad/"><u>全功能DVD轉換器 Windows 10套件 - 高效率地将DVD文件转换为AVI、MP4和H264格式，适用于Android/iPhone/iPad设备</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/dpc-watchdog-issue-resolution-on-windows-11-systems/"><u>DPC Watchdog Issue Resolution on Windows 11 Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effiziente-migration-wenn-sie-ihre-windows-server-20122008-sicherungen-schnell-ubertragen/"><u>Effiziente Migration: Wenn Sie Ihre Windows Server 2012/2008 Sicherungen Schnell Übertragen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-components-with-toms-technology-hub/"><u>Exploring Computer Components with Tom's Technology Hub</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-clonely-duplicate-a-micro-sd-card-at-no-cost-on-windows-pcs-11-10-8-and-7-comprehensive-step-by-step-manual/"><u>How to Clonely Duplicate a Micro SD Card at No Cost on Windows PCs (11, 10, 8 & 7): Comprehensive Step-by-Step Manual</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y200-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y200</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/resolving-data-transfer-problems-5-tips-for-your-latest-iphone-model/"><u>Resolving Data Transfer Problems: 5 Tips for Your Latest iPhone Model</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-24-today-transform-your-audio-experience-with-airpods-pro-2-the-latest-to-become-a-hearing-aid-compatible-device-tech-insights-by-zdnet/"><u>Save 24% Today: Transform Your Audio Experience with AirPods Pro 2 - The Latest to Become a Hearing Aid Compatible Device | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/techniques-pour-importer-des-photos-de-liphone-vers-un-pc-sous-windows-solutions-resolues/"><u>Techniques Pour Importer Des Photos De L'iPhone Vers Un PC Sous Windows : Solutions Résolues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-iphone-se-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your iPhone SE on MetroPCS</u></a></li>
 </ul></div>
 

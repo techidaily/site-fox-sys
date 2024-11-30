@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Signatures: How They Work & Why You Need Them"
-date: 2024-11-14T20:52:51.781Z
-updated: 2024-11-21T16:42:06.318Z
+date: 2024-11-27T22:01:19.094Z
+updated: 2024-11-30T20:45:02.129Z
 tags:
   - user-guide
 categories:
@@ -107,26 +107,26 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## IDigitalSignature
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
 
 IDigitalSignature: IDispatch
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Overview
 
 This component is meant to edit digital signature details.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -145,7 +145,7 @@ This component is meant to edit digital signature details.
 **Array<IDigitalCertificate> Certificates** \- Gets all certificates from the personal certificate store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Methods
@@ -166,7 +166,7 @@ This method sets the password policy to store the encrypted password in the proj
 This method sets the password policy to enter a password each time project is built. This method is available only when a certificate from disk is used and that certificate requires a password.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,19 +208,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-interactive-content-the-key-to-boosted-facebook-pages/"><u>[New] 2024 Approved Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-view-facebook-content-on-your-home-theater-in-2024/"><u>[New] How To View Facebook Content On Your Home Theater, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>[Updated] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-simple-strategies-to-resolve-common-issues-with-your-acer-erecovery-system/"><u>1. Simple Strategies to Resolve Common Issues with Your Acer eRecovery System</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/a-compreenasian-guide-to-obs-installation-on-apple-systems-for-2024/"><u>A Compreenasian Guide to OBS Installation on Apple Systems for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/can-you-trust-stellar-data-recovery-a-comprehensive-security-and-efficacy-overview/"><u>Can You Trust Stellar Data Recovery? - A Comprehensive Security and Efficacy Overview</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conquering-connectivity-issues-the-ultimate-fixes-for-netflixs-nw-1-19-error-code/"><u>Conquering Connectivity Issues: The Ultimate Fixes for Netflix's NW-1-19 Error Code</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-for-2024/"><u>In-Depth Appraisal Does InShot Rule in Video Edits for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/migracion-de-datos-entre-windows-10-y-11-tres-tecnicas-faciles-para-transferir-archivos-eficientemente/"><u>Migración De Datos Entre Windows 10 Y 11: Tres Técnicas Fáciles Para Transferir Archivos Eficientemente</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-and-safe-guide-configuring-a-pxe-boot-server-on-windows-with-minimal-hassle/"><u>Simple & Safe Guide: Configuring a PXE Boot Server on Windows with Minimal Hassle</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-protecting-raspberry-pi-data-safeguarding-sd-storage-across-win-11-10-8-and-amo/"><u>Step-by-Step Guide to Protecting Raspberry Pi Data: Safeguarding SD Storage Across Win 11, 10, 8, & Amo</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/top-facebook-video-mp4-downloaders/"><u>Top Facebook Video MP4 Downloaders</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-warzone-the-top-10-free-online-fps-games-on-the-web/"><u>Ultimate Warzone: The Top 10 Free Online FPS Games on the Web</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-social-media-strategy-broadcasting-twitch-to-facebook/"><u>[New] 2024 Approved Social Media Strategy Broadcasting Twitch to Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rafting-a-powerful-content-strategy-uncover-the-best-5-youtube-marketing-tactics/"><u>[New] Crafting a Powerful Content Strategy Uncover the Best 5 YouTube Marketing Tactics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-precision-at-your-fingertips-a-guide-to-screen-recording-on-apple-devices-for-2024/"><u>[New] Precision at Your Fingertips A Guide to Screen Recording on Apple Devices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-the-new-and-improved-2024-video-show/"><u>[New] Step-by-Step Guide The New & Improved 2024 Video Show</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-producing-captivating-facebook-video-content-for-2024/"><u>[New] The Art of Producing Captivating Facebook Video Content for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-explore-the-difference-basic-plus-and-pro-in-vimeo-services/"><u>[Updated] 2024 Approved Explore The Difference Basic, Plus & Pro in Vimeo Services</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728510119367-dropbox/"><u>「スマーティーなファイル同期: Dropboxで選べる最適なバックアップ方法」</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/desamorcez-le-conflict-solutions-pour-demarrer-google-chrome-sous-windows-10/"><u>Désamorçez Le Conflict : Solutions Pour Démarrer Google Chrome Sous Windows 10</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/entdeckung-und-entfernung-doppelter-aufnahmen-auf-iphone-modellen-ab-version-14-bis-11-ein-umfassender-leitfaden/"><u>Entdeckung Und Entfernung Doppelter Aufnahmen Auf IPhone Modellen Ab Version 14 Bis 11: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fixing-the-problem-of-vanishing-files-on-a-windows-1011-pc-restoration-guide/"><u>Fixing the Problem of Vanishing Files on a Windows 10/11 PC - Restoration Guide!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/secure-boot-techniken-zur-kodierung-von-systemkopien-auf-heterogenen-computereinheiten/"><u>Secure Boot: Techniken Zur Kodierung Von Systemkopien Auf Heterogenen Computereinheiten</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-video-playback-hevc-windows-10-and-windows-nix/"><u>Troubleshooting, Video Playback, HEVC, Windows 10 and Windows Nix.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wiederherstellung-verlorener-videodateien-von-sd-karte-professionelle-anleitungen-mit-myrecover/"><u>Wiederherstellung Verlorener Videodateien Von SD-Karte: Professionelle Anleitungen Mit MyRecover</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-transfer-and-setup-on-m2-ssd-without-reinstalling/"><u>Windows 11 Transfer & Setup on M.2 SSD Without Reinstalling</u></a></li>
 </ul></div>
 

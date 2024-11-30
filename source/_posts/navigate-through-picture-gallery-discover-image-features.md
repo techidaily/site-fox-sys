@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Picture Gallery - Discover Image Features
-date: 2024-11-17T20:50:46.019Z
-updated: 2024-11-22T08:25:58.025Z
+date: 2024-11-24T17:22:45.158Z
+updated: 2024-11-30T19:33:56.989Z
 tags:
   - user-guide
 categories:
@@ -74,7 +74,7 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Images Tab
@@ -84,7 +84,7 @@ Table of Contents
 ![Images tab](https://cdn.advancedinstaller.com/img/ui/images-tab.png "Images tab")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image resource and Advanced Installer will offer you the option to convert it to a regular image (i.e. .ico, .jpg or .png).
@@ -94,7 +94,7 @@ You can use regular images (e.g. .jpg, .png), but you can also pick a .SVG image
 Use the \[New... \] button, the “New...” context menu item or press the Ins key. The [Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new binary image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing an image
@@ -102,7 +102,7 @@ Use the \[New... \] button, the “New...” context menu item or press the Ins 
 Use the \[Edit \] button, the “Edit...” context menu item, press the Space key or double click an item in the list. The[Image Options Dialog - Installer Project](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit an image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Removing an image
@@ -110,7 +110,7 @@ Use the \[Edit \] button, the “Edit...” context menu item, press the Space k
 Use the \[Remove \] button, the “Remove” or press theDel key while an element from the list is selected.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -155,20 +155,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-dont-miss-these-youtube-seo-tools-to-boost-your-video/"><u>[New] In 2024, Don't Miss These YouTube SEO Tools to Boost Your Video</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-notch-hacks-navigating-instagrams-forgotten-features-for-2024/"><u>[New] Top-Notch Hacks Navigating Instagram's Forgotten Features for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[Updated] Conquer & Cease The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728498773703-hdd/"><u>「効率的なHDD共有手法：ネットワーク内での実践例」</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-professionals-playbook-to-profitable-youtube-ventures-for-2024/"><u>A Professional's Playbook to Profitable YouTube Ventures for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/bilden-sie-einen-ssd-aus-einem-hdd-mit-kostenlosem-tool-tutorial-fur-windows-10-11-und-altere-versionen/"><u>Bilden Sie Einen SSD Aus Einem HDD Mit Kostenlosem Tool - Tutorial Für Windows 10, 11 Und Ältere Versionen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/drei-effektive-strategien-zur-schutz-ihrer-daten-wie-sichert-man-eine-fehlerhafte-festplatte/"><u>Drei Effektive Strategien Zur Schutz Ihrer Daten: Wie Sichert Man Eine Fehlerhafte Festplatte?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-6s-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 6s From Your Apple ID</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 Bootloader Easily</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/pc-verzeichnisspiegelung-mit-onedrive-erfahre-drei-innovative-methoden-fur-nahtloses-backup-und-zugriff/"><u>PC-Verzeichnisspiegelung Mit OneDrive: Erfahre Drei Innovative Methoden Für Nahtloses Backup Und Zugriff</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-hot-40-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Hot 40 Pro Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wie-behandeln-sie-eine-migration-wenn-ihr-externes-laufwerk-nicht-migrierbar-ist/"><u>Wie Behandeln Sie Eine Migration, Wenn Ihr Externes Laufwerk Nicht Migrierbar Ist?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-server-2019-rdp-stuck-heres-how-to-resolve-and-prevent-unresponsive-sessions/"><u>Windows Server 2019 RDP Stuck? Here's How to Resolve and Prevent Unresponsive Sessions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/optimalnyj-process-sozdaniya-tochnoj-kopii-zhestkogo-diska-dlya-windows-server-2008-r2-ekspertnyj-analiz/"><u>Оптимальный Процесс Создания Точной Копии Жесткого Диска Для Windows Server 2008 (R2): Экспертный Анализ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] 2024 Approved Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeo-video-editing-top-5-techniques-for-cuts-and-trimming/"><u>[Updated] Mastering Vimeo Video Editing Top 5 Techniques for Cuts & Trimming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tips-to-prevent-audio-loss-in-live-obs-recording/"><u>[Updated] Tips to Prevent Audio Loss in Live OBS Recording</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-windows-1087-mp4-3/"><u>1. Windows 10、8或7系统中 MP4 文件的恢复技巧 - 3种简单方法</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026690244-audee/"><u>Audeeサービスで高品質オーディオクリップを安全にバックアップする手順</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-edge-40-neo-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Edge 40 Neo</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/essential-techniques-for-emergency-data-protection-using-dell-datasafe-comprehensive-restore-and-save-strategies/"><u>Essential Techniques for Emergency Data Protection Using Dell Datasafe: Comprehensive Restore and Save Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-oppo-a38-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Oppo A38</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-switch-to-an-ssd-as-the-boot-device-in-windows-11/"><u>How to Switch to an SSD as the Boot Device in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-30-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 30 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>In 2024, Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728510471053-sd/"><u>SDカードへのファイル移行手順：パソコンで実践！</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/speichern-von-notizzetteln-im-neuen-betriebssystem-windows-11-anleitung-und-tipps/"><u>Speichern Von Notizzetteln Im Neuen Betriebssystem Windows 11 - Anleitung Und Tipps</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/transfiere-automaticamente-tus-archivos-locales-a-onedrive-en-pc-metodos-inteligentes-para-empezar/"><u>Transfiere Automáticamente Tus Archivos Locales a OneDrive en PC - Métodos Inteligentes Para Empezar</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-compatible-free-migration-tool-replacement-for-windows-easy-transfer/"><u>Windows 11 Compatible Free Migration Tool: Replacement for Windows Easy Transfer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728483847078-windows-114/"><u>Windows 11用の最も効果的な削除ファイル回復手法4つ</u></a></li>
 </ul></div>
 

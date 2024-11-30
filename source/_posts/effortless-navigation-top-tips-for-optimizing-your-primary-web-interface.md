@@ -1,7 +1,7 @@
 ---
 title: "Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface"
-date: 2024-11-17T22:43:42.686Z
-updated: 2024-11-22T11:11:02.122Z
+date: 2024-11-25T20:10:48.982Z
+updated: 2024-11-30T21:17:43.373Z
 tags:
   - user-guide
 categories:
@@ -108,12 +108,16 @@ Import:
 If you need help use the F1 keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Creating a new project
 
 Select a project type and press \[Create Project \] or double click on a project type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Opening a recent or existing project
 
@@ -121,23 +125,23 @@ Select "Open" menu entry and choose a recent project or press\[Open Project \].
 
 Enabling "Automatically load most recent project" option skips the Start Page next you launch Advanced Installer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Canceling the project creation
 
 If a project is already open, press the \[Back to project \] button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Message Center
 
 The Message Center keeps you up-to-date with the latest news from Advanced Installer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Options
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Use the wizard to create the project
 
@@ -146,7 +150,7 @@ Enable this option if you want to create the project using a wizard. More inform
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Not all project templates support disabling this option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Language
@@ -154,10 +158,6 @@ Enable this option if you want to create the project using a wizard. More inform
 Here you can select the language in which the project is created. Additional build languages can be specified later in the [Languages Tab](https://tools.techidaily.com/advancedinstaller/products/) tab, on the[Translation page](https://tools.techidaily.com/advancedinstaller/products/). By default, the drop-down list contains only the languages for which translation dictionaries are registered in Advanced Installer. Additional dictionaries can also be added from this page.
 
 To select a language which doesn't have a translation dictionary, use the “More...” option from the drop-down list to bring up the [Select Language Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -221,18 +221,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/-visual-guide-to-subtitling-techniques-for-effective-dialogue-placement/"><u>[New] A Visual Guide to Subtitling Techniques for Effective Dialogue Placement</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapchats-highlight-an-in-depth-look/"><u>[New] Snapchat's Highlight An In-Depth Look</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-data-transfer-tools-for-dell-computers-windows-11-10-8-7/"><u>Best Data Transfer Tools for Dell Computers (Windows 11, 10, 8, 7)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/bringing-waterfront-scenes-alive-with-insta360s-x2/"><u>Bringing Waterfront Scenes Alive with Insta360's X2</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/come-usare-laomei-backupper-iniziare-la-tua-esperienza-di-back-up-con-gioia/"><u>Come Usare L'AOMEI Backupper? Iniziare La Tua Esperienza Di Back-Up Con GIOIA</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/engaging-audiences-full-rotational-cinematography-for-2024/"><u>Engaging Audiences Full Rotational Cinematography for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-seamlessly-upgrade-your-tough-disk-to-an-ssd-in-a-windows-n-environment-with-no-hassles-two-proven-methods-explained/"><u>How to Seamlessly Upgrade Your Tough Disk to an SSD in a Windows N Environment with No Hassles – Two Proven Methods Explained</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-100-pro-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor 100 Pro Without PUK Codes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/lack-of-self-awareness-in-language-models/"><u>Lack of Self-Awareness in Language Models</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/une-introduction-complete-a-lutilisation-de-robocopy-pour-la-copie-simultanee-de-plusieurs-repertoires-guide-detaille/"><u>Une Introduction Complète À L'utilisation De Robocopy Pour La Copie Simultanée De Plusieurs Répertoires : Guide Détaillé!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wie-man-die-systemwiederherstellung-partitioniert-in-windows-10-mit-zwei-verschiedenen-ansatzen/"><u>Wie Man Die Systemwiederherstellung Partitioniert in Windows 10 Mit Zwei Verschiedenen Ansätzen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/bezproblemnyj-perenos-obraza-sistemy-windows-na-drugoj-nakopitel-prostye-shagi/"><u>Безпроблемный Перенос Образа Системы Windows На Другой Нaкопитель - Простые Шаги</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-apex-producers-blending-photography-and-music/"><u>[New] 2024 Approved Apex Producers Blending Photography & Music</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[New] From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-foremost-6-online-spaces-dominating-b2b-interactions/"><u>[Updated] 2024 Approved Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picture-perfect-how-to-accurately-date-your-photos/"><u>2024 Approved Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-complete-manual-for-background-banishment-in-figma/"><u>2024 Approved The Complete Manual for Background Banishment in Figma</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5o6s6zmk5yplusv55ar5zwp6agm77ya6auy5pwi6kej5rg65bel5l2c5yplusw5lik55qe5pah5lu25asx6lmk5pa55rov/"><u>排除可疑問題：高效解決工作台上的文件失蹤方法</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-puis-je-reparer-une-cle-usb-qui-ne-fonctionne-pas-avec-mon-vehicule/"><u>Comment Puis-Je Réparer Une Clé USB Qui Ne Fonctionne Pas Avec Mon Véhicule?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprendere-lo-schema-di-ricupero-con-aomei-backupper-guida-dettagliata-e-utilizzo/"><u>Comprendere Lo Schema Di Ricupero Con AOMEI Backupper: Guida Dettagliata E Utilizzo</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-fixes-to-cool-down-an-overheating-iphone-after-latest-ios-versions/"><u>Easy Fixes to Cool Down an Overheating iPhone After Latest iOS Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/galaxy-in-darkness-no-more-effective-solutions-for-star-wars-battlefront-2s-ominous-blackout-problem/"><u>Galaxy in Darkness No More: Effective Solutions for Star Wars Battlefront 2'S Ominous Blackout Problem</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-t2-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo T2 Pro 5G Phone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-overcome-ssd-not-found-errors-in-your-asus-systems-bios-settings/"><u>How to Overcome SSD Not Found Errors in Your ASUS System's BIOS Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-nubia-z50s-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nubia Z50S Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/instantly-resolve-your-pc-issue-with-these-4-techniques-dealing-with-boot-device-not-found/"><u>Instantly Resolve Your PC Issue with These 4 Techniques: Dealing With Boot Device Not Found</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nextv-networks-the-ultimate-streamers-global-guide/"><u>NexTV Networks The Ultimate Streamer's Global Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-rescuing-and-rebooting-your-iphone-data-via-an-outer-hard-disk/"><u>Step-by-Step Guide: Rescuing and Rebooting Your iPhone Data via an Outer Hard Disk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailor-made-preparation-how-to-utilize-chatgpt-for-a-winning-job-interview/"><u>Tailor-Made Preparation: How to Utilize ChatGPT for a Winning Job Interview</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/transferring-images-between-iphones-using-bluetooth-a-step-by-step-guide/"><u>Transferring Images Between iPhones Using Bluetooth: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wiederherstellung-von-zuletzt-geloschten-papierkorb-daten-auf-ihrem-computer/"><u>Wiederherstellung Von Zuletzt Gelöschten Papierkorb-Daten Auf Ihrem Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficient Editing of Components and Groups in the User Interface
-date: 2024-11-17T16:44:31.661Z
-updated: 2024-11-22T03:13:47.154Z
+date: 2024-11-26T21:19:43.165Z
+updated: 2024-11-30T17:17:00.392Z
 tags:
   - user-guide
 categories:
@@ -76,7 +76,7 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit Qualified Component And Group Dialog
@@ -86,7 +86,11 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 ![Edit Qualified Components Dialog](https://cdn.advancedinstaller.com/img/dialog/qualified-component.png "Edit Qualified Components Dialog")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Category GUID
@@ -94,23 +98,19 @@ The Edit Qualified Components dialog allows you to specify the qualified propert
 Specify a GUID for the category of components being grouped together. Use the drop-down list to choose an existing category or create another
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Qualifier
 
 Specify a qualifier for the component. This string is used to distinguish components from the same category.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Description
 
 Specify a description for the qualified component. The content of this field is [localizable](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Feature
@@ -150,19 +150,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhanced-entertainment-tv-ready-looping-techniques-for-video-content-for-2024/"><u>[New] Enhanced Entertainment Tv-Ready Looping Techniques for Video Content for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevating-imagery-an-in-depth-review-of-the-gopro-karma-drone/"><u>[Updated] In 2024, Elevating Imagery An In-Depth Review of the GoPro Karma Drone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windowsppt/"><u>馬上解決！在Windows系統下PPT失去保存功能時的辦法</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hering-youtubes-shorts-funding-mechanism/"><u>Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guida-allautomazione-dei-backup-computer-centralizzati-creazione-e-gestione-dalla-console/"><u>Guida All'automazione Dei Backup Computer Centralizzati: Creazione E Gestione Dalla Console</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-understanding-the-law-screencasting-youtube-videos/"><u>In 2024, Understanding the Law Screencasting YouTube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-compatible-techniques-to-conquer-pokemon-worlds/"><u>IOS Compatible Techniques to Conquer Pokémon Worlds</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/maximize-performance-seamless-transition-of-windows-nto-an-ssd-no-need-for-reinstallation/"><u>Maximize Performance: Seamless Transition of Windows Nto an SSD - No Need for Reinstallation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/professionelle-hd-dvd-brennprogramm-winx-platin-edition-authentische-erwerbung-mit-voller-nutzungsrechte/"><u>Professionelle HD DVD-Brennprogramm WinX - Platin Edition: Authentische Erwerbung Mit Voller Nutzungsrechte</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-7-solutions-for-dealing-with-a-disabled-apple-id-on-itunes-and-app-store/"><u>Top 7 Solutions for Dealing with a Disabled Apple ID on iTunes & App Store</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/transferencia-sencilla-del-sistema-operativo-windows-a-un-disco-duro-ssd-en-equipos-lenovo/"><u>Transferencia Sencilla Del Sistema Operativo Windows a Un Disco Duro SSD en Equipos Lenovo</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-duckduckgo-a-comprehensive-guide/"><u>Understanding DuckDuckGo: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astery-of-viewership-hierarchy-key-aspects-examined/"><u>[New] Mastery of Viewership Hierarchy Key Aspects Examined</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-11-auditory-capture-devices-reviewed-here/"><u>[Updated] Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/2-top-strategies-for-hitting-the-number-one-spot-on-google-using-emeditors-anchor-link-feature-effectively/"><u>2. Top Strategies for Hitting the Number One Spot on Google: Using EmEditor's Anchor Link Feature Effectively</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>2024 Approved Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategic-insights-for-optimal-tech-upgrades/"><u>2024 Approved Strategic Insights for Optimal Tech Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-conversion-tips-for-turning-ifo-videos-into-mp4-on-windowsmacos-systems/"><u>Easy Conversion Tips for Turning IFO Videos Into MP4 on Windows/macOS Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/free-and-user-friendly-dell-hdd-cloner-with-secure-boot-feature/"><u>Free and User-Friendly Dell HDD Cloner with Secure Boot Feature</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/intern-speichern-mit-sd-karte-auf-einem-pc-umfassende-anleitung-fur-die-verwendung-unter-windows-11/"><u>Intern Speichern Mit SD-Karte Auf Einem PC: Umfassende Anleitung Für Die Verwendung Unter Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/march-2024s-ultimate-headset-offers-and-savings-check-out-the-latest-deals/"><u>March 2024'S Ultimate Headset Offers & Savings - Check Out the Latest Deals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-mov-m4a/"><u>Movavi의 원품: 무료 웹 서비스로 MOV 파일을 M4A로 전환</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/quick-guide-how-to-replicate-a-windows-nine-setup-on-several-machines-in-just-3-easy-steps/"><u>Quick Guide: How to Replicate a Windows Nine Setup on Several Machines in Just 3 Easy Steps</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728497952049-windows-11/"><u>Windows 11を使用してコンピューターゲームのトラブルシューティング技術</u></a></li>
 </ul></div>
 

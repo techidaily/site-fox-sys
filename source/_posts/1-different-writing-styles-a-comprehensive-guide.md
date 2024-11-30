@@ -1,7 +1,7 @@
 ---
 title: "1. 'Different Writing Styles: A Comprehensive Guide'"
-date: 2024-11-16T18:21:54.406Z
-updated: 2024-11-22T07:47:16.151Z
+date: 2024-11-29T20:19:59.769Z
+updated: 2024-11-30T18:21:41.825Z
 tags:
   - user-guide
 categories:
@@ -72,7 +72,7 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Text Style Tab
@@ -81,12 +81,16 @@ This page allows you to create new text style or edit existing ones. You can als
 
 ![Text style](https://cdn.advancedinstaller.com/img/ui/text-style.png "Text style")  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creating a new text style
 
 Use the \[New... \], the “New...” context menu item or press the Ins while the list is focused. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to create a new style. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing a text style
@@ -94,7 +98,7 @@ Use the \[New... \], the “New...” context menu item or press the Ins while t
 Use the \[Edit... \], the “Edit...” context menu item or press theSpace while an element is selected. The [Text Style Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit a text style. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Removing a text style
@@ -102,16 +106,12 @@ Use the \[Edit... \], the “Edit...” context menu item or press theSpace whil
 Use the \[Remove \] button, the “Remove” context menu item or press theDel while an element is focused. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Setting the default style
 
 Use the \[Set Default \] button or the “Set Default” context menu item while the desired style is selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -151,24 +151,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-reddits-most-adored-and-upvoted-stories/"><u>[New] The Ultimate List Reddit's Most Adored and Upvoted Stories</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ransform-your-short-form-video-content-top-strategies-revealed/"><u>[New] Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-audiovisual-fusion-incorporating-songs-in-ig-media/"><u>[Updated] In 2024, Audiovisual Fusion Incorporating Songs in IG Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtubes-adsense-income-strategy-calculating-per-thousand-viewers/"><u>[Updated] In 2024, Youtube's AdSense Income Strategy Calculating Per Thousand Viewers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-maximize-your-zoom-experience-with-top-three-strategies/"><u>[Updated] Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-popcorn-projections-thorough-review-of-film-snack-recorder/"><u>2024 Approved Popcorn Projections Thorough Review of Film Snack Recorder</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-15-pro-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 15 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/5a2457pluss5pwi5p6c5ake5yqg77ya6ycq5omh5y2a6ksh6ko95oqa5ben5yplusk5rex5ywl55cg6kej5lml6ygt/"><u>學習效果增加：逐扇區複製技巧及深入理解之道</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/aomei-backup-product-reviews-and-promotions-find-detailed-articles-manuals-and-deals-here/"><u>AOMEI Backup Product Reviews & Promotions: Find Detailed Articles, Manuals & Deals Here</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/behebt-systemwiederherstellungsfehler-in-windows-11-wahrend-der-start-und-wiederherstellungsphase/"><u>Behebt Systemwiederherstellungsfehler in Windows 11 Während Der Start- Und Wiederherstellungsphase</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comparing-gratis-options-best-free-incremental-and-differential-backup-tools-online/"><u>Comparing Gratis Options: Best Free Incremental and Differential Backup Tools Online</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/discover-the-best-free-backup-solutions-to-replace-file-history-in-windows-8-81-or-10/"><u>Discover the Best FREE Backup Solutions to Replace File History in Windows 8, 8.1, or 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/front-row-diversions-beyond-sports-galore-for-2024/"><u>Front Row Diversions Beyond Sports Galore for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-unlock-your-creative-potential-top-ipad-video-editors-for-2024/"><u>New Unlock Your Creative Potential Top iPad Video Editors for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/quick-fixes-for-hulu-error-code-p-edu122-step-by-step-solutions/"><u>Quick Fixes for Hulu Error Code P-EDU122: Step-by-Step Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolved-issue-with-windows-file-recovery-missing-destination-directory-fix/"><u>Resolved: Issue with Windows File Recovery - Missing Destination Directory Fix</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-instructions-how-to-fully-clear-data-on-macbooks-and-ios-devices/"><u>Step-by-Step Instructions: How to Fully Clear Data on MacBooks and iOS Devices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-12-mini-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 12 mini Activation Lock</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728509745677-404/"><u>ページエラー404:コンテンツはこちらです</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5-effective-techniques-to-overcome-dell-cannot-read-nvme-drive-problems/"><u>5 Effective Techniques to Overcome 'Dell Cannot Read NVMe Drive' Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-management-engine-driver-install-windows-steps/"><u>Efficient Management Engine Driver Install: Windows Steps</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-find-the-storage-location-of-your-ios-devices-backup-on-a-computer/"><u>How To Find The Storage Location Of Your iOS Device's Backup On A Computer</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/procedura-passo-passo-per-ripristinare-gpt-sul-tuo-computer-con-windows-1087-o-11/"><u>Procedura Passo-Passo per Ripristinare GPT Sul Tuo Computer Con Windows 10/8/7 O 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/under-the-lens-hero-4-meets-hero-5-for-2024/"><u>Under the Lens Hero 4 Meets Hero 5 for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/understanding-my-preference-why-i-refrain-from-modifying-game-difficulty-prior-to-play/"><u>Understanding My Preference: Why I Refrain From Modifying Game Difficulty Prior to Play</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wie-handeln-sie-erfolgreich-gegen-probleme-im-speichermigrationsprozess-auf-festplatten-vor/"><u>Wie Handeln Sie Erfolgreich Gegen Probleme Im Speichermigrationsprozess Auf Festplatten Vor?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-defenderwindows-1110/"><u>Windows Defenderを無効にしてしまうWindows 11/10の謎解き：どうやって元に戻せる？</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-overcome-audio-service-interruptions-in-windows-10-systems/"><u>Winning Strategies to Overcome Audio Service Interruptions in Windows 10 Systems</u></a></li>
 </ul></div>
 

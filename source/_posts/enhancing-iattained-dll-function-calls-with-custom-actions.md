@@ -1,7 +1,7 @@
 ---
 title: Enhancing IATTAINED DLL Function Calls with Custom Actions
-date: 2024-11-16T16:20:06.639Z
-updated: 2024-11-21T21:23:18.146Z
+date: 2024-11-24T19:05:12.292Z
+updated: 2024-11-30T18:05:27.483Z
 tags:
   - user-guide
 categories:
@@ -124,13 +124,13 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## IAttachedDllFunctionCallCustomAction
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -138,12 +138,16 @@ Table of Contents
 IAttachedDllFunctionCallCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface facilitates editing custom action for calling function from attached native dll.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -154,7 +158,7 @@ This interface facilitates editing custom action for calling function from attac
 **String ActionData** \- .Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Example
@@ -165,10 +169,6 @@ $custAct = $project.CustomActionsComponent.NewAttachedNativeDllFunctionCall("D:\
 $custAct.FunctionName = "MyFunction1"
 
     Copy
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -209,16 +209,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-with-smart-video-cropping-and-exporting/"><u>[Updated] In 2024, Boost Engagement with Smart Video Cropping & Exporting</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comment-resoudre-lerreur-windows-7-qui-refuse-de-demarrer-sur-une-machine-differente-post-clonage/"><u>Comment Résoudre L'erreur Windows 7 Qui Refuse De Démarrer Sur Une Machine Différente Post-Clonage ?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-facile-pour-recuperation-de-fichiers-indesign-non-enregistres-sous-windows-et-macintosh/"><u>Guide Facile Pour Récupération De Fichiers InDesign Non Enregistrés Sous Windows Et Macintosh</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/klopft-datenabbildung-von-windows-10-ohne-formatkonversion-an/"><u>Klopft Datenabbildung Von Windows 10 Ohne Formatkonversion An</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mastering-road-awareness-exploring-the-features-and-adaptive-technology-of-the-escort-ix-radar-detector/"><u>Mastering Road Awareness: Exploring the Features and Adaptive Technology of the Escort iX Radar Detector</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-srt-mp4-conversion-for-video-enhancement-for-2024/"><u>Mastering SRT MP4 Conversion for Video Enhancement for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/techniques-pour-retrouver-une-partition-perdue-en-windows-11-apres-suppression-involontaire-conseils-dexperts/"><u>Techniques Pour Retrouver Une Partition Perdue en Windows 11 Après Suppression Involontaire - Conseils D'experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721433461562-transform-your-mobile-experience-with-bings-smart-search-technology/"><u>Transform Your Mobile Experience with Bing's Smart Search Technology.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tutorial-paso-a-paso-como-hacer-una-copia-de-seguridad-del-servidor-windows-por-la-consola-de-comando-dos-metodos/"><u>Tutorial Paso a Paso: Cómo Hacer Una Copia De Seguridad Del Servidor Windows Por La Consola De Comando (Dos Métodos)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/which-screen-recorder-reigns-supreme-obs-or-fraps-for-2024/"><u>Which Screen Recorder Reigns Supreme OBS or Fraps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-inside-look-a-catalog-of-tracking-methods/"><u>[New] Inside Look A Catalog of Tracking Methods</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>[Updated] 2024 Approved Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-tips-to-rectify-broken-airdrop-connectivity-across-apple-gadgets/"><u>[Updated] 2024 Approved Tips to Rectify Broken AirDrop Connectivity Across Apple Gadgets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-5-video-tweaking-apps-for-social-networking/"><u>[Updated] 2024 Approved Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-insiders-tips-for-sharing-videos-on-instagram/"><u>[Updated] In 2024, The Insider's Tips for Sharing Videos on Instagram</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/apercu-des-options-de-repli-sur-2-plateformes-nas-synology-guide-comparatif/"><u>Aperçu Des Options De Repli Sur 2 Plateformes NAS Synology – Guide Comparatif</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/come-scaricare-e-installare-windows-11-una-guida-facile/"><u>Come Scaricare E Installare Windows 11: Una Guida Facile</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167632937-gaming-excellence-achieved-with-oled-technology/"><u>Gaming Excellence Achieved with OLED Technology.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-definitif-pour-la-restauration-de-donnees-raid-methodes-rapides-et-fiables/"><u>Guide Définitif Pour La Restauration De Données RAID: Méthodes Rapides Et Fiables</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-fix-drive-unreachable-issue-by-adjusting-incorrect-configuration-parameters/"><u>How to Fix 'Drive Unreachable' Issue by Adjusting Incorrect Configuration Parameters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722093656695-ignite-your-online-discovery-journey-experience-why-perplexity-ai-is-the-top-secret-to-winning-at-google-searches/"><u>Ignite Your Online Discovery Journey: Experience Why Perplexity AI Is the Top Secret to Winning at Google Searches!</u></a></li>
+<li><a href="https://facebook.techidaily.com/inaccessible-online-spaces-discover-the-3-no-facebook-nations/"><u>Inaccessible Online Spaces: Discover the 3 No-Facebook Nations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revive-your-digital-assets-solutions-for-reactivating-disabled-files-and-programs/"><u>Revive Your Digital Assets: Solutions for Reactivating Disabled Files & Programs</u></a></li>
 </ul></div>
 

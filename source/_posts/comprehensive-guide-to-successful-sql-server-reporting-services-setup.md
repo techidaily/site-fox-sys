@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Successful SQL Server Reporting Services Setup
-date: 2024-11-14T18:54:02.361Z
-updated: 2024-11-22T03:31:43.128Z
+date: 2024-11-26T20:15:16.487Z
+updated: 2024-11-30T21:18:20.581Z
 tags:
   - user-guide
 categories:
@@ -78,11 +78,19 @@ This section allows you to configure SSRS deployments which will be executed dur
 
 ![New SSRS Deployment](https://cdn.advancedinstaller.com/img/toolbar/ssrs-deployment.png "New SSRS Deployment")To create a new deployment use the \[New SSRS Deployment \] toolbar button or the “New deployment” context menu item.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Ssrs deployment](https://cdn.advancedinstaller.com/img/ui/ssrs-deployment.png "Ssrs deployment")  
 
 To impersonate the current user, use the “Impersonate installing user” context menu option. You can check this option if you want to run the deployment as the user installing the application, not under the Local System account.
 
 ## General
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Server URL
 
@@ -92,24 +100,16 @@ URL of the Report Server Web Service (e.g._http://localhost:80/ReportServer\_INS
 
 The name of the target folder where the reports will be deployed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dataset folder
 
 The name of the target folder where the datasets will be deployed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Datasource folder
 
 The name of the target folder where the datasources will be deployed. Edit this field using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Condition
@@ -124,10 +124,6 @@ By enabling this option all reports' resources are removed during uninstall.
 
  Here you can add and edit the files needed for the deployment (report, dataset and datasource files). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Adding a new resource
 
  Select your resources using the \[Add... \] button. 
@@ -135,6 +131,10 @@ By enabling this option all reports' resources are removed during uninstall.
 ### Editing an SSRS deployment
 
 Use the \[Edit... \] button, the “Edit...” context menu item or press theSpace key while an element from the list is selected. The [Edit SSRS resources dialog](https://tools.techidaily.com/advancedinstaller/products/) dialog will be displayed allowing you to edit the properties of the resource's deployment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Removing an SSRS deployment
 
@@ -145,13 +145,13 @@ To remove an existing resource use the \[Remove \] button.
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)For performing the deployment, Advanced Installer uses a tool which is part of the Reporting Services component of the SQL Server. Therefore you must have an instance of the SQL Server installed on the machine where you are running the install package.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)For more detailed help, please press the F1 key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -192,22 +192,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-fine-tuning-focus-closeups-on-teams-for-2024/"><u>[New] Fine-Tuning Focus Closeups on Teams for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[Updated] Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-restore-your-images-from-icloud-with-these-easy-techniques/"><u>1. Restore Your Images From iCloud with These Easy Techniques</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728466195406-aomei-backupper/"><u>使用AOMEI Backupper進行徹底抹除:高效清空硬碟指南</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a1-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A1 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comment-configurer-un-systeme-dimage-pour-windows-server-201/"><u>Comment Configurer Un Système D'Image Pour Windows Server 201</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/essential-travel-gear-top-3-must-have-accessories-every-traveler-should-pack/"><u>Essential Travel Gear: Top 3 Must-Have Accessories Every Traveler Should Pack</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fehlerbehebung-und-losungen-fur-das-scheitern-der-windows-server-2019-installation/"><u>Fehlerbehebung Und Lösungen Für Das Scheitern Der Windows Server 2019 Installation</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-your-perfect-match-in-twitch-streaming-software-expert-opinions-on-free-and-paid-solutions-for-optimal-broadcasting-success-zdnet/"><u>Find Your Perfect Match in Twitch Streaming Software: Expert Opinions on FREE and PAID Solutions for Optimal Broadcasting Success | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/quick-fixes-resolving-the-error-when-outlook-fails-to-access-an-ost-file/"><u>Quick Fixes: Resolving the Error When Outlook Fails to Access an OST File</u></a></li>
-<li><a href="https://solve-help.techidaily.com/reviving-your-pc-top-6-methods-to-successfully-repair-a-windows-10-system-restore-failure/"><u>Reviving Your PC: Top 6 Methods to Successfully Repair a Windows 10 System Restore Failure</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-for-backing-up-your-networknas-device-in-windows-10-and-11-systems/"><u>Step-by-Step Guide for Backing Up Your Network/NAS Device in Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wd-my-passport-windows-111087/"><u>WD My Passport跨版本圖書館备份: Windows 11、10、8及7的完美解決方案</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windowsig/"><u>Windows电脑上的照片恢复技巧：了解如何使用IG删除功能进行逆向操作</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-simplified-webcam-editing-and-distribution-methods/"><u>[New] In 2024, Simplified WebCam Editing & Distribution Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-fun-flicks-online-must-see-comedy-streaming-stations/"><u>[Updated] In 2024, Fun Flicks Online Must-See Comedy Streaming Stations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-gameplay-utilizing-steams-switch-controller/"><u>2024 Approved Streamline Gameplay Utilizing Steam's Switch Controller</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/7windows-11/"><u>速やかにクリーンアップ:コマンドプロンプトが消える7手口（Windows 11）</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-y100-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Y100 5G</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-tutorial-on-retrieving-and-installing-surface-driver-software-updates/"><u>Comprehensive Tutorial on Retrieving and Installing Surface Driver Software Updates</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/duracion-de-la-eliminacion-y-recuperacion-de-correos-electronicos-en-yahoo/"><u>Duración De La Eliminación Y Recuperación De Correos Electrónicos en Yahoo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-methods-for-launching-ai-agents-directly-through-your-browser-with-agentgpt/"><u>Efficient Methods for Launching AI Agents Directly Through Your Browser with AgentGPT</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fixing-the-mystery-how-to-handle-disks-that-wont-initialize-in-windows-11/"><u>Fixing the Mystery: How to Handle Disks that Won't Initialize in Windows 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/losungen-fur-das-iphone-nicht-ubertragbares-problem-verstandnis-der-hindernisse-beim-transferieren-des-iphone-modells-14/"><u>Lösungen Für Das iPhone Nicht Übertragbares Problem: Verständnis Der Hindernisse Beim Transferieren Des iPhone Modells 14</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728500449866-mac/"><u>Mac电脑自动同步文件夹的完全指南 - 两种不同的方法</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/protect-and-preserve-mastering-thunderbird-data-backups-for-windows-11-users/"><u>Protect and Preserve: Mastering Thunderbird Data Backups for Windows 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-troubleshoot-essential-fixes-for-fanatics/"><u>Ps4 Joystick Troubleshoot: Essential Fixes for Fanatics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012544200-spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-solutions-for-resolving-memory-integrity-issues-in-windows-11/"><u>Top 5 Solutions for Resolving Memory Integrity Issues in Windows 11</u></a></li>
 </ul></div>
 

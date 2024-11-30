@@ -1,7 +1,7 @@
 ---
 title: "Navigating Advanced Search Settings: A Guide to Effective Result Filtering"
-date: 2024-11-16T23:19:45.565Z
-updated: 2024-11-21T18:19:30.677Z
+date: 2024-11-27T19:51:28.332Z
+updated: 2024-11-30T18:44:35.558Z
 tags:
   - user-guide
 categories:
@@ -93,7 +93,7 @@ Table of Contents
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit Filters Dialog
@@ -103,7 +103,7 @@ In this dialog, you can edit the filters that allow you to select which files wi
 ![Edit Filters Dialog](https://cdn.advancedinstaller.com/img/dialog/edit-filters.png "Edit Filters Dialog")  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Include Filters
@@ -113,6 +113,10 @@ Specify what files (or types of files) should be added to the project.
 ### Name Patterns
 
 You can specify what files will be added to the package. Use the \[New \], \[Edit \] and \[Remove \] buttons to do that. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Attributes
 
@@ -127,11 +131,7 @@ Specify what files (or types of files) should be left out of the project. The ex
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Folders can be excluded only by using an exclude filter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Exclude sub-folders
@@ -139,7 +139,7 @@ Specify what files (or types of files) should be left out of the project. The ex
 Enable the “Exclude Sub-folders” check-box if you don't want to include the synchronized folder's sub-folders in your project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -180,17 +180,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-starting-youtube-essential-seo-tips/"><u>[Updated] In 2024, Starting YouTube Essential SEO Tips</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-secure-your-memories-top-4-simple-methods-to-back-up-iphone-data-to-pc/"><u>1. Secure Your Memories: Top 4 Simple Methods to Back Up iPhone Data to PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715860262933-2024-approved-capture-your-screen-on-chromebook-methods-4-you/"><u>2024 Approved Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728497338249-dropbox/"><u>外付けハードディスクからDropbox上での安全なデータ移行ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-your-pc-runs-on-windows-11-and-crashes/"><u>Expert Advice: What to Do When Your PC Runs on Windows 11 and Crashes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fehlerbehebung-wenn-ihr-laptop-nicht-reagiert-weil-er-eingefroren-ist/"><u>Fehlerbehebung: Wenn Ihr Laptop Nicht Reagiert, Weil Er Eingefroren Ist</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-watermark-free-video-joiners-for-seamless-edits/"><u>In 2024, Best Watermark-Free Video Joiners for Seamless Edits</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-g24-power-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola G24 Power</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-gionee-f3-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Gionee F3 Pro Through Google Earth?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/losungsansatze-fur-fehlerhafte-chkdsk-funktionen-top-4-methoden-und-ein-hilfreicher-reparatursschub/"><u>Lösungsansätze Für Fehlerhafte CHKDSK-Funktionen: Top 4 Methoden Und Ein Hilfreicher Reparatursschub</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-issues-with-netflix-a-guide-to-resolve-playback-errors/"><u>Solving Issues with Netflix: A Guide to Resolve Playback Errors</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-ultimate-walkthrough-for-deploying-and-operating-easystores-mobile-data-recovery-solution/"><u>The Ultimate Walkthrough for Deploying and Operating Easystore's Mobile Data Recovery Solution</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>[Updated] In 2024, Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-advancements-in-generative-ai-leading-us-towards-an-era-of-digital-deception/"><u>Are Advancements in Generative AI Leading Us Towards an Era of Digital Deception?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/chkdsk-nicht-funktioniert-entdecken-sie-die-besten-5-fixes-plus-einen-exklusiven-insidertrick/"><u>CHKDSK Nicht Funktioniert? Entdecken Sie Die Besten 5 Fixes Plus Einen Exklusiven Insidertrick!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fast-track-techniques-restoring-deleted-data-after-a-drives-format/"><u>Fast Track Techniques: Restoring Deleted Data After a Drive's Format</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-xp-420-printer-software-update-and-download-instructions/"><u>Get the Newest Epson XP-420 Printer Software Update & Download Instructions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/globe-trotting-grammar-master-languages-with-vr/"><u>Globe-Trotting Grammar: Master Languages with VR</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-perform-your-ps5-solid-state-drive-upgrade-expert-tips-and-tricks/"><u>How To Perform Your PS5 Solid State Drive Upgrade: Expert Tips and Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-13-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 13 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-upload-made-easy-for-ios-devices-with-youtube/"><u>In 2024, Video Upload Made Easy for iOS Devices with YouTube</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/quick-guide-copying-tunes-from-your-ios-device-to-external-storage/"><u>Quick Guide: Copying Tunes From Your iOS Device to External Storage</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resetting-iphone-wechat-history-step-by-step/"><u>Resetting iPhone WeChat History Step-by-Step</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solucion-paso-a-paso-para-cambiar-la-ubicacion-de-tu-particion-reservada-en-el-equipo/"><u>Solución Paso a Paso Para Cambiar La Ubicación De Tu Partición Reservada en El Equipo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-importing-your-snapchat-images-from-iphone-to-desktop/"><u>Step-by-Step Guide: Importing Your Snapchat Images From iPhone to Desktop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-huawei-p10-examining-its-durability-and-build-quality/"><u>The Huawei P10 Examining Its Durability & Build Quality</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728502708792-windows-server-201n/"><u>Windows Server 201N搭載の自動化バックアップ方法</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728463516378-404/"><u>ご読者へ：要求されたコンテンツを取得できず - '404エラー'の理由と解決方法</u></a></li>
 </ul></div>
 

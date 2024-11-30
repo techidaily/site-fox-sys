@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through File Hierarchies: Understanding Directory Structures"
-date: 2024-11-15T11:51:04.009Z
-updated: 2024-11-21T20:01:34.080Z
+date: 2024-11-24T19:22:47.789Z
+updated: 2024-11-30T18:27:15.406Z
 tags:
   - user-guide
 categories:
@@ -82,7 +82,7 @@ Table of Contents
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paths of the folders in the "Files and Folders" Page
@@ -134,7 +134,7 @@ Depending on the package type, the paths will change; this means that if the pac
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If other files are present in the same **AppDataFolder**, near the shortcuts, these are not redirected and they are placed in **AppDataFolder**. For more info about shortcut redirection click [here](https://learn.microsoft.com/en-us/windows/win32/msi/installation-context "Installation Context").
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 A special property is "AI\_ProgramFiles", which is used only in a "Mixed 32/64-bit matching the platform" installation package. When creating this type of package the presence of this property in the field "Application Folder" from the [Install Parameters](https://tools.techidaily.com/advancedinstaller/products/) page is mandatory. The property will automatically resolve to "ProgramFilesFolder" or "ProgramFiles64Folder", depending on the machine's type on which the package is installed.
@@ -142,7 +142,7 @@ A special property is "AI\_ProgramFiles", which is used only in a "Mixed 32/64-b
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The sample paths are from a machine which has Windows installed on the C: drive. Also,**<username>** represents the name current user's name (the user account on which the installation runs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -178,22 +178,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-easy-loop-keeping-iphone-videos-running/"><u>[New] 2024 Approved Easy Loop Keeping iPhone Videos Running</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimate-choice-of-gopro-film-editing-programs/"><u>[New] Ultimate Choice of GoPro Film-Editing Programs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728504761477-hdd/"><u>「最適な外付けHDD同期ソフトウェアで簡単に自動同期する - 今すぐダウンロード可能」</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>2024 Approved Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-1111-dvd-usb/"><u>无成本生成Windows 11/11 快照DVD或 USB设备——方法介绍</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-marketer-writes-guide-to-utilizing-hashtags-effectively-on-facebook-for-2024/"><u>A Marketer' Writes Guide to Utilizing Hashtags Effectively on Facebook for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convertir-en-fichier-pst-comment-exporter-une-boite-de-reception-microsoft-exchange-vers-outlook/"><u>Convertir en Fichier PST - Comment Exporter Une Boîte De Réception Microsoft Exchange Vers Outlook</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/gratisk-bootfardig-usb-pinnsats-tillgang-for-windows-7/"><u>Gratisk Bootfärdig USB-Pinnsats - Tillgång För Windows 7</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guia-facil-para-cambiar-el-partition-boot-de-windows-11-al-ssd-sin-necesidad-de-reinstalar/"><u>Guía Fácil Para Cambiar El Partition Boot De Windows 11 Al SSD Sin Necesidad De Reinstalar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-7-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Pop 7 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/methodes-rapides-pour-assurer-la-sauvegarde-recurrente-des-donnees-avec-wbadmin-dans-windows-server/"><u>Méthodes Rapides Pour Assurer La Sauvegarde Récurrente Des Données Avec Wbadmin Dans Windows Server</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/schnellere-vms-garantiert-mehr-uber-performance-boosting-in-der-vmware-umgebung-7-wertvolle-raten/"><u>Schnellere VMs Garantiert: Mehr Über Performance-Boosting in Der VMware Umgebung (7 Wertvolle Raten)</u></a></li>
-<li><a href="https://win-able.techidaily.com/successful-launch-of-immortals-fenyx-rising-the-godly-quest-begins/"><u>Successful Launch of Immortals Fenyx Rising: The Godly Quest Begins</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-successfully-restarting-a-computer-stuck-on-boot-sequence/"><u>Tips for Successfully Restarting a Computer Stuck on Boot Sequence</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tutoriel-detaille-installation-et-mise-en-place-des-disques-ssd-adata-pour-windows-supporte-par-les-versions-111087/"><u>Tutoriel Détaillé : Installation Et Mise en Place Des Disques SSD ADATA Pour Windows (Supporté Par Les Versions 11/10/8/7)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-step-by-step-plan-efficient-vimeo-video-logging-for-2024/"><u>[New] A Step-by-Step Plan Efficient Vimeo Video Logging for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-engage-broadly-embedding-twitch-videos-on-fb-for-2024/"><u>[New] Engage Broadly Embedding Twitch Videos on FB for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-mobile-thumbnail-creation-for-youtube-for-2024/"><u>[Updated] Mastering Mobile Thumbnail Creation for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>2024 Approved Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guia-paso-a-paso-respaldo-de-archivos-al-disco-duro-exterior-en-windows-10/"><u>Guía Paso a Paso: Respaldo De Archivos Al Disco Duro Exterior en Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100t to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-for-earning-from-every-youtube-short/"><u>In 2024, Step-by-Step Guide for Earning From Every YouTube Short</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-redmi-note-13-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi Redmi Note 13 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/quick-guide-how-to-revert-to-original-software-settings-in-windows-7/"><u>Quick Guide: How to Revert to Original Software Settings in Windows 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-picks-in-affordable-home-cinema-setups-with-4k/"><u>Top Picks in Affordable Home Cinema Setups with 4K</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-rated-tools-for-transferring-hard-drive-data-from-hdd-to-wd-solid-state-drives/"><u>Top Rated Tools for Transferring Hard Drive Data From HDD to WD Solid State Drives</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11aomei/"><u>Windows 11硬碟拷貝大全：智者所用AOMEI备份</u></a></li>
 </ul></div>
 

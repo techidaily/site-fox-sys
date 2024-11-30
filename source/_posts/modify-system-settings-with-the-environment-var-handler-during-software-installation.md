@@ -1,7 +1,7 @@
 ---
 title: Modify System Settings with the Environment Var Handler During Software Installation
-date: 2024-11-16T22:53:08.471Z
-updated: 2024-11-21T17:55:02.994Z
+date: 2024-11-29T16:44:44.926Z
+updated: 2024-11-30T21:33:55.056Z
 tags:
   - user-guide
 categories:
@@ -71,33 +71,29 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Edit Environment Variable Dialog - Installer Project
 
  In this dialog you can edit the properties of a new environment variable or change the properties of an already existing one.
 
 ![Edit Environment Variable dialog](https://cdn.advancedinstaller.com/img/dialog/environment-variable-edit.png "Edit Environment Variable dialog")  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## General
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Name
 
  The environment variable's name. You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Value
 
  The environment variable's content. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/). You can [localize](https://tools.techidaily.com/advancedinstaller/products/) this value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Component
 
@@ -106,7 +102,7 @@ Table of Contents
 ## Adding and Removing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Install
@@ -117,19 +113,23 @@ Table of Contents
 * Create only if it doesn't exist
 * Remove
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Remove on uninstall
 
 This checkbox will make the Windows Installer remove the environment variable when the package is uninstalled.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)During an uninstall Windows Installer will remove only what it added. If a value was appended to an existing environment variable, only that value will be removed (not the entire variable).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### System variable
 
 If the target Windows operating system is based on NT technology, enabling this option will set the environment variable as a system variable. If this option is disabled the variable is installed as a normal environment variable instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Existing
 
@@ -174,18 +174,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-transform-your-podcast-with-these-google-upload-insights/"><u>[New] In 2024, Transform Your Podcast with These Google Upload Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-combat-chronicles-in-the-ring-or-on-screen-in-2024/"><u>[Updated] Combat Chronicles In the Ring or on Screen, In 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-curating-a-musical-portfolio-in-youtube-for-2024/"><u>[Updated] Curating a Musical Portfolio in Youtube for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>[Updated] Meme March Unstoppable Videos Hit the Tweetsphere</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/anleitung-zum-erkennen-von-recyclebin-dateien-und-zum-wiederherstellen-verlorener-dokumente-auf-ihrem-pc/"><u>Anleitung Zum Erkennen Von $Recycle.bin-Dateien Und Zum Wiederherstellen Verlorener Dokumente Auf Ihrem PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-y78plus-t1-edition-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo Y78+ (T1) Edition is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortless-steps-setting-up-onedrive-auto-backup-on-windows-10/"><u>Effortless Steps: Setting Up OneDrive Auto-Backup on Windows 10</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guia-de-como-crear-un-medio-de-inicio-disco-usb-iso-con-windows-preinstallation-environment-o-linux/"><u>Guía De Cómo Crear Un Medio De Inicio (Disco USB, ISO) Con Windows Preinstallation Environment O Linux</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-resolve-windows-update-error-0x8024402c/"><u>How to Resolve Windows Update Error 0X8024402C</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>In 2024, Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/software-enhancements-tidying-up-vs-total-replacement/"><u>Software Enhancements: Tidying Up Vs. Total Replacement</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-3-methods-for-safeguarding-big-data-on-various-versions-of-windows-operating-systems/"><u>Top 3 Methods for Safeguarding Big Data on Various Versions of Windows Operating Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-effortless-mac-screenshots-exploring-five-simple-methods/"><u>[New] 2024 Approved Effortless Mac Screenshots Exploring Five Simple Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-deciding-on-your-video-recorder-heroes-obs-or-bandicam-for-2024/"><u>[New] Deciding on Your Video Recorder Heroes OBS or Bandicam for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-instant-impression-audiovisual-capture/"><u>[New] Instant Impression Audiovisual Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-planning-and-recording-meetings-in-slack-plus-filmora/"><u>[Updated] 2024 Approved The Ultimate Guide to Planning & Recording Meetings in Slack + Filmora</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728468743922-gmail/"><u>重要なGmailメールを失わずに保管するための４つのスマートな方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/erfolgreiches-recovery-von-loschten-bildern-auf-dem-pc-einfache-schritte/"><u>Erfolgreiches Recovery Von Löschten Bildern Auf Dem PC: Einfache Schritte</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728469397017-google6/"><u>Googleドライブから失われた共有ファイルを取り戻すための6種類のテクニック</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-the-charge-in-macwin-srt-modifications/"><u>In 2024, Leading the Charge in Mac/Win SRT Modifications</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/seamlessly-upgrade-your-pc-transfer-windows-881-across-new-devices-with-ease/"><u>Seamlessly Upgrade Your PC - Transfer Windows 8/8.1 Across New Devices with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-meizu-21-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Meizu 21 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/warum-die-apple-music-familienfreigabe-fehler-auftritt-und-wie-sie-sie-beheben-konnen/"><u>Warum Die Apple Music Familienfreigabe Fehler Auftritt Und Wie Sie Sie Beheben Können</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-comprehensive-look-at-customizing-themes/"><u>Windows 11: A Comprehensive Look at Customizing Themes</u></a></li>
 </ul></div>
 
