@@ -1,7 +1,7 @@
 ---
 title: PCDJ Integration Enables Seamless Remote Song Booking on SongbookDB's Kiosk Interface
-date: 2024-11-28T21:32:31.893Z
-updated: 2024-11-30T19:19:26.543Z
+date: 2024-12-07T17:44:41.667Z
+updated: 2024-12-08T17:56:44.347Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,19 +81,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-jolly-gaming-haven-for-little-explorers-for-2024/"><u>[New] Jolly Gaming Haven for Little Explorers for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturecanvas-hd-screen-toolkit/"><u>[Updated] 2024 Approved CaptureCanvas HD Screen Toolkit</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-rapid-renderings-the-win10-way-to-work-wonders-on-images-quickly/"><u>[Updated] 2024 Approved Rapid Renderings The Win10 Way to Work Wonders on Images Quickly</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions-for-2024/"><u>[Updated] Content Distribution Showdown Vimeo vs YouTubes and DailyMotions for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-social-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[Updated] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
-<li><a href="https://win-answers.techidaily.com/7-simple-solutions-to-stop-halo-infinite-from-crashing-on-your-pc/"><u>7 Simple Solutions to Stop Halo Infinite From Crashing on Your PC</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-tutorial-how-to-save-or-record-a-microsoft-lync-webinar-for-both-windows-and-macos-users/"><u>Easy Tutorial: How to Save or Record a Microsoft Lync Webinar for Both Windows & macOS Users</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-guide-navigating-the-advanced-features-of-your-installation-wizard/"><u>Expert Guide: Navigating the Advanced Features of Your Installation Wizard</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>In 2024, The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-t2x-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo T2x 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-digital-signatures-how-they-work-and-why-you-need-them/"><u>Understanding Digital Signatures: How They Work & Why You Need Them</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/winxdvd-dvd/"><u>WinXDVD 소프트웨어 - 강력한 시리즈 정보: DVD 리퍼, 비디오 컨버터 및 아이폰 전송</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphones-playlist-paradise-podcast-edition/"><u>[New] Mastering iPhone's Playlist Paradise Podcast Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-stepwise-guide-backing-up-and-exporting-mobile-camera-images-for-social-media/"><u>[Updated] 2024 Approved Stepwise Guide Backing Up & Exporting Mobile Camera Images for Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-access-all-shows-seamless-apods-installation-tips-for-2024/"><u>[Updated] Access All Shows Seamless APods Installation Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leading-tech-premium-choices-of-mac-videograbbers/"><u>[Updated] In 2024, Leading Tech Premium Choices of Mac Videograbbers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/avoiding-graphic-card-issues-proven-strategies-for-maintenance-insights-from-yl-software/"><u>Avoiding Graphic Card Issues: Proven Strategies for Maintenance - Insights From YL Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-characters-crafting-chronicles-gpts-sixfold-strategy/"><u>Creating Characters, Crafting Chronicles: GPT's Sixfold Strategy</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/elevate-your-dj-skills-with-dynamic-overlays-in-dex-37-video-guide-for-pro-mixes-by-pcdj/"><u>Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 11 Pro?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ative-ideas-to-make-your-youtube-shorts-exceptional/"><u>Innovative Ideas to Make Your YouTube Shorts Exceptional</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolving-color-errors-during-scanner-scans-a-guide-by-yl-computing/"><u>Resolving Color Errors During Scanner Scans: A Guide by YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-loading-problems-with-chrome-webpages-made-easy/"><u>Solution Steps: Loading Problems with Chrome Webpages Made Easy</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-navigating-to-your-control-panel-with-yl-computings-latest-software/"><u>Step-by-Step Guide: Navigating to Your Control Panel with YL Computing's Latest Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-walkthrough-for-installing-custom-typefaces-and-styles-onto-your-pc-or-mac-font-enthusiasts-handbook/"><u>Ultimate Walkthrough for Installing Custom Typefaces and Styles Onto Your PC or Mac – Font Enthusiast's Handbook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-the-reasons-behind-gpu-malfunctions-an-in-depth-look-by-yl-computing/"><u>Understanding the Reasons Behind GPU Malfunctions: An In-Depth Look by YL Computing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/urgent-alert-microsoft-faces-critical-challenge-with-windows-10-only-a-year-left-zdnet/"><u>Urgent Alert: Microsoft Faces Critical Challenge with Windows 10 - Only a Year Left! [ZDNet]</u></a></li>
 </ul></div>
 

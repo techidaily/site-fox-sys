@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Dexterity: Discover PCDJ's Latest Version 3.4 Release Features"
-date: 2024-11-27T17:44:27.793Z
-updated: 2024-11-30T20:29:06.635Z
+date: 2024-12-01T21:22:05.832Z
+updated: 2024-12-09T01:00:47.059Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,19 +104,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nhancing-video-impact-interpreting-youtube-metrics-wisely-for-2024/"><u>[New] Enhancing Video Impact Interpreting YouTube Metrics Wisely for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-lightning-methods-ios-media-on-windows/"><u>[New] Lightning Methods IOS Media on Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-ultimate-tech-handbook-working-with-srt-files-on-a-mac/"><u>[Updated] 2024 Approved The Ultimate Tech Handbook Working with SRT Files on a Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-violating-copyrights-in-video-posting-what-are-the-consequences/"><u>2024 Approved Violating Copyrights in Video Posting What Are the Consequences?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-what-bing-really-is-and-how-it-works/"><u>A Comprehensive Guide to What Bing Really Is and How It Works</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-google-pixel-7a-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Google Pixel 7a</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-on-permanently-removing-sensitive-files-from-your-pc-using-windows-10-tools/"><u>Expert Tips on Permanently Removing Sensitive Files From Your PC Using Windows 10 Tools</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/gratis-und-effizientes-cloud-backup-mit-aomei-backupper/"><u>Gratis Und Effizientes Cloud-Backup Mit AOMEI Backupper</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-tantalizing-titles-designer/"><u>In 2024, Masterful Tantalizing Titles Designer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tutorial-transforming-video-content-into-captivating-animated-gifs/"><u>In 2024, Tutorial Transforming Video Content Into Captivating Animated GIFS</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-overcoming-roblox-error-code-103-challenges/"><u>Step-by-Step Guide to Overcoming Roblox Error Code 103 Challenges</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/topgratis-schijfforming-toetsprogramma-voor-windows-11-de-beste-oplossingen/"><u>Topgratis Schijfforming Toetsprogramma Voor Windows 11: De Beste Oplossingen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-the-best-disk-imaging-software-for-windows-users-11-10-8-7/"><u>Ultimate Guide to Choosing the Best Disk Imaging Software for Windows Users (11, 10, 8, 7)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-11-update-error-device-not-ready-8-fixes-for-a-smooth-upgrade/"><u>Windows 11 Update Error 'Device Not Ready': 8 Fixes for a Smooth Upgrade</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-websites-to-amplify-youtube-traffic/"><u>[New] 2024 Approved Essential Websites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-5-best-3d-intro-makers-for-youtube/"><u>[New] In 2024, Top 5 Best 3D Intro Makers for YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-master-the-spectrum-advanced-hdr-tips-for-lightroom-pro/"><u>2024 Approved Master the Spectrum Advanced HDR Tips for Lightroom Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-praise-in-pixels-the-new-marketing-trend/"><u>2024 Approved Praise in Pixels The New Marketing Trend</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/essential-strategies-for-any-mobile-dj-crafting-an-unforgettable-event-experience-using-pcdj-software-video/"><u>Essential Strategies for Any Mobile DJ: Crafting an Unforgettable Event Experience Using PCDJ Software (Video)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expand-memory-capacity-efficiently-with-yl-softwares-guide-on-upgrading-ram/"><u>Expand Memory Capacity Efficiently with YL Software’s Guide on Upgrading RAM</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-birth-of-a-nation-unveiling-who-announced-prcs-formation-in-1949-expert-analysis-by-yl-software/"><u>The Birth of a Nation: Unveiling Who Announced PRC's Formation in 1949 – Expert Analysis by YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-recommended-crypto-exchanges-for-optimal-trading-experience-insights-by-yl-computing/"><u>Top Recommended Crypto Exchanges for Optimal Trading Experience – Insights by YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-graphics-hardware-drivers-failure-fixes-with-yls-innovative-software-guide/"><u>Troubleshooting Graphics Hardware Drivers Failure Fixes with YL's Innovative Software Guide</u></a></li>
 </ul></div>
 

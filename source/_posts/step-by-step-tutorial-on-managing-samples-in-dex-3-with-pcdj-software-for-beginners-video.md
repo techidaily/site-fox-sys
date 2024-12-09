@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2024-11-24T20:24:36.755Z
-updated: 2024-11-30T19:41:00.446Z
+date: 2024-12-02T20:50:58.325Z
+updated: 2024-12-09T02:49:00.004Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,19 +50,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-skype-talks-using-obs-effectively/"><u>2024 Approved Streamline Your Skype Talks Using OBS Effectively</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/best-sound-format-converter-software-compatible-with-windows-10/"><u>Best Sound Format Converter Software Compatible with Windows 10</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/detecting-and-removing-dplinka-trojan-o97m-variant-a-comprehensive-guide-by-malwarefox/"><u>Detecting & Removing DPLink.A Trojan (O97M Variant): A Comprehensive Guide by MalwareFox</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-tecno-spark-20-proplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-starts-with-a-blank-slate-heres-your-comprehnensive-solution/"><u>Elden Ring Starts With a Blank Slate? Here's Your Comprehnensive Solution!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-likes-tips-for-successful-tiktok-unboxings/"><u>Mastering Likes Tips for Successful TikTok Unboxings</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-rufus-for-bypassing-tpmsecure-boot-in-windows-11/"><u>Navigating Rufus for Bypassing TPM/Secure Boot in Windows 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/recording-your-sound-on-myspace-a-step-by-step-tutorial-with-myspace-music-recorder/"><u>Recording Your Sound on Myspace: A Step-by-Step Tutorial with Myspace Music Recorder</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-playback-disruptions-in-ios-youtube-videos/"><u>Solving Playback Disruptions in iOS YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-effortless-texting-with-your-ipad-device/"><u>The Ultimate Tutorial: Effortless Texting with Your iPad Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-icominterface-a-comprehensive-guide/"><u>Understanding IComInterface: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss/"><u>Updated Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-tablet-size-talent-leading-ipados-art-programs/"><u>[New] Tablet-Size Talent Leading iPadOS Art Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tranquil-twilight-tales-in-video-form/"><u>[New] Tranquil Twilight Tales in Video Form</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-the-notorious-graphics-driver-issues-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Issues - Expert Tips and Tricks</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fresh-karaoke-tracks-added-access-unlimited-hits-with-your-partytyme-membership-pcdj/"><u>Fresh Karaoke Tracks Added - Access Unlimited Hits with Your PartyTyme Membership (PCDJ)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-c65-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C65 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y200e-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y200e 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 5G Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-virtualdub-for-mac-for-2024/"><u>New VirtualDub for Mac for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/restoring-your-pc-steps-to-revert-windows-control-panel-back-to-original-state-tech-tips-by-yl/"><u>Restoring Your PC: Steps to Revert Windows Control Panel Back to Original State - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-virtual-reality-vr-bikes-to-check-out-for-2024/"><u>Top Virtual Reality (VR) Bikes to Check Out for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-pc-wont-start-yl-tech-solutions/"><u>Troubleshooting Guide: How To Resolve Issues When Your PC Won't Start - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2024-11-29T22:16:13.222Z
-updated: 2024-11-30T21:04:11.939Z
+date: 2024-12-01T19:21:33.009Z
+updated: 2024-12-08T17:33:13.306Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,21 +126,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-transforming-footage-into-viral-content-on-tiktok-from-computer/"><u>[Updated] 2024 Approved Transforming Footage Into Viral Content on TikTok From Computer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-sites-for-buying-google-pixel-tunes/"><u>[Updated] In 2024, Top Sites for Buying Google Pixel Tunes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/aomei-backup-product-reviews-and-promotions-find-detailed-articles-manuals-and-deals-here/"><u>AOMEI Backup Product Reviews & Promotions: Find Detailed Articles, Manuals & Deals Here</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/copie-de-sauvegarde-des-disques-durs-libres-et-gratuits-pour-les-systemes-windows-11-10-8-7-vista-xp/"><u>Copie De Sauvegarde Des Disques Durs Libres Et Gratuits Pour Les Systèmes Windows 11, 10, 8, 7, Vista, XP</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/descubre-donde-se-guardan-tus-marcadores-de-internet-en-windows-una-guia-detallada-para-windows-10-y-11/"><u>Descubre Dónde Se Guardan Tus Marcadores De Internet en Windows: Una Guía Detallada Para Windows 10 Y 11</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortless-preservation-of-memories-the-ultimate-walkthrough-for-automating-google-photos-backups-from-your-ios-device/"><u>Effortless Preservation of Memories: The Ultimate Walkthrough for Automating Google Photos Backups From Your iOS Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/einfache-lokalisierung-und-synchro-von-dateien-mit-dem-lokalen-ordner-in-dropbox-zwei-effiziente-methoden/"><u>Einfache Lokalisierung Und Synchro Von Dateien Mit Dem Lokalen Ordner in Dropbox: Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/einstellung-der-efi-partition-unter-windows-t-tuchtige-und-einfache-losung/"><u>Einstellung Der EFI-Partition Unter Windows T - Tüchtige Und Einfache Lösung</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-transfer-a-virtual-machine-across-different-datastores-in-vmware-backup-and-migration-guide/"><u>How to Transfer a Virtual Machine Across Different Datastores in VMWare: Backup & Migration Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>In 2024, Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-the-age-update-process-on-tiktok/"><u>In 2024, Streamline the Age Update Process on TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/magsafes-finest-the-ultimate-selection-of-accessories-evaluated-by-tech-reviewers-at-zdnet/"><u>MagSafe's Finest: The Ultimate Selection of Accessories , Evaluated by Tech Reviewers at ZDNet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-split-trim-and-cut-avi-videos-with-these-top-notch-editors/"><u>New In 2024, Split, Trim, and Cut AVI Videos with These Top-Notch Editors</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/quick-fixes-for-hulu-error-code-p-edu122-step-by-step-solutions/"><u>Quick Fixes for Hulu Error Code P-EDU122: Step-by-Step Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/techniques-et-etapes-pour-reflechir-avec-succes-votre-disque-dur-datasystem-un-manuel-complementaire/"><u>Techniques Et Étapes Pour Réfléchir Avec Succès Votre Disque Dur Datasystem : Un Manuel Complémentaire</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essence-of-shareable-humorous-content-for-2024/"><u>The Essence of Shareable Humorous Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-start-chatting-in-real-time-learn-live-on-instagram-for-2024/"><u>[New] Start Chatting in Real-Time Learn Live on Instagram for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-professional-level-action-recording-on-a-students-budget/"><u>[Updated] In 2024, Professional-Level Action Recording on a Student's Budget</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-visionary-graphics-best-cards-in-4k-space/"><u>2024 Approved Visionary Graphics Best Cards in 4K Space</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/community-choice-select-your-top-requested-enhancements-for-future-pcdj-features/"><u>Community Choice: Select Your Top Requested Enhancements for Future PCDJ Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11s-compatibility-diagnostic-tool/"><u>Decoding Windows 11'S Compatibility Diagnostic Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-listings-for-vintage-telephone-melodies-for-2024/"><u>Elite Listings for Vintage Telephone Melodies for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/eye-catching-halloween-wallpaper-sets-hd-scary-graphics-and-pics-for-your-pc-yl-design-studio/"><u>Eye-Catching Halloween Wallpaper Sets - HD Scary Graphics & Pics for Your PC | YL Design Studio</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-creators-vs-youtubes-profit-policies/"><u>In 2024, Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-cookiebot-for-efficient-lead-generation-and-analytics/"><u>Leverage Cookiebot for Efficient Lead Generation & Analytics</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/pioneering-dj-creations-with-dex-3-spotlight-on-a-premier-user-and-host-of-the-house-pcdj/"><u>Pioneering DJ Creations with DEX 3: Spotlight on a Premier User and Host of the House – PCDJ</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-art-of-video-editing-employing-strikethrough-for-clarity-for-2024/"><u>The Art of Video Editing Employing Strikethrough for Clarity for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/viewing-microsoft-word-files-made-easy-comprehensive-guide-yl-computing-solutions/"><u>Viewing Microsoft Word Files Made Easy: Comprehensive Guide - YL Computing Solutions</u></a></li>
 </ul></div>
 
