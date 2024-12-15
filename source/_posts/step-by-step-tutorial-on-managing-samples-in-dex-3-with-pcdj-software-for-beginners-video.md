@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2024-12-02T20:50:58.325Z
-updated: 2024-12-09T02:49:00.004Z
+date: 2024-12-07T17:58:07.982Z
+updated: 2024-12-14T20:11:50.348Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,17 +50,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-tablet-size-talent-leading-ipados-art-programs/"><u>[New] Tablet-Size Talent Leading iPadOS Art Programs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-tranquil-twilight-tales-in-video-form/"><u>[New] Tranquil Twilight Tales in Video Form</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-the-notorious-graphics-driver-issues-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Issues - Expert Tips and Tricks</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fresh-karaoke-tracks-added-access-unlimited-hits-with-your-partytyme-membership-pcdj/"><u>Fresh Karaoke Tracks Added - Access Unlimited Hits with Your PartyTyme Membership (PCDJ)</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-c65-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C65 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y200e-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y200e 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 5G Users</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-virtualdub-for-mac-for-2024/"><u>New VirtualDub for Mac for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/restoring-your-pc-steps-to-revert-windows-control-panel-back-to-original-state-tech-tips-by-yl/"><u>Restoring Your PC: Steps to Revert Windows Control Panel Back to Original State - Tech Tips by YL</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-virtual-reality-vr-bikes-to-check-out-for-2024/"><u>Top Virtual Reality (VR) Bikes to Check Out for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-pc-wont-start-yl-tech-solutions/"><u>Troubleshooting Guide: How To Resolve Issues When Your PC Won't Start - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-handling-your-installed-applications-yl-computing-solutions/"><u>Comprehensive Guide to Handling Your Installed Applications - YL Computing Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/decoding-the-tiananmen-square-event-identifying-those-at-fault-with-insights-from-yl-computing-and-yl-software/"><u>Decoding the Tiananmen Square Event: Identifying Those at Fault with Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/elevating-scan-accuracy-and-velocity-with-yl-software-techniques/"><u>Elevating Scan Accuracy & Velocity with YL Software Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-innovation-and-precision-chatgpt-tools-for-additive-manufacturing/"><u>Enhance Innovation and Precision: ChatGPT Tools for Additive Manufacturing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-evolution-of-pcdj-an-in-depth-look-into-its-legacy-as-a-leading-dj-platform/"><u>Exploring the Evolution of PCDJ: An In-Depth Look Into Its Legacy as a Leading DJ Platform</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/hd-live-wallpaper-with-dark-background-and-light-blue-matrix-design-created-by-yl-computing/"><u>HD Live Wallpaper with Dark Background and Light Blue Matrix Design - Created by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-experts-selection-17-programs-for-flawless-picture-editing/"><u>In 2024, Expert's Selection 17 Programs for Flawless Picture Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-visual-quality-with-enhancer-22/"><u>In 2024, Maximizing Visual Quality with Enhancer 2.2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/rapid-rendering-powerpoint-recordings/"><u>Rapid Rendering PowerPoint Recordings</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-guide-by-yl-software-for-renaming-files-seamlessly/"><u>The Ultimate Guide by YL Software for Renaming Files Seamlessly</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-lan-installation-made-easy-expert-advice-by-yl-software-team/"><u>Windows LAN Installation Made Easy - Expert Advice by YL Software Team</u></a></li>
 </ul></div>
 
