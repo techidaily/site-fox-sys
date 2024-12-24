@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2024-12-07T17:58:07.982Z
-updated: 2024-12-14T20:11:50.348Z
+date: 2024-12-16T19:58:44.094Z
+updated: 2024-12-24T03:29:48.880Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,20 +50,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-handling-your-installed-applications-yl-computing-solutions/"><u>Comprehensive Guide to Handling Your Installed Applications - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/decoding-the-tiananmen-square-event-identifying-those-at-fault-with-insights-from-yl-computing-and-yl-software/"><u>Decoding the Tiananmen Square Event: Identifying Those at Fault with Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/elevating-scan-accuracy-and-velocity-with-yl-software-techniques/"><u>Elevating Scan Accuracy & Velocity with YL Software Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-innovation-and-precision-chatgpt-tools-for-additive-manufacturing/"><u>Enhance Innovation and Precision: ChatGPT Tools for Additive Manufacturing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/exploring-the-evolution-of-pcdj-an-in-depth-look-into-its-legacy-as-a-leading-dj-platform/"><u>Exploring the Evolution of PCDJ: An In-Depth Look Into Its Legacy as a Leading DJ Platform</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/hd-live-wallpaper-with-dark-background-and-light-blue-matrix-design-created-by-yl-computing/"><u>HD Live Wallpaper with Dark Background and Light Blue Matrix Design - Created by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-complete-guide-of-top-7-video-language-translators/"><u>In 2024, A Complete Guide of Top 7 Video Language Translators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-experts-selection-17-programs-for-flawless-picture-editing/"><u>In 2024, Expert's Selection 17 Programs for Flawless Picture Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-visual-quality-with-enhancer-22/"><u>In 2024, Maximizing Visual Quality with Enhancer 2.2</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/rapid-rendering-powerpoint-recordings/"><u>Rapid Rendering PowerPoint Recordings</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-ultimate-guide-by-yl-software-for-renaming-files-seamlessly/"><u>The Ultimate Guide by YL Software for Renaming Files Seamlessly</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-lan-installation-made-easy-expert-advice-by-yl-software-team/"><u>Windows LAN Installation Made Easy - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-10-must-know-iphone-photography-tips-today-for-2024/"><u>[New] 10 Must-Know iPhone Photography Tips Today for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-25-animated-visionaries-shaping-tiktok-trends/"><u>[Updated] 2024 Approved 25 Animated Visionaries Shaping TikTok Trends</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211254385-9781800653542-crystal-power/"><u>Crystal Power | Free Book</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-for-windows-users-control-panel-walkthrough-with-yl-software-solutions/"><u>Easy Network Configuration for Windows Users: Control Panel Walkthrough with YL Software Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expert-guide-enhancing-system-efficiency-insights-from-yl-computing/"><u>Expert Guide: Enhancing System Efficiency - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/gleaming-avatar-backdrops-and-screen-savers-from-yl-studios-digital-artistry-for-your-profile-pictures/"><u>Gleaming Avatar Backdrops & Screen Savers From YL Studios: Digital Artistry for Your Profile Pictures</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-can-you-tell-if-your-computers-hardware-is-malfunctioning-insights-from-yl-computing-and-yl-software/"><u>How Can You Tell If Your Computer's Hardware Is Malfunctioning? - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-did-sun-yat-sen-influence-the-xinhai-revolution-insights-from-a-tech-perspective-yl-computing/"><u>How Did Sun Yat-Sen Influence the Xinhai Revolution?: Insights From a Tech Perspective - YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-105-classic-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia 105 Classic to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/installation-queries-potential-pitfalls-of-multi-graphics-card-configurations-with-yl-tech-advice/"><u>Installation Queries: Potential Pitfalls of Multi-Graphics Card Configurations with YL Tech Advice</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845432-9798822915527-precious-gems/"><u>Precious Gems | Free Book</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-reinstalling-your-device-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Reinstalling Your Device Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/verifying-your-graphics-card-installation-expert-tips-from-yl-computing-and-software-solutions/"><u>Verifying Your Graphics Card Installation: Expert Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/vid-vocated-trust-a-marketers-secret-weapon/"><u>Vid-Vocated Trust A Marketer's Secret Weapon</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Dexterity: Discover PCDJ's Latest Version 3.4 Release Features"
-date: 2024-12-11T03:17:21.226Z
-updated: 2024-12-15T06:07:16.064Z
+date: 2024-12-22T05:05:16.408Z
+updated: 2024-12-24T04:54:52.328Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,24 +104,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-navigating-the-world-of-zoom-audio-to-text-tools/"><u>[New] Navigating the World of Zoom Audio to Text Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-essence-of-sharex-detailed-evaluations-and-alternates/"><u>[New] The Essence of ShareX Detailed Evaluations & Alternates</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-which-monitoring-software-triumphs-for-live-streamers/"><u>[Updated] In 2024, Which Monitoring Software Triumphs for Live Streamers?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-utilize-vlc-software-for-webcam-video-storage-for-2024/"><u>[Updated] Utilize VLC Software for Webcam Video Storage for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-troubleshooting-your-antivirus-common-fixes-when-protection-fails-expert-advice-from-yl-computing/"><u>1. Troubleshooting Your Antivirus: Common Fixes When Protection Fails - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/common-hardware-issues-in-windows-systems-a-comprehensive-guide-yl-tech-solutions/"><u>Common Hardware Issues in Windows Systems: A Comprehensive Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-with-windows-control-panel-expert-advice-by-yl-softwares-tech-team/"><u>Easy Network Configuration with Windows Control Panel: Expert Advice by YL Software's Tech Team</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-file-transfer-techniques-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Efficient File Transfer Techniques on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-fix-a-malfunctioning-graphics-card-expert-tips-and-solutions-yl-tech-support/"><u>How to Fix a Malfunctioning Graphics Card: Expert Tips & Solutions - YL Tech Support</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-wirecast-playbook-for-engaging-youtube-streamers/"><u>In 2024, The Ultimate WireCast Playbook for Engaging YouTube Streamers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/macbook-showdown-determining-whether-the-macbook-pro-or-macbook-air-suits-your-needs-better-insights-from-tech-experts/"><u>MacBook Showdown: Determining Whether the MacBook Pro or MacBook Air Suits Your Needs Better - Insights From Tech Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-lava-blaze-2-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Blaze 2 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/shinano-azur-lane-stunning-visuals-and-designs-high-quality-walls-banners-and-more-yl-computing/"><u>Shinano-Azur Lane Stunning Visuals & Designs: High-Quality Walls, Banners, and More - YL Computing</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/the-art-of-deception-exploring-how-and-where-digital-thieves-conceal-harmful-software/"><u>The Art of Deception: Exploring How & Where Digital Thieves Conceal Harmful Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-unrecognized-hardware-solutions-for-windows-network-adapters-by-yl-software/"><u>Troubleshooting Unrecognized Hardware: Solutions for Windows Network Adapters by YL Software</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-12-pro-max-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 12 Pro Max by restoring it to factory settings</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unveiling-historical-shifts-the-transformative-effects-of-the-war-between-china-and-japan-insights-from-yl-software-experts/"><u>Unveiling Historical Shifts: The Transformative Effects of the War Between China and Japan - Insights From YL Software Experts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/vlc-video-recording-performance-study/"><u>VLC Video Recording Performance Study</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/yl-computing-solutions-innovative-software-expertise-by-yl-technology-group/"><u>YL Computing Solutions: Innovative Software Expertise by YL Technology Group</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] 2024 Approved Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/8-tools-to-record-computer-sound-and-microphone/"><u>8 Tools to Record Computer Sound and Microphone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/demystifying-system-preferences-an-insight-into-default-settings-in-yls-control-panels/"><u>Demystifying System Preferences: An Insight Into Default Settings in YL's Control Panels</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-benefits-of-cryptocurrency-adoption-insights-from-yl-computing/"><u>Exploring the Benefits of Cryptocurrency Adoption: Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fixed-your-screen-woes-master-graphics-card-troubleshooting-with-yl-software-insights/"><u>Fixed Your Screen Woes? Master Graphics Card Troubleshooting with YL Software Insights</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-fix-your-pc-not-detecting-new-devices-expert-tips-from-yl-computing/"><u>How to Fix Your PC Not Detecting New Devices - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/identifying-factors-behind-low-quality-scanner-outputs-insights-from-yl-computings-expertise/"><u>Identifying Factors Behind Low-Quality Scanner Outputs: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-engagement-strategies-natural-vs-paid-visibility/"><u>In 2024, YouTube Engagement Strategies Natural Vs. Paid Visibility</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-market-movements-with-yl-software-strategies-for-buying-and-selling-digital-coins/"><u>Navigating Market Movements with YL Software: Strategies for Buying and Selling Digital Coins</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-tecno-spark-go-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Spark Go (2023) Black and White | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/setting-up-a-multi-monitor-workstation-comprehensive-guide-by-yl-computing/"><u>Setting Up a Multi-Monitor Workstation: Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-sound-card-malfunctions-in-windows-expert-advice-by-yl-software-engineers/"><u>Solving Sound Card Malfunctions in Windows: Expert Advice by YL Software Engineers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-10-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 10 5G Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-8-undercover-video-downloader-apps-of-the-year/"><u>Top 8 Undercover Video Downloader Apps of the Year</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-choosing-the-best-external-hard-drive/"><u>Ultimate Guide to Choosing the Best External Hard Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/victory-over-chaos-how-developers-triumphed-in-rectifying-cod-warzones-pacific-crashing-issue/"><u>Victory Over Chaos: How Developers Triumphed in Rectifying COD: Warzone's Pacific Crashing Issue</u></a></li>
 </ul></div>
 

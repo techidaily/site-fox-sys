@@ -1,7 +1,7 @@
 ---
 title: Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ
-date: 2024-12-09T20:46:57.608Z
-updated: 2024-12-14T18:13:05.189Z
+date: 2024-12-22T23:23:20.498Z
+updated: 2024-12-23T23:52:31.485Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>2024 Approved Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>2024 Approved Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-troubleshoot-and-fix-audio-glitches-on-your-machine-with-yls-expertise/"><u>How to Troubleshoot and Fix Audio Glitches on Your Machine with YL's Expertise</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-football-filming-and-editing-essentials/"><u>In 2024, Free-Football Filming & Editing Essentials</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-zte-axon-40-lite-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 ZTE Axon 40 Lite Android SIM Unlock APK</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y100i-power-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y100i Power 5G FRP Bypass</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-techniques-for-retrieving-deleted-files-insights-from-yl-computing/"><u>Top Techniques for Retrieving Deleted Files: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/trouble-free-peripherals-mastering-the-art-of-diagnosing-and-resolving-hardware-glitches-on-your-pc-with-windows-yl-computing-tutorial/"><u>Trouble-Free Peripherals: Mastering the Art of Diagnosing and Resolving Hardware Glitches on Your PC with Windows - YL Computing Tutorial</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unlocking-the-secrets-of-windows-admin-tools-finding-and-using-the-control-panel-with-yl-tech-support/"><u>Unlocking the Secrets of Windows Admin Tools: Finding and Using the Control Panel with YL Tech Support</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unraveling-the-past-the-key-moments-that-gave-birth-to-the-qin-empire/"><u>Unraveling the Past: The Key Moments That Gave Birth to the Qin Empire</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1728500010990-windows-10/"><u>Windows 10におけるファイル履歴を利用したファイルの回復手順</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-unearthing-the-obscured-videotapes/"><u>[New] YouTube Unearthing the Obscured Videotapes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/diagnosing-and-fixing-your-network-card-glitches-with-yl-softwares-expertise/"><u>Diagnosing & Fixing Your Network Card Glitches with YL Software's Expertise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/grosste-und-beste-anime-serie-seiten-fur-kostenlose-streams-2016/"><u>Größte Und Beste Anime-Serie-Seiten Für Kostenlose Streams (2016)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-optimize-your-pcs-ram-efficiency-expert-tips-from-yl-computing/"><u>How to Optimize Your PC's RAM Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-protect-electronics-from-accidental-breakage-expert-advice-by-yl-tech-experts-at-yl-computing-and-yl-software/"><u>How to Protect Electronics From Accidental Breakage: Expert Advice by YL Tech Experts at YL Computing and YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-restore-deleted-data-from-a-wiped-hard-drive-expert-tips-by-yl-computing/"><u>How to Restore Deleted Data From a Wiped Hard Drive: Expert Tips by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-understanding-and-executing-essential-mukbang-elements/"><u>In 2024, Understanding and Executing Essential Mukbang Elements</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-timelapse-magic-with-your-gopro/"><u>In 2024, Unlocking Timelapse Magic with Your GoPro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/redefine-your-sonic-world-with-sony-ps4ps5-for-2024/"><u>Redefine Your Sonic World with Sony PS4/PS5 for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/sea-fairy-themed-wallpapers-and-backgrounds-from-cookie-run-kingdom-high-quality-graphics-by-yl-computing/"><u>Sea Fairy Themed Wallpapers & Backgrounds From Cookie Run Kingdom - High-Quality Graphics by YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/securing-your-files-with-passwords-expert-tips-from-yl-computings-guide/"><u>Securing Your Files with Passwords - Expert Tips From YL Computing's Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
 

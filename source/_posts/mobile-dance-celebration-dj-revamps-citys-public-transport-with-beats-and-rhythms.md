@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2024-12-10T02:44:10.079Z
-updated: 2024-12-15T02:14:06.339Z
+date: 2024-12-17T21:09:31.744Z
+updated: 2024-12-24T03:41:53.645Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,17 +46,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-strategies-for-uploading-video-quality-4k-on-youtub/"><u>[New] 2024 Approved Essential Strategies for Uploading Video Quality 4K on YouTub</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-become-a-shorts-connoisseur-must-know-facts-for-2024/"><u>[Updated] Become a Shorts Connoisseur Must-Know Facts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-revenue-optimization-leveraging-your-youtube-mobile-audience/"><u>[Updated] Revenue Optimization Leveraging Your YouTube Mobile Audience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-overlay-problem-heres-how-to-resolve-it-effortlessly/"><u>Discord Overlay Problem? Here's How to Resolve It Effortlessly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effortless-remedies-overcoming-10-frequent-issues-with-apple-pay/"><u>Effortless Remedies: Overcoming 10 Frequent Issues with Apple Pay</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-tips-for-securely-erasing-data-from-your-pc-with-yl-softwares-techniques/"><u>Expert Tips for Securely Erasing Data From Your PC with YL Software's Techniques</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-can-i-fix-issues-by-restoring-defaults-on-my-scanner-with-yl-computings-solutions/"><u>How Can I Fix Issues by Restoring Defaults on My Scanner with YL Computing's Solutions?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-beauty-blogging-beginnings-crafting-a-captivating-youtube-channel/"><u>In 2024, Beauty Blogging Beginnings Crafting a Captivating YouTube Channel</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-for-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolving-discrepancies-between-your-pages-print-preview-and-actual-output-expert-tips-by-yl-computing/"><u>Resolving Discrepancies Between Your Page's Print Preview & Actual Output - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-strategies-to-boost-your-computers-performance-insights-from-yl-computing/"><u>Top Strategies to Boost Your Computer's Performance: Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unlocking-windows-protection-features-in-control-panel-settings-expert-advice-from-yl-computing-and-software-solutions/"><u>Unlocking Windows Protection Features in Control Panel Settings: Expert Advice From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-usb-device-unrecognized-error-a-step-by-step-guide/"><u>Fixing the 'USB Device Unrecognized' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/fresh-karaoke-tracks-added-access-unlimited-hits-with-your-partytyme-membership-pcdj/"><u>Fresh Karaoke Tracks Added - Access Unlimited Hits with Your PartyTyme Membership (PCDJ)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Get and Use Pokemon Go Promo Codes On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-hot-40-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Hot 40 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/quieting-chrome-bugs-on-windows-systems/"><u>Quieting Chrome Bugs on Windows Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/restoring-your-pc-steps-to-revert-windows-control-panel-back-to-original-state-tech-tips-by-yl/"><u>Restoring Your PC: Steps to Revert Windows Control Panel Back to Original State - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solutions-to-prevent-screen-flicker-on-your-display-yl-computings-expert-advice/"><u>Solutions to Prevent Screen Flicker on Your Display - YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-pc-wont-start-yl-tech-solutions/"><u>Troubleshooting Guide: How To Resolve Issues When Your PC Won't Start - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-made-easy-starting-windows-os-in-safe-mode-explained-by-yl-software-experts/"><u>Troubleshooting Made Easy: Starting Windows OS in Safe Mode Explained by YL Software Experts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-rhythm-reconnaissance-leading-song-recognition-apps-you-must-have-on-your-android-gadget/"><u>Updated 2024 Approved Rhythm Reconnaissance Leading Song Recognition Apps You Must Have on Your Android Gadget</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
 
