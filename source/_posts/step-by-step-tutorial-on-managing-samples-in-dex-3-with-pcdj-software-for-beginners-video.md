@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2024-12-16T19:58:44.094Z
-updated: 2024-12-24T03:29:48.880Z
+date: 2024-12-27T18:32:20.687Z
+updated: 2024-12-29T18:54:12.242Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-10-must-know-iphone-photography-tips-today-for-2024/"><u>[New] 10 Must-Know iPhone Photography Tips Today for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-25-animated-visionaries-shaping-tiktok-trends/"><u>[Updated] 2024 Approved 25 Animated Visionaries Shaping TikTok Trends</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211254385-9781800653542-crystal-power/"><u>Crystal Power | Free Book</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-for-windows-users-control-panel-walkthrough-with-yl-software-solutions/"><u>Easy Network Configuration for Windows Users: Control Panel Walkthrough with YL Software Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-guide-enhancing-system-efficiency-insights-from-yl-computing/"><u>Expert Guide: Enhancing System Efficiency - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/gleaming-avatar-backdrops-and-screen-savers-from-yl-studios-digital-artistry-for-your-profile-pictures/"><u>Gleaming Avatar Backdrops & Screen Savers From YL Studios: Digital Artistry for Your Profile Pictures</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-can-you-tell-if-your-computers-hardware-is-malfunctioning-insights-from-yl-computing-and-yl-software/"><u>How Can You Tell If Your Computer's Hardware Is Malfunctioning? - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-did-sun-yat-sen-influence-the-xinhai-revolution-insights-from-a-tech-perspective-yl-computing/"><u>How Did Sun Yat-Sen Influence the Xinhai Revolution?: Insights From a Tech Perspective - YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-105-classic-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia 105 Classic to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/installation-queries-potential-pitfalls-of-multi-graphics-card-configurations-with-yl-tech-advice/"><u>Installation Queries: Potential Pitfalls of Multi-Graphics Card Configurations with YL Tech Advice</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210845432-9798822915527-precious-gems/"><u>Precious Gems | Free Book</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-reinstalling-your-device-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Reinstalling Your Device Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/verifying-your-graphics-card-installation-expert-tips-from-yl-computing-and-software-solutions/"><u>Verifying Your Graphics Card Installation: Expert Tips From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/vid-vocated-trust-a-marketers-secret-weapon/"><u>Vid-Vocated Trust A Marketer's Secret Weapon</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-election-excursions-best-gamified-democracy-sites/"><u>[Updated] In 2024, Election Excursions Best Gamified Democracy Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>2024 Approved Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/antivirus-essentials-for-pc-users-do-you-really-need-it-yl-software-guide/"><u>Antivirus Essentials for PC Users: Do You Really Need It? [YL Software Guide]</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/farewell-special-deal-for-lyrxs-milestone-birthday-at-two-years-old/"><u>Farewell Special Deal for LYRX's Milestone Birthday at Two Years Old!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-can-i-fix-issues-by-restoring-defaults-on-my-scanner-with-yl-computings-solutions/"><u>How Can I Fix Issues by Restoring Defaults on My Scanner with YL Computing's Solutions?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-can-you-ensure-optimal-ram-functionality-expert-tips-by-yl-software-professionals/"><u>How Can You Ensure Optimal RAM Functionality? Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>In 2024, Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal/"><u>Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leading-10-photography-fix-tools-ultimate-guide-for-pc-and-mac-enthusiasts/"><u>Leading 10 Photography Fix Tools: Ultimate Guide for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-reach-without-money-youtube-video-advancement-strategies/"><u>Mastering Reach Without Money YouTube Video Advancement Strategies</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/protect-your-files-during-a-windows-update-secure-steps-provided-by-yl-software-experts/"><u>Protect Your Files During a Windows Update: Secure Steps Provided by YL Software Experts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolving-discrepancies-between-your-pages-print-preview-and-actual-output-expert-tips-by-yl-computing/"><u>Resolving Discrepancies Between Your Page's Print Preview & Actual Output - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-strategies-to-boost-your-computers-performance-insights-from-yl-computing/"><u>Top Strategies to Boost Your Computer's Performance: Insights From YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transform-your-zoom-presentations-with-stunning-visuals/"><u>Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-pcs-boot-issues-insights-from-yl-computing/"><u>Troubleshooting Your PC's Boot Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-drone-racings-secrets-and-surpassing-fpv-drones-for-2024/"><u>Unveiling Drone Racing's Secrets & Surpassing FPV Drones for 2024</u></a></li>
 </ul></div>
 

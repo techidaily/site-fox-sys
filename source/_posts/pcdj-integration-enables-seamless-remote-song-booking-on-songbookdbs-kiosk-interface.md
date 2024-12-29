@@ -1,7 +1,7 @@
 ---
 title: PCDJ Integration Enables Seamless Remote Song Booking on SongbookDB's Kiosk Interface
-date: 2024-12-22T06:06:06.680Z
-updated: 2024-12-23T23:35:17.911Z
+date: 2024-12-24T17:38:43.474Z
+updated: 2024-12-29T18:45:48.264Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
@@ -41,7 +41,7 @@ If you have a spare laptop that connects to the internet, you can set it up as a
 **(2:50 mins):**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
@@ -59,7 +59,7 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-insiders-guide-to-youtube-success/"><u>[New] 2024 Approved The Insider's Guide to YouTube Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-crimson-update-kit/"><u>[Updated] 2024 Approved Crimson Update Kit</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amds-fast-track-to-bug-free-tarkov/"><u>AMD's Fast-Track to Bug-Free Tarkov</u></a></li>
-<li><a href="https://article-posts.techidaily.com/complete-breakdown-hero4-black-functionality/"><u>Complete Breakdown Hero4 Black Functionality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-soundscape-journeys-with-seamless-audacity-mixes/"><u>Crafting Soundscape Journeys with Seamless Audacity Mixes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-with-windows-control-panel-expert-advice-by-yl-softwares-tech-team/"><u>Easy Network Configuration with Windows Control Panel: Expert Advice by YL Software's Tech Team</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-fix-a-malfunctioning-graphics-card-expert-tips-and-solutions-yl-tech-support/"><u>How to Fix a Malfunctioning Graphics Card: Expert Tips & Solutions - YL Tech Support</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-photos-create-masterpieces-with-leading-apps/"><u>In 2024, Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/new-2024-approved-voicemod-ai-review-transforming-your-voice-in-real-time/"><u>New 2024 Approved Voicemod AI Review Transforming Your Voice in Real Time</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/shinano-azur-lane-stunning-visuals-and-designs-high-quality-walls-banners-and-more-yl-computing/"><u>Shinano-Azur Lane Stunning Visuals & Designs: High-Quality Walls, Banners, and More - YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unveiling-historical-shifts-the-transformative-effects-of-the-war-between-china-and-japan-insights-from-yl-software-experts/"><u>Unveiling Historical Shifts: The Transformative Effects of the War Between China and Japan - Insights From YL Software Experts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[New] 2024 Approved Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mac-windows-vmx-substitute/"><u>[Updated] 2024 Approved Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/boost-your-windows-11-protection-expert-tips-from-yl-computings-latest-guide/"><u>Boost Your Windows 11 Protection: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-fix-a-non-responsive-scanner-issue-solutions-from-yl-computings-software-experts/"><u>How to Fix a Non-Responsive Scanner Issue: Solutions From YL Computing's Software Experts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-apex-athletes-snowspeedcross-22-recaps/"><u>In 2024, Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-essential-steps-for-cropping-images-on-websites/"><u>In 2024, Essential Steps for Cropping Images on Websites</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-f34-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy F34 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigating-your-way-in-graphic-design-careers/"><u>Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-video-card-problems-on-windows-a-step-by-step-guide-yl-computing/"><u>Solving Video Card Problems on Windows: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-fixes-for-memory-malfunctions-with-yl-software-insights-from-professionals-at-yl-computing/"><u>Step-by-Step Fixes for Memory Malfunctions with YL Software Insights From Professionals at YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-ride-with-ai-tips-for-consulting-chatgpt-on-car-upgrades/"><u>Transform Your Ride with AI: Tips for Consulting ChatGPT on Car Upgrades</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/unlocking-the-secrets-of-your-pcs-program-files-a-detailed-tutorial-for-windows-users/"><u>Unlocking the Secrets of Your PC's 'Program Files': A Detailed Tutorial for Windows Users</u></a></li>
 </ul></div>
 

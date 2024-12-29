@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2024-12-17T21:40:22.657Z
-updated: 2024-12-23T23:23:40.511Z
+date: 2024-12-24T17:48:09.031Z
+updated: 2024-12-29T18:10:47.103Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,24 +126,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/treamline-sound-transfer-top-10-youtube-audio-converters/"><u>[New] Streamline Sound Transfer Top 10 YouTube Audio Converters</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>[Updated] 2024 Approved 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-night-avenger-black-vs-day-defender-silver/"><u>[Updated] 2024 Approved Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-speak-slide-and-convince-the-vo-powerpoint-pathway-for-2024/"><u>[Updated] Speak, Slide & Convince - The VO Powerpoint Pathway for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-gone-locating-the-disappeared-fans/"><u>2024 Approved Insta Gone? Locating the Disappeared Fans</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-music-video-shoot-estimated-financial-outlay/"><u>2024 Approved Music Video Shoot - Estimated Financial Outlay</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/desde-audios-en-caf-a-m4a-sin-gastos-conversion-de-sonido-gratis-y-facil-con-movavi/"><u>Desde Audios en CAF a M4A Sin Gastos: Conversión De Sonido Gratis Y Fácil Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/echoes-of-victory-laptop-finds-lost-headphone-link/"><u>Echoes of Victory: Laptop Finds Lost Headphone Link</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/fresh-karaoke-tracks-added-access-unlimited-hits-with-your-partytyme-membership-pcdj/"><u>Fresh Karaoke Tracks Added - Access Unlimited Hits with Your PartyTyme Membership (PCDJ)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/immerse-yourself-in-the-battle-with-these-epic-hd-call-of-duty-warzone-background-pictures-by-yl-computing-specialists/"><u>Immerse Yourself in the Battle with These Epic HD Call of Duty: Warzone Background Pictures by YL Computing Specialists</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-digital-shredding-with-tips-by-stellar-professionals/"><u>Master the Art of Digital Shredding with Tips by Stellar Professionals</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quelling-irregular-beats-soundcard-irq-solutions/"><u>Quelling Irregular Beats: Soundcard IRQ Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/restoring-your-pc-steps-to-revert-windows-control-panel-back-to-original-state-tech-tips-by-yl/"><u>Restoring Your PC: Steps to Revert Windows Control Panel Back to Original State - Tech Tips by YL</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/safeguarding-your-virtual-coins-essential-strategies-from-yl-computing-and-yl-software/"><u>Safeguarding Your Virtual Coins: Essential Strategies From YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/secure-your-digital-wealth-mastering-the-storage-of-cryptocurrencies-with-hardware-wallets-tips-by-yl-computing/"><u>Secure Your Digital Wealth: Mastering the Storage of Cryptocurrencies with Hardware Wallets - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solutions-to-prevent-screen-flicker-on-your-display-yl-computings-expert-advice/"><u>Solutions to Prevent Screen Flicker on Your Display - YL Computing's Expert Advice</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-using-windows-defender-to-perform-a-full-system-scan-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Using Windows Defender to Perform a Full System Scan on Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-pc-wont-start-yl-tech-solutions/"><u>Troubleshooting Guide: How To Resolve Issues When Your PC Won't Start - YL Tech Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>[New] 2024 Approved Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-top-artisans-in-sound-and-video-craftsminas-online/"><u>[New] 2024 Approved The Top Artisans in Sound and Video Craftsminas Online</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-dissecting-the-functionality-of-burst-in-gopro-filming-for-2024/"><u>[New] Dissecting the Functionality of Burst in GoPro Filming for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-hobby-to-hustle-making-money-with-videos/"><u>2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-zipping-and-compressing-files-on-your-pc-with-windows-tips-from-yl-tech/"><u>Comprehensive Guide to Zipping and Compressing Files on Your PC with Windows - Tips From YL Tech</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/find-out-what-gpu-youre-using-under-windows-11-with-our-simple-tutorial-expert-advice-from-yl-software/"><u>Find Out What GPU You're Using Under Windows 11 with Our Simple Tutorial – Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/flexibele-lizenzing-van-flac-archieven-met-movavi-vrij-voorbeelden-inzamelen/"><u>Flexibele Lizenzing Van FLAC-Archieven Met Movavi - Vrij Voorbeelden Inzamelen!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-xerox-windows-compatible-printer-drivers-available-now/"><u>Latest Xerox Windows-Compatible Printer Drivers Available Now</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/launching-a-free-trial-for-karaoke-cloud-pro-on-the-popular-platform-pcdj-read-more-in-this-official-press-release/"><u>Launching: A FREE TRIAL for Karaoke Cloud Pro on the Popular Platform PCDJ! Read More in This Official Press Release</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shimmering-pfp-character-backgrounds-and-desktop-wraps-create-with-yls-animation-suite/"><u>Shimmering PFP Character Backgrounds & Desktop Wraps – Create with YL's Animation Suite</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-the-mystery-of-blank-scan-outputs-expert-tips-from-yl-computing/"><u>Solving the Mystery of Blank Scan Outputs: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-fix-your-screen-when-it-wont-turn-on-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Your Screen When It Won't Turn On - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/unlocking-high-quality-entertainment-why-choosing-dex-3-makes-your-bar-or-nightclub-unforgettable/"><u>Unlocking High-Quality Entertainment: Why Choosing DEX 3 Makes Your Bar or Nightclub Unforgettable</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/unveiling-the-mechanics-behind-windows-defender-protection-an-insightful-analysis-by-yl-software/"><u>Unveiling the Mechanics Behind Windows Defender Protection: An Insightful Analysis by YL Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ
-date: 2024-12-22T23:23:20.498Z
-updated: 2024-12-23T23:52:31.485Z
+date: 2024-12-25T21:07:40.037Z
+updated: 2024-12-29T17:46:39.530Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-unearthing-the-obscured-videotapes/"><u>[New] YouTube Unearthing the Obscured Videotapes</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/diagnosing-and-fixing-your-network-card-glitches-with-yl-softwares-expertise/"><u>Diagnosing & Fixing Your Network Card Glitches with YL Software's Expertise</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/grosste-und-beste-anime-serie-seiten-fur-kostenlose-streams-2016/"><u>Größte Und Beste Anime-Serie-Seiten Für Kostenlose Streams (2016)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-optimize-your-pcs-ram-efficiency-expert-tips-from-yl-computing/"><u>How to Optimize Your PC's RAM Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-protect-electronics-from-accidental-breakage-expert-advice-by-yl-tech-experts-at-yl-computing-and-yl-software/"><u>How to Protect Electronics From Accidental Breakage: Expert Advice by YL Tech Experts at YL Computing and YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-restore-deleted-data-from-a-wiped-hard-drive-expert-tips-by-yl-computing/"><u>How to Restore Deleted Data From a Wiped Hard Drive: Expert Tips by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-understanding-and-executing-essential-mukbang-elements/"><u>In 2024, Understanding and Executing Essential Mukbang Elements</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-timelapse-magic-with-your-gopro/"><u>In 2024, Unlocking Timelapse Magic with Your GoPro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/redefine-your-sonic-world-with-sony-ps4ps5-for-2024/"><u>Redefine Your Sonic World with Sony PS4/PS5 for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/sea-fairy-themed-wallpapers-and-backgrounds-from-cookie-run-kingdom-high-quality-graphics-by-yl-computing/"><u>Sea Fairy Themed Wallpapers & Backgrounds From Cookie Run Kingdom - High-Quality Graphics by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/securing-your-files-with-passwords-expert-tips-from-yl-computings-guide/"><u>Securing Your Files with Passwords - Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>[New] How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-professional-video-production-with-ben-jacklin-at-movavi/"><u>Discover Professional Video Production with Ben Jacklin at Movavi</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/high-definition-panda-wallpapers-premium-nature-photographs-and-desktop-decor-curated-by-yl-computing/"><u>High-Definition Panda Wallpapers: Premium Nature Photographs & Desktop Decor - Curated by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-your-laptops-monitor-display-issues-white-black-or-flickering-screens/"><u>How to Resolve Your Laptop's Monitor Display Issues - White, Black, or Flickering Screens</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfect-pc-playthrough-captures-6-tips-and-tricks-for-2024/"><u>Perfect PC Playthrough Captures 6 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/regularly-monitor-the-data-and-adjust-your-seo-strategies-accordingly-keeping-in-mind-seasonal-trends-or-events-related-to-shoe-fashion-trends-which-might-a29/"><u>Regularly Monitor the Data and Adjust Your SEO Strategies Accordingly, Keeping in Mind Seasonal Trends or Events Related to Shoe Fashion Trends Which Might Affect Search Behavior.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/save-your-videos-the-10-finest-software-picks-for-repairing-footage-on-windows-and-macos/"><u>Save Your Videos! The 10 Finest Software Picks for Repairing Footage on Windows and macOS</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/secure-your-pc-with-windows-understanding-control-panel-security-options-from-yl-software-experts/"><u>Secure Your PC with Windows: Understanding Control Panel Security Options From YL Software Experts</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-non-responsive-keyboardmouse-issues-on-windows-insights-from-yl-computing/"><u>Troubleshooting Non-Responsive Keyboard/Mouse Issues on Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-silent-laps-understanding-the-reasons-behind-a-quiet-computer-tips-from-yl-computing/"><u>Troubleshooting Silent Laps: Understanding the Reasons Behind a Quiet Computer - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-the-reasons-behind-corrupted-drivers-and-errors-insights-from-yl-computings-solutions/"><u>Understanding the Reasons Behind Corrupted Drivers and Errors - Insights From YL Computing's Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/unveiling-your-systems-installed-programs-expert-tips-by-yl-software-professionals/"><u>Unveiling Your System's Installed Programs: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/yl-software-mastery-learn-to-turn-on-or-off-your-network-adapter-with-ease/"><u>YL Software Mastery: Learn to Turn On or Off Your Network Adapter with Ease</u></a></li>
 </ul></div>
 
