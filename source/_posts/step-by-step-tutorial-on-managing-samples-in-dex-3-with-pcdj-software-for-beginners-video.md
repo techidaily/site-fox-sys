@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2024-12-27T18:32:20.687Z
-updated: 2024-12-29T18:54:12.242Z
+date: 2025-01-06T16:45:38.354Z
+updated: 2025-01-09T02:48:36.596Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-election-excursions-best-gamified-democracy-sites/"><u>[Updated] In 2024, Election Excursions Best Gamified Democracy Sites</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>2024 Approved Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/antivirus-essentials-for-pc-users-do-you-really-need-it-yl-software-guide/"><u>Antivirus Essentials for PC Users: Do You Really Need It? [YL Software Guide]</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/farewell-special-deal-for-lyrxs-milestone-birthday-at-two-years-old/"><u>Farewell Special Deal for LYRX's Milestone Birthday at Two Years Old!</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-can-i-fix-issues-by-restoring-defaults-on-my-scanner-with-yl-computings-solutions/"><u>How Can I Fix Issues by Restoring Defaults on My Scanner with YL Computing's Solutions?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-can-you-ensure-optimal-ram-functionality-expert-tips-by-yl-software-professionals/"><u>How Can You Ensure Optimal RAM Functionality? Expert Tips by YL Software Professionals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>In 2024, Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal/"><u>Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leading-10-photography-fix-tools-ultimate-guide-for-pc-and-mac-enthusiasts/"><u>Leading 10 Photography Fix Tools: Ultimate Guide for PC & Mac Enthusiasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-reach-without-money-youtube-video-advancement-strategies/"><u>Mastering Reach Without Money YouTube Video Advancement Strategies</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/protect-your-files-during-a-windows-update-secure-steps-provided-by-yl-software-experts/"><u>Protect Your Files During a Windows Update: Secure Steps Provided by YL Software Experts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolving-discrepancies-between-your-pages-print-preview-and-actual-output-expert-tips-by-yl-computing/"><u>Resolving Discrepancies Between Your Page's Print Preview & Actual Output - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-strategies-to-boost-your-computers-performance-insights-from-yl-computing/"><u>Top Strategies to Boost Your Computer's Performance: Insights From YL Computing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transform-your-zoom-presentations-with-stunning-visuals/"><u>Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-pcs-boot-issues-insights-from-yl-computing/"><u>Troubleshooting Your PC's Boot Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-drone-racings-secrets-and-surpassing-fpv-drones-for-2024/"><u>Unveiling Drone Racing's Secrets & Surpassing FPV Drones for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beginners-guide-to-pro-youtube-tech-for-2024/"><u>[Updated] Beginner's Guide to Pro YouTube Tech for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-for-windows-users-control-panel-walkthrough-with-yl-software-solutions/"><u>Easy Network Configuration for Windows Users: Control Panel Walkthrough with YL Software Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expert-guide-enhancing-system-efficiency-insights-from-yl-computing/"><u>Expert Guide: Enhancing System Efficiency - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/gleaming-avatar-backdrops-and-screen-savers-from-yl-studios-digital-artistry-for-your-profile-pictures/"><u>Gleaming Avatar Backdrops & Screen Savers From YL Studios: Digital Artistry for Your Profile Pictures</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-x-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone X has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/preventing-and-managing-cpu-overheat-issues-with-expert-advice-from-yl-software/"><u>Preventing and Managing CPU Overheat Issues with Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-reinstalling-your-device-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Reinstalling Your Device Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-process-for-performing-a-full-system-reset-on-lenovo-notebooks/"><u>Step-by-Step Process for Performing a Full System Reset on Lenovo Notebooks</u></a></li>
 </ul></div>
 

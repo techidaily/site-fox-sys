@@ -1,7 +1,7 @@
 ---
 title: Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ
-date: 2024-12-25T21:07:40.037Z
-updated: 2024-12-29T17:46:39.530Z
+date: 2025-01-06T20:50:33.460Z
+updated: 2025-01-08T16:47:49.192Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,19 +48,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>[New] How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-professional-video-production-with-ben-jacklin-at-movavi/"><u>Discover Professional Video Production with Ben Jacklin at Movavi</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/high-definition-panda-wallpapers-premium-nature-photographs-and-desktop-decor-curated-by-yl-computing/"><u>High-Definition Panda Wallpapers: Premium Nature Photographs & Desktop Decor - Curated by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-your-laptops-monitor-display-issues-white-black-or-flickering-screens/"><u>How to Resolve Your Laptop's Monitor Display Issues - White, Black, or Flickering Screens</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-pc-playthrough-captures-6-tips-and-tricks-for-2024/"><u>Perfect PC Playthrough Captures 6 Tips and Tricks for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/regularly-monitor-the-data-and-adjust-your-seo-strategies-accordingly-keeping-in-mind-seasonal-trends-or-events-related-to-shoe-fashion-trends-which-might-a29/"><u>Regularly Monitor the Data and Adjust Your SEO Strategies Accordingly, Keeping in Mind Seasonal Trends or Events Related to Shoe Fashion Trends Which Might Affect Search Behavior.</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/save-your-videos-the-10-finest-software-picks-for-repairing-footage-on-windows-and-macos/"><u>Save Your Videos! The 10 Finest Software Picks for Repairing Footage on Windows and macOS</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/secure-your-pc-with-windows-understanding-control-panel-security-options-from-yl-software-experts/"><u>Secure Your PC with Windows: Understanding Control Panel Security Options From YL Software Experts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-non-responsive-keyboardmouse-issues-on-windows-insights-from-yl-computing/"><u>Troubleshooting Non-Responsive Keyboard/Mouse Issues on Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-silent-laps-understanding-the-reasons-behind-a-quiet-computer-tips-from-yl-computing/"><u>Troubleshooting Silent Laps: Understanding the Reasons Behind a Quiet Computer - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-the-reasons-behind-corrupted-drivers-and-errors-insights-from-yl-computings-solutions/"><u>Understanding the Reasons Behind Corrupted Drivers and Errors - Insights From YL Computing's Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unveiling-your-systems-installed-programs-expert-tips-by-yl-software-professionals/"><u>Unveiling Your System's Installed Programs: Expert Tips by YL Software Professionals</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/yl-software-mastery-learn-to-turn-on-or-off-your-network-adapter-with-ease/"><u>YL Software Mastery: Learn to Turn On or Off Your Network Adapter with Ease</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-rapid-fire-rise-to-fame-with-customizable-tiktok-templates/"><u>[Updated] 2024 Approved Rapid-Fire Rise to Fame with Customizable TikTok Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-adopt-the-best-practices-of-live-streaming-with-google-meet-youtube-for-2024/"><u>[Updated] Adopt the Best Practices of Live Streaming with Google Meet Youtube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfecting-video-segmentation-for-enhanced-viewing-experience-on-youtube/"><u>[Updated] Perfecting Video Segmentation for Enhanced Viewing Experience on YouTube</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/come-restauro-file-eliminati-nel-cestino-con-6-tecniche-efficaci/"><u>Come Restauro File Eliminati Nel Cestino Con 6 Tecniche Efficaci</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/complete-sysprep-tutorial-setting-up-a-new-installation-of-windows-server-201n-on-vmware/"><u>Complete Sysprep Tutorial: Setting Up a New Installation of Windows Server 201N on VMware</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/no-cost-disk-cloning-software-seamless-photo-transfer-and-management/"><u>No-Cost Disk Cloning Software - Seamless Photo Transfer & Management</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/offline-availability-on-apple-music-how-to-save-playlists-for-later-use/"><u>Offline Availability on Apple Music: How to Save Playlists for Later Use?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-note-30i-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Note 30i and Browser | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/setting-up-parent-friendly-restrictions-with-yl-computing-a-comprehensive-guide/"><u>Setting Up Parent-Friendly Restrictions with YL Computing - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
 </ul></div>
 
