@@ -1,7 +1,7 @@
 ---
 title: Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ
-date: 2025-01-06T20:50:33.460Z
-updated: 2025-01-08T16:47:49.192Z
+date: 2025-01-11T17:53:40.392Z
+updated: 2025-01-14T22:33:24.255Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,15 +48,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-rapid-fire-rise-to-fame-with-customizable-tiktok-templates/"><u>[Updated] 2024 Approved Rapid-Fire Rise to Fame with Customizable TikTok Templates</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-adopt-the-best-practices-of-live-streaming-with-google-meet-youtube-for-2024/"><u>[Updated] Adopt the Best Practices of Live Streaming with Google Meet Youtube for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfecting-video-segmentation-for-enhanced-viewing-experience-on-youtube/"><u>[Updated] Perfecting Video Segmentation for Enhanced Viewing Experience on YouTube</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/come-restauro-file-eliminati-nel-cestino-con-6-tecniche-efficaci/"><u>Come Restauro File Eliminati Nel Cestino Con 6 Tecniche Efficaci</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-sysprep-tutorial-setting-up-a-new-installation-of-windows-server-201n-on-vmware/"><u>Complete Sysprep Tutorial: Setting Up a New Installation of Windows Server 201N on VMware</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/no-cost-disk-cloning-software-seamless-photo-transfer-and-management/"><u>No-Cost Disk Cloning Software - Seamless Photo Transfer & Management</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/offline-availability-on-apple-music-how-to-save-playlists-for-later-use/"><u>Offline Availability on Apple Music: How to Save Playlists for Later Use?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-note-30i-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Note 30i and Browser | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/setting-up-parent-friendly-restrictions-with-yl-computing-a-comprehensive-guide/"><u>Setting Up Parent-Friendly Restrictions with YL Computing - A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/earn-the-role-youtube-shorts-music-plays-for-2024/"><u>[New] Learn the Role YouTube Shorts Music Plays for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-tutorial-on-youtube-data-analysis/"><u>[New] The Ultimate Tutorial on YouTube Data Analysis</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-to-follow-tutorial-on-linking-a-mac-computer-to-your-samsung-tv-screen/"><u>Easy-to-Follow Tutorial on Linking a Mac Computer to Your Samsung TV Screen</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enter-the-realm-of-bug-hunting-uncover-rewards-at-openai/"><u>Enter the Realm of Bug Hunting; Uncover Rewards at OpenAI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ghostly-new-visuals-revealed-nasas-latest-capture-of-the-cosmic-pillars/"><u>Ghostly New Visuals Revealed: NASA's Latest Capture of the Cosmic Pillars</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-correct-visible-vertical-or-horizontal-distortions-on-your-screen/"><u>How to Correct Visible Vertical or Horizontal Distortions on Your Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revolutionize-your-images-using-the-innovative-ipatch-solution/"><u>Revolutionize Your Images Using the Innovative IPatch Solution</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-windows-11-overcome-11-errors/"><u>Unlock the Power of Windows 11 - Overcome 11 Errors</u></a></li>
 </ul></div>
 

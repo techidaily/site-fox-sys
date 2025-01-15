@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2024-12-24T17:48:09.031Z
-updated: 2024-12-29T18:10:47.103Z
+date: 2025-01-11T17:26:08.516Z
+updated: 2025-01-14T22:33:01.861Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,22 +126,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-master-video-transitions-and-effects-using-gopro-studio-protips/"><u>[New] 2024 Approved Master Video Transitions and Effects Using GoPro Studio ProTips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-top-artisans-in-sound-and-video-craftsminas-online/"><u>[New] 2024 Approved The Top Artisans in Sound and Video Craftsminas Online</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-dissecting-the-functionality-of-burst-in-gopro-filming-for-2024/"><u>[New] Dissecting the Functionality of Burst in GoPro Filming for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-hobby-to-hustle-making-money-with-videos/"><u>2024 Approved From Hobby to Hustle Making Money with Videos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-zipping-and-compressing-files-on-your-pc-with-windows-tips-from-yl-tech/"><u>Comprehensive Guide to Zipping and Compressing Files on Your PC with Windows - Tips From YL Tech</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/find-out-what-gpu-youre-using-under-windows-11-with-our-simple-tutorial-expert-advice-from-yl-software/"><u>Find Out What GPU You're Using Under Windows 11 with Our Simple Tutorial – Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/flexibele-lizenzing-van-flac-archieven-met-movavi-vrij-voorbeelden-inzamelen/"><u>Flexibele Lizenzing Van FLAC-Archieven Met Movavi - Vrij Voorbeelden Inzamelen!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-xerox-windows-compatible-printer-drivers-available-now/"><u>Latest Xerox Windows-Compatible Printer Drivers Available Now</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/launching-a-free-trial-for-karaoke-cloud-pro-on-the-popular-platform-pcdj-read-more-in-this-official-press-release/"><u>Launching: A FREE TRIAL for Karaoke Cloud Pro on the Popular Platform PCDJ! Read More in This Official Press Release</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/shimmering-pfp-character-backgrounds-and-desktop-wraps-create-with-yls-animation-suite/"><u>Shimmering PFP Character Backgrounds & Desktop Wraps – Create with YL's Animation Suite</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/solving-the-mystery-of-blank-scan-outputs-expert-tips-from-yl-computing/"><u>Solving the Mystery of Blank Scan Outputs: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-fix-your-screen-when-it-wont-turn-on-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How To Fix Your Screen When It Won't Turn On - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unlocking-high-quality-entertainment-why-choosing-dex-3-makes-your-bar-or-nightclub-unforgettable/"><u>Unlocking High-Quality Entertainment: Why Choosing DEX 3 Makes Your Bar or Nightclub Unforgettable</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/unveiling-the-mechanics-behind-windows-defender-protection-an-insightful-analysis-by-yl-software/"><u>Unveiling the Mechanics Behind Windows Defender Protection: An Insightful Analysis by YL Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-vocal-echo-logger-for-iphone-year-2024/"><u>[New] Vocal Echo Logger for iPhone (Year 2024)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722873937204-clear-focus-distracted-mind-learn-to-blur-your-backdrop-in-google-meet-today/"><u>Clear Focus, Distracted Mind? Learn to Blur Your Backdrop in Google Meet Today</u></a></li>
+<li><a href="https://win-web.techidaily.com/get-your-favorite-opera-show-clips-how-to-use-opera-softwares-video-grabber-feature/"><u>Get Your Favorite Opera Show Clips: How to Use Opera Software's Video Grabber Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-saving-trending-youtube-clips-via-efficient-video-downloading-tools/"><u>Mastering the Art of Saving Trending YouTube Clips via Efficient Video Downloading Tools</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/recuperar-datos-borrados-irrevocablemente-en-windows-n-10-seleccionando-los-metodos-mas-efectivos/"><u>Recuperar Datos Borrados Irrevocablemente en Windows N 10: Seleccionando Los Métodos Más Efectivos</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ripristina-i-file-cancellati-dalla-scheda-sd-senza-problemi/"><u>Ripristina I File Cancellati Dalla Scheda SD Senza Problemi</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tiga-teknik-terbaik-untuk-mungkin-kembali-file-yang-hapus-di-adobe-lightroom/"><u>Tiga Teknik Terbaik Untuk Mungkin Kembali File Yang Hapus Di Adobe Lightroom</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-10-reasons-computers-freeze-diagnosis-and-solutions/"><u>Top 10 Reasons Computers Freeze: Diagnosis and Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-potential-channel-building-mastery-for-2024/"><u>Unleashing Potential Channel Building Mastery for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728496574326-windows-1014/"><u>メモリ不足に対処するためのWindows 10上で実践的な14方法</u></a></li>
 </ul></div>
 

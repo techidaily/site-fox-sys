@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2025-01-04T02:02:07.983Z
-updated: 2025-01-09T00:11:47.595Z
+date: 2025-01-13T17:59:53.559Z
+updated: 2025-01-14T20:03:07.351Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,24 +46,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-top-12-flip-screen-cams-for-dynamic-videography/"><u>[New] 2024 Approved Top 12 Flip-Screen Cams for Dynamic Videography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unlocking-the-potential-of-discord-streams/"><u>[New] 2024 Approved Unlocking the Potential of Discord Streams</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-capturing-moments-with-full-screen-movies-on-iphones-for-2024/"><u>[New] Capturing Moments with Full-Screen Movies on iPhones for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mycam-reviewed-does-it-deliver-on-performance-promises/"><u>[Updated] In 2024, MyCam Reviewed Does It Deliver on Performance Promises?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/44cm5l255so5lin5yplusv77ya5lqs5oplusb5ocn44gu44gq44ge44oq44od44kv44ki44od44ox44go5zcm5pyf5qmf6io9ic0g5luw44gu5ysq56ea54sh5paz6kej5rg6562w44ks44gu5oplusq5qgi311/"><u>「使用不可：互換性のないバックアップと同期機能 - 他の優秀無料解決策をご提案します」</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>2024 Approved Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/4-effective-methods-to-upload-your-images-onto-google-drive/"><u>4 Effective Methods to Upload Your Images Onto Google Drive</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/aiomei-backupperwindows/"><u>AIOMEI BackUpper:为Windows系统量身定制的简单而有效的备份与克隆工具</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-step-by-step-tutorial-on-transferring-images-from-onedrive-to-an-sd-card/"><u>Complete Step-by-Step Tutorial on Transferring Images From OneDrive to an SD Card</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complimentary-high-performance-backup-solutions-compatible-with-linux/"><u>Complimentary, High-Performance Backup Solutions Compatible with Linux</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enable-and-disable-on-screen-keyboard-in-windows-10-a-complete-walkthrough/"><u>Enable and Disable On-Screen Keyboard in Windows 10 - A Complete Walkthrough</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-15-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Activation Lock</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/losungen-fur-den-fehler-icloud-backup-lauft-nicht/"><u>Lösungen Für Den Fehler - iCloud-Backup Läuft Nicht</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mac-terminal-tricks-showing-and-managing-hidden-files-on-macos-for-easy-navigation/"><u>Mac Terminal Tricks: Showing and Managing Hidden Files on macOS for Easy Navigation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/projecting-film-costs-for-your-music-video/"><u>Projecting Film Costs for Your Music Video</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-restoring-your-iphone-1413-after-accidental-submersion/"><u>Step-by-Step Guide: Restoring Your iPhone 14/13 After Accidental Submersion</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-erasing-m2-solid-state-drives-on-windows-1011-systems/"><u>Step-by-Step Tutorial: Erasing M.2 Solid State Drives on Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-non-functional-night-light-on-windows-11/"><u>Troubleshooting Guide for Non-Functional Night Light on Windows 11</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windowsbuffalo-nas/"><u>Windows用一流のBuffalo NASバックアップツールでデータ保護を実現</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1716069431184-new-in-2024-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[New] In 2024, Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/diverse-strategies-for-creating-effective-add-ins/"><u>Diverse Strategies for Creating Effective Add-Ins</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-methods-to-transform-mkv-videos-into-wmv-file-type/"><u>Easy Methods to Transform MKV Videos Into WMV File Type</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhance-sound-organization-leading-android-apps-for-effortless-music-handling/"><u>Enhance Sound Organization: Leading Android Apps for Effortless Music Handling</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y100</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-google-pixel-fold-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Google Pixel Fold to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/integrating-executable-files-a-guide-to-crafting-tailored-system-events/"><u>Integrating Executable Files: A Guide to Crafting Tailored System Events</u></a></li>
+<li><a href="https://facebook.techidaily.com/online-governance-temporary-ban-of-trump-appears-rational/"><u>Online Governance: Temporary Ban of Trump Appears Rational</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-system-boost-streamlined-installation-of-new-acer-drivers-in-win10/"><u>Speedy System Boost: Streamlined Installation of New Acer Drivers in Win10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unveiling-fast-fixes-for-lost-reddit-content/"><u>Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
 </ul></div>
 

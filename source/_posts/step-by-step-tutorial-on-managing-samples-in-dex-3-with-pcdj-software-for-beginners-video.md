@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2025-01-06T16:45:38.354Z
-updated: 2025-01-09T02:48:36.596Z
+date: 2025-01-10T23:47:16.778Z
+updated: 2025-01-14T20:02:51.757Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,16 +50,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beginners-guide-to-pro-youtube-tech-for-2024/"><u>[Updated] Beginner's Guide to Pro YouTube Tech for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-network-configuration-for-windows-users-control-panel-walkthrough-with-yl-software-solutions/"><u>Easy Network Configuration for Windows Users: Control Panel Walkthrough with YL Software Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expert-guide-enhancing-system-efficiency-insights-from-yl-computing/"><u>Expert Guide: Enhancing System Efficiency - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/gleaming-avatar-backdrops-and-screen-savers-from-yl-studios-digital-artistry-for-your-profile-pictures/"><u>Gleaming Avatar Backdrops & Screen Savers From YL Studios: Digital Artistry for Your Profile Pictures</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-x-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone X has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-combine-multiple-avi-files-into-one-10-best-free-freeware-for-2024/"><u>New Combine Multiple AVI Files Into One 10 Best Free Freeware for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/preventing-and-managing-cpu-overheat-issues-with-expert-advice-from-yl-software/"><u>Preventing and Managing CPU Overheat Issues with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-reinstalling-your-device-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Reinstalling Your Device Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-process-for-performing-a-full-system-reset-on-lenovo-notebooks/"><u>Step-by-Step Process for Performing a Full System Reset on Lenovo Notebooks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-setting-up-a-digital-stage-for-real-time-viewers/"><u>[Updated] In 2024, Setting Up a Digital Stage for Real-Time Viewers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/best-data-transfer-tools-for-dell-computers-windows-11-10-8-7/"><u>Best Data Transfer Tools for Dell Computers (Windows 11, 10, 8, 7)</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/come-usare-laomei-backupper-iniziare-la-tua-esperienza-di-back-up-con-gioia/"><u>Come Usare L'AOMEI Backupper? Iniziare La Tua Esperienza Di Back-Up Con GIOIA</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-magic-6-lite-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Magic 6 Lite.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-how-to-correct-msodll-not-found-issues/"><u>Comprehensive Guide: How to Correct 'mso.dll' Not Found Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-nintendo-switch-dominates-handheld-consoles/"><u>Comprehensive Review: Why Nintendo Switch Dominates Handheld Consoles</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-de-restauration-de-donnees-sur-un-pc-ou-hd-en-panne/"><u>Guide De Restauration De Données Sur Un PC Ou HD en Panne</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-seamlessly-upgrade-your-tough-disk-to-an-ssd-in-a-windows-n-environment-with-no-hassles-two-proven-methods-explained/"><u>How to Seamlessly Upgrade Your Tough Disk to an SSD in a Windows N Environment with No Hassles – Two Proven Methods Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-set-of-8-backdrops-to-personalize-mbp-design/"><u>In 2024, Ideal Set of 8 Backdrops to Personalize MBP Design</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-seamless-video-to-text-best-ones-online-at-your-fingertips/"><u>In 2024, Seamless Video-to-Text Best Ones Online at Your Fingertips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-applicazioni-di-intelligenza-artificiale-per-scalare-i-video/"><u>Top 6 Applicazioni Di Intelligenza Artificiale per Scalare I Video</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728488854974-windows-11/"><u>Windows 11でセキュアモードを使ってディスクのバックアップ手順</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/bezproblemnyj-perenos-obraza-sistemy-windows-na-drugoj-nakopitel-prostye-shagi/"><u>Безпроблемный Перенос Образа Системы Windows На Другой Нaкопитель - Простые Шаги</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Dexterity: Discover PCDJ's Latest Version 3.4 Release Features"
-date: 2025-01-07T21:21:55.251Z
-updated: 2025-01-09T02:23:44.849Z
+date: 2025-01-10T22:05:01.637Z
+updated: 2025-01-14T19:01:33.046Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,20 +104,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-platforms-for-game-casting/"><u>[Updated] Premier Platforms for Game Casting</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728503021555-usb/"><u>「最善の手段でブート可能なUSBメモリをコピーします:ステップバイステップガイド」</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728467716553-ssd/"><u>初学者にぬける！究極のSSD移行ツール使い方解説</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/clonador-de-ssd-sin-coste-el-software-perfecto-para-transferir-tus-datos-con-facilidad-en-dispositivos-samsung/"><u>Clonador De SSD Sin Coste: El Software Perfecto Para Transferir Tus Datos Con Facilidad en Dispositivos Samsung</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comment-demarrer-votre-ordinateur-hp-avec-une-cle-usb-sous-windows-1011-guide-complet/"><u>Comment Démarrer Votre Ordinateur HP Avec Une Clé USB Sous Windows 10/11 - Guide Complet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/easy-steps-to-modify-your-game-voice-in-free-fire-free-methods-available/"><u>Easy Steps to Modify Your Game Voice in Free Fire (Free Methods Available)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-expert-maitriser-les-solutions-aux-incidents-ou-ctrlplusc-defaillance-sempare-sur-votre-bureau/"><u>Guide Expert: Maîtriser Les Solutions Aux Incidents Où Ctrl+C Défaillance S'Empare Sur Votre Bureau.</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-standard-sata-achi-chipset-drivers/"><u>How to Seamlessly Update Standard SATA ACHI Chipset Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-woes-no-more-ultimate-guide-to-resolve-game-of-the-years-endless-crash/"><u>PC Woes No More: Ultimate Guide to Resolve Game of the Year's Endless Crash</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/sandiskusb/"><u>Sandisk型USBメモリがブート可能なドライブに転換できる方法</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/siri-control-and-stunning-quality-a-complete-analysis-of-the-202n-apple-tv-4k-streaming-set-top-box/"><u>Siri Control and Stunning Quality: A Complete Analysis of the 202N Apple TV 4K Streaming Set-Top Box</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-15-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 15 Pro Max without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/transform-audio-formats-easily-with-windows-essential-techniques-by-yl-software-experts/"><u>Transform Audio Formats Easily with Windows - Essential Techniques by YL Software Experts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-1011-dellpc/"><u>Windows 10/11対応: DellノートPCの安全なバックアップ手順</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-text-in-after-effects-top-10/"><u>[New] 2024 Approved The Ultimate Guide to Text in After Effects (Top 10)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-microphone-for-youtubers/"><u>[New] Best Microphone for YouTubers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-exploring-the-pro-3-the-latest-in-action-cameras-from-ion-for-2024/"><u>[New] Exploring the Pro 3 - The Latest in Action Cameras From ION for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-skies-drone-shooting-basics-for-2024/"><u>[New] Navigating Skies Drone Shooting Basics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-guide-to-top-hexacopter-models/"><u>[Updated] 2024 Approved Essential Guide to Top Hexacopter Models</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-mounts-uninterrupted-mobile-shooting-for-2024/"><u>Cutting-Edge Mounts Uninterrupted Mobile Shooting for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/get-free-virtual-reality-videos-in-360-from-sites-like-youtube-and-facebook/"><u>Get Free Virtual Reality Videos in 360° From Sites Like YouTube and Facebook</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-how-to-convert-far-gone-by-drake-into-multiple-audio-formats-like-mp3-aac-and-wav/"><u>Guide: How to Convert 'Far Gone' By Drake Into Multiple Audio Formats Like MP3, AAC, and WAV</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-download-videos-in-various-formats-from-porntube-mp4-mov-avi-and-more/"><u>How to Download Videos in Various Formats From PornTube: MP4, MOV, AVI, and More</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-export-youtube-content-in-mp4-or-avi-format-for-windows-and-macos-users/"><u>How to Export YouTube Content in MP4 or AVI Format for Windows and macOS Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-save-youtube-videos-for-later-viewing-directly-on-your-playstation-3/"><u>How to Save YouTube Videos for Later Viewing Directly on Your PlayStation 3</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-methods-for-streaming-and-preserving-sports-action/"><u>In 2024, Elite Methods for Streaming and Preserving Sports Action</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/la7tv-downloading-guide-convert-videos-to-avi-ts-and-more/"><u>La7.tv Downloading Guide: Convert Videos to AVI, TS, and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/peekvids-file-saver-effortless-conversion-and-download-of-videos-as-mp4-mov-or-avi/"><u>PeekVids File Saver: Effortless Conversion and Download of Videos as MP4, MOV, or AVI</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-para-transformar-tu-video-de-3gp-a-wma-gratuito-con-herramientas-on-line-una-guia-facil/"><u>Técnicas Para Transformar Tu Vídeo De 3GP a WMA Gratuito Con Herramientas On-Line: Una Guía Fácil</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-mp3-converter-software-ampassyte-fusion-compatible-with-mac-and-pc/"><u>Top MP3 Converter Software: Ampassyte Fusion - Compatible with Mac & PC</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-mp3juices-substitutes-unbeatable-options-for-both-pc-and-mac-users-by-allavsoft/"><u>Top MP3Juices Substitutes: Unbeatable Options for Both PC & Mac Users by Allavsoft</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/walmarts-hottest-offers-for-july-24-unveiled-by-zdnet-shop-smart/"><u>Walmart's Hottest Offers for July '24 Unveiled by ZDNet - Shop Smart!</u></a></li>
 </ul></div>
 
