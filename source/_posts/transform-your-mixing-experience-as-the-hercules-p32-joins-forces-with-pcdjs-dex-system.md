@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2025-01-11T17:26:08.516Z
-updated: 2025-01-14T22:33:01.861Z
+date: 2025-01-19T19:50:48.477Z
+updated: 2025-01-20T19:47:32.034Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,16 +126,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-vocal-echo-logger-for-iphone-year-2024/"><u>[New] Vocal Echo Logger for iPhone (Year 2024)</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873937204-clear-focus-distracted-mind-learn-to-blur-your-backdrop-in-google-meet-today/"><u>Clear Focus, Distracted Mind? Learn to Blur Your Backdrop in Google Meet Today</u></a></li>
-<li><a href="https://win-web.techidaily.com/get-your-favorite-opera-show-clips-how-to-use-opera-softwares-video-grabber-feature/"><u>Get Your Favorite Opera Show Clips: How to Use Opera Software's Video Grabber Feature</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-saving-trending-youtube-clips-via-efficient-video-downloading-tools/"><u>Mastering the Art of Saving Trending YouTube Clips via Efficient Video Downloading Tools</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/recuperar-datos-borrados-irrevocablemente-en-windows-n-10-seleccionando-los-metodos-mas-efectivos/"><u>Recuperar Datos Borrados Irrevocablemente en Windows N 10: Seleccionando Los Métodos Más Efectivos</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ripristina-i-file-cancellati-dalla-scheda-sd-senza-problemi/"><u>Ripristina I File Cancellati Dalla Scheda SD Senza Problemi</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/tiga-teknik-terbaik-untuk-mungkin-kembali-file-yang-hapus-di-adobe-lightroom/"><u>Tiga Teknik Terbaik Untuk Mungkin Kembali File Yang Hapus Di Adobe Lightroom</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-10-reasons-computers-freeze-diagnosis-and-solutions/"><u>Top 10 Reasons Computers Freeze: Diagnosis and Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unleashing-potential-channel-building-mastery-for-2024/"><u>Unleashing Potential Channel Building Mastery for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728496574326-windows-1014/"><u>メモリ不足に対処するためのWindows 10上で実践的な14方法</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo-for-2024/"><u>[Updated] Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] In 2024, The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728498773703-hdd/"><u>「効率的なHDD共有手法：ネットワーク内での実践例」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-movavi-video-suite-purchase-guide-secure-discounted-deals-for-safe-downloads/"><u>1. Movavi Video Suite Purchase Guide - Secure Discounted Deals for Safe Downloads</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/bilden-sie-einen-ssd-aus-einem-hdd-mit-kostenlosem-tool-tutorial-fur-windows-10-11-und-altere-versionen/"><u>Bilden Sie Einen SSD Aus Einem HDD Mit Kostenlosem Tool - Tutorial Für Windows 10, 11 Und Ältere Versionen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-slack-and-discord-which-is-the-ultimate-team-communication-tool/"><u>Comparing Slack and Discord – Which Is the Ultimate Team Communication Tool?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/drei-effektive-strategien-zur-schutz-ihrer-daten-wie-sichert-man-eine-fehlerhafte-festplatte/"><u>Drei Effektive Strategien Zur Schutz Ihrer Daten: Wie Sichert Man Eine Fehlerhafte Festplatte?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-tips-on-keeping-your-samsung-mobile-device-connected-with-updated-usb-drivers/"><u>Easy Tips on Keeping Your Samsung Mobile Device Connected with Updated USB Drivers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effiziente-migration-wenn-sie-ihre-windows-server-20122008-sicherungen-schnell-ubertragen/"><u>Effiziente Migration: Wenn Sie Ihre Windows Server 2012/2008 Sicherungen Schnell Übertragen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve Voice Chat Problems in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-reno-9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Reno 9A to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wie-behandeln-sie-eine-migration-wenn-ihr-externes-laufwerk-nicht-migrierbar-ist/"><u>Wie Behandeln Sie Eine Migration, Wenn Ihr Externes Laufwerk Nicht Migrierbar Ist?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-server-2019-rdp-stuck-heres-how-to-resolve-and-prevent-unresponsive-sessions/"><u>Windows Server 2019 RDP Stuck? Here's How to Resolve and Prevent Unresponsive Sessions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2025-01-13T17:59:53.559Z
-updated: 2025-01-14T20:03:07.351Z
+date: 2025-01-17T17:14:01.373Z
+updated: 2025-01-20T22:05:48.157Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,17 +46,14 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/1716069431184-new-in-2024-step-by-step-instructions-on-initiating-a-cross-platform-skype-conversation-with-ease/"><u>[New] In 2024, Step-by-Step Instructions on Initiating a Cross-Platform Skype Conversation with Ease.</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/diverse-strategies-for-creating-effective-add-ins/"><u>Diverse Strategies for Creating Effective Add-Ins</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-methods-to-transform-mkv-videos-into-wmv-file-type/"><u>Easy Methods to Transform MKV Videos Into WMV File Type</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhance-sound-organization-leading-android-apps-for-effortless-music-handling/"><u>Enhance Sound Organization: Leading Android Apps for Effortless Music Handling</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y100</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-google-pixel-fold-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Google Pixel Fold to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/integrating-executable-files-a-guide-to-crafting-tailored-system-events/"><u>Integrating Executable Files: A Guide to Crafting Tailored System Events</u></a></li>
-<li><a href="https://facebook.techidaily.com/online-governance-temporary-ban-of-trump-appears-rational/"><u>Online Governance: Temporary Ban of Trump Appears Rational</u></a></li>
-<li><a href="https://driver-install.techidaily.com/speedy-system-boost-streamlined-installation-of-new-acer-drivers-in-win10/"><u>Speedy System Boost: Streamlined Installation of New Acer Drivers in Win10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-fast-fixes-for-lost-reddit-content/"><u>Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-social-media-savvy-capturing-spherical-photos-with-iphone/"><u>2024 Approved Social Media Savvy Capturing Spherical Photos with iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder/"><u>8 Best Online Free Voice Recorder</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
+<li><a href="https://win-hot.techidaily.com/simple-methods-for-removing-facebook-from-your-ios-device/"><u>Simple Methods for Removing Facebook From Your iOS Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-resolve-elgato-hd60-drivers-simple-steps/"><u>Troubleshoot and Resolve Elgato HD60 Drivers: Simple Steps</u></a></li>
 </ul></div>
 

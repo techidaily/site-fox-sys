@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide for Backing Up Your Network/NAS Device in Windows 10 and 11 Systems
-date: 2024-12-27T17:24:57.121Z
-updated: 2024-12-29T19:35:06.059Z
+date: 2025-01-19T19:41:16.324Z
+updated: 2025-01-20T21:14:33.609Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
@@ -25,7 +25,7 @@ Want to create an image, restore image, or clone hard drive via Norton Ghost? Th
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
@@ -33,7 +33,7 @@ By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Table of Contents** 
@@ -58,6 +58,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
@@ -67,6 +71,10 @@ In a word, if you want to make an image back for your computer or want to clone 
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image Your Computer with Norton Ghost
 
@@ -82,10 +90,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 * Or you can click **Custom...** to create a backup according to your needs.
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4\. Finally, click **OK** to confirm.
 
@@ -109,6 +113,10 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
 
 ### Clone Disk with Norton Ghost
@@ -118,10 +126,6 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 2\. On the **Tools** page, click **Copy My Hard Drive** and follow the steps in the wizard to copy the drive.
 
 👉 **Note:** The drivers that are used to run the hardware on one computer will likely not match the drivers on a second computer. So you’d better not use the Copy Drive feature to set up a hard drive that will be used in another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Free Alternative to Norton Ghost
 
@@ -144,6 +148,10 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -163,7 +171,7 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -184,23 +192,11 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:** 
 
@@ -214,6 +210,10 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -242,7 +242,7 @@ Was the provided information useful? Your vote is important to us!
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
@@ -278,7 +278,7 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -298,20 +298,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-real-time-webcam-and-screen-melding-tips/"><u>[New] Real-Time Webcam & Screen Melding Tips</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-sustainable-income-via-youtube-and-adsense/"><u>[Updated] 2024 Approved Building a Sustainable Income via YouTube and AdSense</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[Updated] Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1-detaillierte-anleitung-zum-sichern-von-whatsapp-nachrichten-mit-icloud/"><u>1. Detaillierte Anleitung Zum Sichern Von WhatsApp-Nachrichten Mit iCloud</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/complete-guide-safeguarding-your-data-with-file-and-folder-backup-on-windows-10-tips-by-yl-computing/"><u>Complete Guide: Safeguarding Your Data with File & Folder Backup on Windows 10 - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-strategies-for-shifting-cryptocurrencies-with-expert-advice-by-yl-software/"><u>Easy Strategies for Shifting Cryptocurrencies with Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/find-your-perfect-gpu-match-selecting-compatible-graphics-cards-for-windows-systems-with-expert-advice-from-yl-software/"><u>Find Your Perfect GPU Match: Selecting Compatible Graphics Cards for Windows Systems with Expert Advice From YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/graphics-card-troubleshooting-guide-by-yl-software-steps-for-when-it-wont-work/"><u>Graphics Card Troubleshooting Guide by YL Software: Steps for When It Won't Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fallout-4-from-stopping-responsively-while-running-on-your-computer/"><u>How to Stop Fallout 4 From Stopping Responsively While Running on Your Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/identifying-frequent-reasons-behind-loud-fan-sounds-in-your-notebook-insights-from-yl-computing/"><u>Identifying Frequent Reasons Behind Loud Fan Sounds in Your Notebook - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-podcast-intros-a-guide-with-illustrations/"><u>Perfecting Podcast Intros A Guide with Illustrations</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/skillful-tactics-for-procuring-image-archives-for-2024/"><u>Skillful Tactics for Procuring Image Archives for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/step-by-step-instructional-guide-on-navigating-the-apowersoft-photo-viewer-interface/"><u>Step-by-Step Instructional Guide on Navigating the Apowersoft Photo Viewer Interface</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/transform-your-mixing-experience-as-the-hercules-p32-joins-forces-with-pcdjs-dex-system/"><u>Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-amazing-deals-for-presidents-day-score-big-at-amazon-walmart-best-buy-and-more/"><u>Unlock Amazing Deals for Presidents' Day: Score Big at Amazon, Walmart, Best Buy & More !</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficiently-edit-your-youtube-videos-using-sony-vegas/"><u>[Updated] 2024 Approved Efficiently Edit Your YouTube Videos Using Sony Vegas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-innovating-presentations-using-adobe-captivate/"><u>[Updated] 2024 Approved Innovating Presentations Using Adobe Captivate</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transforming-traditional-markets-with-virtual-engineering/"><u>[Updated] In 2024, Transforming Traditional Markets with Virtual Engineering</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-binary-divide-metaverse-vs-multiverse-explained/"><u>[Updated] The Binary Divide Metaverse Vs Multiverse Explained</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/yl-yl-software/"><u>深究YL计算:揭示千金原始广告月收益每一个角落的内幕 - YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortlessly-move-data-within-your-lan-using-our-step-by-step-tutorial-from-yl-tech-solutions/"><u>Effortlessly Move Data Within Your LAN Using Our Step-by-Step Tutorial From YL Tech Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-graphics-speed-windows-10-hp-version/"><u>Enhance Graphics Speed - Windows 10, HP Version</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-computer-efficiency-which-functions-can-you-disable-advice-by-yl-software/"><u>Enhancing Computer Efficiency: Which Functions Can You Disable? Advice by YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/high-quality-bmw-m135i-hd-desktop-wallpapers-and-backgrounds-download-free-stunning-visuals-by-yl-computing/"><u>High-Quality BMW M135i HD Desktop Wallpapers and Backgrounds: Download Free, Stunning Visuals by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-safeguard-windows-7-hdd/"><u>How To Safeguard Windows 지원 7 데이터: 외부 HDD 백업</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/is-there-a-way-to-perform-an-offline-antivirus-scan-with-windows-defender-learn-more-at-yl-computing/"><u>Is There a Way to Perform an Offline Antivirus Scan with Windows Defender? Learn More at YL Computing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/limited-time-deal-buy-karaoke-before-june-plus-receive-free-audio-fixer-tool/"><u>Limited Time Deal! Buy Karaoke Before June + Receive Free Audio Fixer Tool!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-tips-accelerate-your-keyboards-reaction-speed-easily/"><u>Master Tips: Accelerate Your Keyboard’s Reaction Speed Easily</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/self-repair-solutions-for-common-hardware-glitches-on-your-windows-machine-insights-and-advice-by-yl-software-professionals/"><u>Self-Repair Solutions for Common Hardware Glitches on Your Windows Machine – Insights & Advice by YL Software Professionals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-fixing-nonfunctional-alarms-on-your-ios-device/"><u>Solution Steps: Fixing Nonfunctional Alarms on Your iOS Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-impact-of-low-memory-on-system-stability-expert-analysis-by-yl-software/"><u>The Impact of Low Memory on System Stability: Expert Analysis by YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-and-preventing-pc-overheat-problems-with-expert-tips-by-yl-software/"><u>Understanding & Preventing PC Overheat Problems with Expert Tips by YL Software</u></a></li>
 </ul></div>
 

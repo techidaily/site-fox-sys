@@ -1,7 +1,7 @@
 ---
 title: Elevate Your DJ Skills with Dynamic Overlays in DEX 3.7 - Video Guide for Pro Mixes by PCDJ
-date: 2025-01-11T17:53:40.392Z
-updated: 2025-01-14T22:33:24.255Z
+date: 2025-01-16T00:52:28.243Z
+updated: 2025-01-21T02:46:24.635Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ The new text, image and video overlay feature included in DEX 3.7 (and up) provi
 _If you’re a **Video Mixing DJ** and have questions about the new **text, image and video overlays** feature found in DEX 3.7 please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,22 +48,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/08/textimageoverlays-template
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/earn-the-role-youtube-shorts-music-plays-for-2024/"><u>[New] Learn the Role YouTube Shorts Music Plays for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-tutorial-on-youtube-data-analysis/"><u>[New] The Ultimate Tutorial on YouTube Data Analysis</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1727401258237-1-easy-guide-adding-images-in-jpg-format-to-your-pdf-documents-updated/"><u>1. Easy Guide: Adding Images in JPG Format to Your PDF Documents (Updated )</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/easy-to-follow-tutorial-on-linking-a-mac-computer-to-your-samsung-tv-screen/"><u>Easy-to-Follow Tutorial on Linking a Mac Computer to Your Samsung TV Screen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/efficient-pre-installed-user-interface-designs-enhancing-user-experience/"><u>Efficient Pre-Installed User Interface Designs: Enhancing User Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enter-the-realm-of-bug-hunting-uncover-rewards-at-openai/"><u>Enter the Realm of Bug Hunting; Uncover Rewards at OpenAI</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ghostly-new-visuals-revealed-nasas-latest-capture-of-the-cosmic-pillars/"><u>Ghostly New Visuals Revealed: NASA's Latest Capture of the Cosmic Pillars</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correct-visible-vertical-or-horizontal-distortions-on-your-screen/"><u>How to Correct Visible Vertical or Horizontal Distortions on Your Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi 12 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-appending-and-creating-records-essential-techniques-for-efficient-database-operations/"><u>Mastering Appending and Creating Records: Essential Techniques for Efficient Database Operations</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/revolutionize-your-images-using-the-innovative-ipatch-solution/"><u>Revolutionize Your Images Using the Innovative IPatch Solution</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/shared-attributes-of-media-volume-collections/"><u>Shared Attributes of Media Volume Collections</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-transferring-tiktok-footage-to-2021-reels-without-using-watermarks/"><u>Step-by-Step Guide to Transferring TikTok Footage to 2021 Reels Without Using Watermarks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-pathway-for-pixelated-pasties-from-game-drawer-to-windows-photos/"><u>The Pathway for Pixelated Pasties: From Game Drawer to Windows Photos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-syncing-youtube-songs-with-itunes-on-both-windows-and-macos-systems/"><u>Ultimate Guide to Syncing YouTube Songs with iTunes on Both Windows and macOS Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-power-of-windows-11-overcome-11-errors/"><u>Unlock the Power of Windows 11 - Overcome 11 Errors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elitepixel-recorder-winos-series/"><u>[New] In 2024, ElitePixel Recorder WinOS Series</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[New] In 2024, Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-light-and-shade-mastery-in-photographic-edits/"><u>[New] Light & Shade Mastery in Photographic Edits</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/common-issues-with-non-responsive-mice-explained-by-yl-computings-software-solutions-team/"><u>Common Issues with Non-Responsive Mice Explained by YL Computing's Software Solutions Team</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enhanced-smart-and-efficient-data-management/"><u>Cookiebot-Enhanced: Smart & Efficient Data Management</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/download-and-use-the-best-free-video-transcoding-software-for-your-mac-device/"><u>Download and Use the Best Free Video Transcoding Software for Your Mac Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-steps-for-changing-avi-files-into-swf-format/"><u>Easy Steps for Changing AVI Files Into SWF Format</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-tutorial-how-to-save-or-record-a-microsoft-lync-webinar-for-both-windows-and-macos-users/"><u>Easy Tutorial: How to Save or Record a Microsoft Lync Webinar for Both Windows & macOS Users</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/expert-guide-navigating-the-advanced-features-of-your-installation-wizard/"><u>Expert Guide: Navigating the Advanced Features of Your Installation Wizard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-tips-from-toms-hardware/"><u>Navigating Advanced Tech Tips From Tom's Hardware</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionize-your-earning-game-with-top-13-strategies-for-novices-on-reddit-for-2024/"><u>Revolutionize Your Earning Game with Top 13 Strategies for Novices on Reddit for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/seamless-contact-migration-switching-from-your-vintage-iphone-to-the-latest-model/"><u>Seamless Contact Migration: Switching From Your Vintage iPhone to the Latest Model</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-mastering-the-apowermirror-application-on-your-android/"><u>Step-by-Step Guide: Mastering the ApowerMirror Application on Your Android</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/ultimate-top-picks-simplest-and-most-effective-tools-for-live-streaming-on-youtube/"><u>Ultimate Top Picks: Simplest & Most Effective Tools for Live-Streaming on YouTube</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/yl-software-explained-how-to-effortlessly-update-and-install-graphics-card-drivers/"><u>YL Software Explained: How to Effortlessly Update and Install Graphics Card Drivers</u></a></li>
 </ul></div>
 
