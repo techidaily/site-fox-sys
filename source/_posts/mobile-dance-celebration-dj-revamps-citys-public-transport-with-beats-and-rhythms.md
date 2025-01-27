@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2025-01-17T17:14:01.373Z
-updated: 2025-01-20T22:05:48.157Z
+date: 2025-01-24T21:14:52.050Z
+updated: 2025-01-26T17:02:54.413Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,14 +46,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-sys.techidaily.com/1-seamless-screen-casting-sync-your-mac-with-roku/"><u>1. Seamless Screen Casting: Sync Your Mac with Roku</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-social-media-savvy-capturing-spherical-photos-with-iphone/"><u>2024 Approved Social Media Savvy Capturing Spherical Photos with iPhone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/8-best-online-free-voice-recorder/"><u>8 Best Online Free Voice Recorder</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/introducing-the-fully-featured-apowersoft-gif-creation-software/"><u>Introducing the Fully-Featured Apowersoft GIF Creation Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/leading-no-cost-image-upload-and-share-sites/"><u>Leading No-Cost Image Upload & Share Sites</u></a></li>
-<li><a href="https://win-hot.techidaily.com/simple-methods-for-removing-facebook-from-your-ios-device/"><u>Simple Methods for Removing Facebook From Your iOS Device</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-tools-for-hd-gaming-video-recording-a-four-step-guide/"><u>Top Tools for HD Gaming Video Recording - A Four-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-resolve-elgato-hd60-drivers-simple-steps/"><u>Troubleshoot and Resolve Elgato HD60 Drivers: Simple Steps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-leveraging-twitters-video-capabilities-for-instagram-audience/"><u>[New] 2024 Approved Leveraging Twitter's Video Capabilities for Instagram Audience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-visionary-vr-game-engines-transforming-2023s-gaming-landscape-for-2024/"><u>[New] Visionary VR Game Engines Transforming 2023'S Gaming Landscape for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-boundaries-explained/"><u>2024 Approved Instagram Video Boundaries Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-for-perfect-audio-transition-in-adobe-audition/"><u>2024 Approved Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/9-proven-solutions-overcoming-issues-with-your-iphones-whatsapp-backup/"><u>9 Proven Solutions: Overcoming Issues with Your iPhone's WhatsApp Backup</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/gopro3/"><u>GoProファイルの削除後も安全に、無料で映像・画像回収方法3つ</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-address-windows-answer-3-troubleshooting-non-detectable-cddvd-devices-in-windows-10-environments/"><u>How to Address 'Windows [Answer]: 3. Troubleshooting Non-Detectable CD/DVD Devices in Windows 10 Environments</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revive-your-memories-retrieve-deleted-images-on-iphone-13-with-these-easy-methods/"><u>Revive Your Memories: Retrieve Deleted Images on iPhone 13 with These Easy Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-failed-microsoft-store-app-installs/"><u>Troubleshooting Failed Microsoft Store App Installs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-a-critical-review-of-the-midland-lxt500vp3s-high-capabilities-and-poor-execution/"><u>Unveiling the Truth: A Critical Review of the Midland LXT500VP3's High Capabilities and Poor Execution</u></a></li>
 </ul></div>
 

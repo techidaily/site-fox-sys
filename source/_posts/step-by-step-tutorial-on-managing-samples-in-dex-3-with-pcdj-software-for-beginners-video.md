@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2025-01-13T16:00:41.933Z
-updated: 2025-01-21T01:15:32.216Z
+date: 2025-01-23T02:59:16.538Z
+updated: 2025-01-26T21:57:41.224Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,22 +50,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-for-perfect-screen-capture-with-mobizen-for-2024/"><u>[New] Easy Steps for Perfect Screen Capture with Mobizen for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-audio-quality-in-social-media-recordings/"><u>[Updated] 2024 Approved Boosting Audio Quality in Social Media Recordings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-beyond-marketing-hype-the-genuine-facts-of-reels/"><u>[Updated] In 2024, Beyond Marketing Hype The Genuine Facts of Reels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-childs-delight-greatest-drone-selections/"><u>[Updated] In 2024, Child's Delight Greatest Drone Selections</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-handbook-for-telegram-web-newbies/"><u>[Updated] The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-iphone-saving-and-utilizing-gifs-effectively/"><u>2024 Approved Mastering iPhone Saving & Utilizing GIFs Effectively</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/detecting-and-troubleshooting-network-adapter-problems-via-device-manager-expert-guide-by-yl-computing/"><u>Detecting and Troubleshooting Network Adapter Problems via Device Manager - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/earn-adequate-payment-for-your-djing-expertise-with-pioneer-cdjs/"><u>Earn Adequate Payment for Your DJing Expertise with Pioneer CDJs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/essential-strategies-for-any-mobile-dj-crafting-an-unforgettable-event-experience-using-pcdj-software-video/"><u>Essential Strategies for Any Mobile DJ: Crafting an Unforgettable Event Experience Using PCDJ Software (Video)</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/expand-memory-capacity-efficiently-with-yl-softwares-guide-on-upgrading-ram/"><u>Expand Memory Capacity Efficiently with YL Software’s Guide on Upgrading RAM</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c02-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C02 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-realme-c53-frp-bypass-by-drfone-android/"><u>In 2024, About Realme C53 FRP Bypass</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40i Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-birth-of-a-nation-unveiling-who-announced-prcs-formation-in-1949-expert-analysis-by-yl-software/"><u>The Birth of a Nation: Unveiling Who Announced PRC's Formation in 1949 – Expert Analysis by YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/top-recommended-crypto-exchanges-for-optimal-trading-experience-insights-by-yl-computing/"><u>Top Recommended Crypto Exchanges for Optimal Trading Experience – Insights by YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-graphics-hardware-drivers-failure-fixes-with-yls-innovative-software-guide/"><u>Troubleshooting Graphics Hardware Drivers Failure Fixes with YL's Innovative Software Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/uncover-the-reasons-behind-your-missing-cddvd-drives-on-windows-insights-from-yl-computing/"><u>Uncover the Reasons Behind Your Missing CD/DVD Drives on Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-collection-of-10-inspirational-movies/"><u>[Updated] 2024 Approved The Ultimate Collection of 10 Inspirational Movies</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-comedic-content-coder/"><u>[Updated] In 2024, Comedic Content Coder</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortlessly-move-data-within-your-lan-using-our-step-by-step-tutorial-from-yl-tech-solutions/"><u>Effortlessly Move Data Within Your LAN Using Our Step-by-Step Tutorial From YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-computer-efficiency-which-functions-can-you-disable-advice-by-yl-software/"><u>Enhancing Computer Efficiency: Which Functions Can You Disable? Advice by YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1752771-9781618520791-heads-up-dreaming/"><u>Heads-Up Dreaming | Free Book</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/high-quality-bmw-m135i-hd-desktop-wallpapers-and-backgrounds-download-free-stunning-visuals-by-yl-computing/"><u>High-Quality BMW M135i HD Desktop Wallpapers and Backgrounds: Download Free, Stunning Visuals by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-distorted-sound-in-windows-11-and-7-expert-solutions/"><u>How to Eliminate Distorted Sound in Windows 11 and 7 - Expert Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/is-there-a-way-to-perform-an-offline-antivirus-scan-with-windows-defender-learn-more-at-yl-computing/"><u>Is There a Way to Perform an Offline Antivirus Scan with Windows Defender? Learn More at YL Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/key-commodities-for-your-company-8-indispensable-tools-that-cant-be-ignored-for-2024/"><u>Key Commodities for Your Company 8 Indispensable Tools That Can’t Be Ignored for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/limited-time-deal-buy-karaoke-before-june-plus-receive-free-audio-fixer-tool/"><u>Limited Time Deal! Buy Karaoke Before June + Receive Free Audio Fixer Tool!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/long-term-bisphosphonate-use-can-lead-to-complications-such-as-osteonecrosis-of-the-jaw-onj-due-to-impaired-angiogenesis-in-bone-tissue/"><u>Long-Term Bisphosphonate Use Can Lead to Complications Such as Osteonecrosis of the Jaw (ONJ) Due to Impaired Angiogenesis in Bone Tissue.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paving-the-way-for-public-dialogue-with-chatgpt/"><u>Paving the Way for Public Dialogue with ChatGPT</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-impact-of-low-memory-on-system-stability-expert-analysis-by-yl-software/"><u>The Impact of Low Memory on System Stability: Expert Analysis by YL Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/understanding-and-preventing-pc-overheat-problems-with-expert-tips-by-yl-software/"><u>Understanding & Preventing PC Overheat Problems with Expert Tips by YL Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-best-game-install-location-on-windows-xbox/"><u>Unlocking the Best Game Install Location on Windows Xbox</u></a></li>
 </ul></div>
 

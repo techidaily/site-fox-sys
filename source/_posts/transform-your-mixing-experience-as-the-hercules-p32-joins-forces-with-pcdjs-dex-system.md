@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2025-01-19T19:50:48.477Z
-updated: 2025-01-20T19:47:32.034Z
+date: 2025-01-19T23:31:42.580Z
+updated: 2025-01-27T03:14:59.655Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,20 +126,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-video-editing-learn-the-ultimate-online-ways-to-shorten-and-slice-on-vimeo-for-2024/"><u>[Updated] Efficient Video Editing Learn the Ultimate Online Ways to Shorten & Slice on Vimeo for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] In 2024, The Illustrator Wizard's Guide to 3D Text</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728498773703-hdd/"><u>「効率的なHDD共有手法：ネットワーク内での実践例」</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-movavi-video-suite-purchase-guide-secure-discounted-deals-for-safe-downloads/"><u>1. Movavi Video Suite Purchase Guide - Secure Discounted Deals for Safe Downloads</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/bilden-sie-einen-ssd-aus-einem-hdd-mit-kostenlosem-tool-tutorial-fur-windows-10-11-und-altere-versionen/"><u>Bilden Sie Einen SSD Aus Einem HDD Mit Kostenlosem Tool - Tutorial Für Windows 10, 11 Und Ältere Versionen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-slack-and-discord-which-is-the-ultimate-team-communication-tool/"><u>Comparing Slack and Discord – Which Is the Ultimate Team Communication Tool?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/drei-effektive-strategien-zur-schutz-ihrer-daten-wie-sichert-man-eine-fehlerhafte-festplatte/"><u>Drei Effektive Strategien Zur Schutz Ihrer Daten: Wie Sichert Man Eine Fehlerhafte Festplatte?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tips-on-keeping-your-samsung-mobile-device-connected-with-updated-usb-drivers/"><u>Easy Tips on Keeping Your Samsung Mobile Device Connected with Updated USB Drivers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effiziente-migration-wenn-sie-ihre-windows-server-20122008-sicherungen-schnell-ubertragen/"><u>Effiziente Migration: Wenn Sie Ihre Windows Server 2012/2008 Sicherungen Schnell Übertragen</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-voice-chat-problems-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve Voice Chat Problems in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-reno-9a-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Reno 9A to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/wie-behandeln-sie-eine-migration-wenn-ihr-externes-laufwerk-nicht-migrierbar-ist/"><u>Wie Behandeln Sie Eine Migration, Wenn Ihr Externes Laufwerk Nicht Migrierbar Ist?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-server-2019-rdp-stuck-heres-how-to-resolve-and-prevent-unresponsive-sessions/"><u>Windows Server 2019 RDP Stuck? Here's How to Resolve and Prevent Unresponsive Sessions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>[New] 2024 Approved Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-focus-on-details-masterful-close-up-techniques-for-gaming-for-2024/"><u>[New] Focus on Details Masterful Close-Up Techniques for Gaming for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728469212260-google-3/"><u>「選択的Googleドライブ同期: 目安3方法をご紹介します」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-music-and-motion-imovie-edition/"><u>2024 Approved Music & Motion IMovie Edition</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728496598415-hdd/"><u>完了！HDDで見られるディスク容量と実際に確保されている容量の違いを理解する</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-dota-2s-recent-anti-cheat-penalt-error-code-vac/"><u>Bypassing Dota 2'S Recent Anti-Cheat Penalt# Error Code: [VAC]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-the-action-5-ways-to-record-windows-10-games-for-2024/"><u>Capture the Action 5 Ways to Record Windows 10 Games for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comment-restaurer-vos-fichiers-a-partir-dune-sauvegarde-sur-windows-11-une-methode-simple-et-efficace/"><u>Comment Restaurer Vos Fichiers À Partir D'une Sauvegarde Sur Windows 11: Une Méthode Simple Et Efficace</u></a></li>
+<li><a href="https://driver-error.techidaily.com/steps-to-boot-windows-8-into-safe-mode-and-remove-graphics-drivers/"><u>Steps to Boot Windows 8 Into Safe Mode & Remove Graphics Drivers</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/verwaltung-von-festplattenspeicher-bei-vollstandigen-datentragern-in-windows-7-tipps-und-tricks/"><u>Verwaltung Von Festplattenspeicher Bei Vollständigen Datenträgern in Windows 7 - Tipps Und Tricks</u></a></li>
 </ul></div>
 

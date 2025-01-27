@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Dexterity: Discover PCDJ's Latest Version 3.4 Release Features"
-date: 2025-01-19T20:37:17.248Z
-updated: 2025-01-20T19:06:47.194Z
+date: 2025-01-22T20:26:35.730Z
+updated: 2025-01-26T18:57:55.825Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
@@ -82,7 +82,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -104,20 +104,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-engaging-with-srt-soundfiles-on-pc-and-mac/"><u>[New] 2024 Approved Engaging with SRT Soundfiles on PC & Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unmatched-quality-and-reliability-our-5-best-recorder-selections/"><u>[New] Unmatched Quality and Reliability - Our 5 Best Recorder Selections</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-efficient-tactics-for-viewing-subscribers-on-yt-for-2024/"><u>[Updated] Efficient Tactics for Viewing Subscribers on YT for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-getting-started-easy-video-intros-available/"><u>[Updated] Getting Started Easy Video Intros Available</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effective-methods-to-eliminate-ransomware-from-your-windows-computer-a-step-by-step-guide/"><u>Effective Methods to Eliminate Ransomware From Your Windows Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-chatty-with-these-17-streetwise-spanish-terms/"><u>Get Chatty with These 17 Streetwise Spanish Terms</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microsoft-store-on-your-pc/"><u>How to Fix a Non-Responsive Microsoft Store on Your PC</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-incorporate-an-exe-file-into-your-personalized-events-setup/"><u>How to Incorporate an Exe File Into Your Personalized Events Setup</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-s18-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo S18 Pro</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-background-replacement-in-images-using-advanced-photo-editors/"><u>Mastering Background Replacement in Images Using Advanced Photo Editors</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/prevent-access-breaches-without-a-key-mastering-anti-hijack-measures-with-malwarefox-insights/"><u>Prevent Access Breaches Without a Key: Mastering Anti-Hijack Measures with MalwareFox Insights</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/speedy-solutions-top-tips-for-accelerating-your-android-smartphone/"><u>Speedy Solutions: Top Tips for Accelerating Your Android Smartphone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-transferring-data-from-huawei-nova-9-to-your-personal-computer/"><u>Step-by-Step Guide: Transferring Data From Huawei Nova 9 to Your Personal Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/ultimate-guide-to-choosing-apps-that-blend-audio-with-visuals-the-leading-selections/"><u>Ultimate Guide to Choosing Apps That Blend Audio with Visuals: The Leading Selections</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-with-a-click-lenovo-g580-drivers/"><u>Update with a Click: Lenovo G580 Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-efficient-voice-tracking-techniques-on-ipad-for-2024/"><u>[New] Efficient Voice Tracking Techniques on iPad for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-clearing-the-path-for-your-facebook-visuals-to-shine/"><u>[Updated] In 2024, Clearing the Path for Your Facebook Visuals to Shine</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>[Updated] Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-art-of-pushing-twitter-vids-through-snapchat/"><u>[Updated] The Art of Pushing Twitter Vids Through Snapchat</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-different-writing-styles-a-comprehensive-guide/"><u>1. 'Different Writing Styles: A Comprehensive Guide'</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-top-camstudio-substitutes-enhancing-your-recording-experience/"><u>1. Top CamStudio Substitutes: Enhancing Your Recording Experience</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amaze-italics-learn-more-than-20-slang-terms/"><u>Amaze Italics: Learn More Than 20 Slang Terms</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/comprehensive-guide-to-successful-sql-server-reporting-services-setup/"><u>Comprehensive Guide to Successful SQL Server Reporting Services Setup</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effortless-navigation-top-tips-for-optimizing-your-primary-web-interface/"><u>Effortless Navigation: Top Tips for Optimizing Your Primary Web Interface</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/enhancing-iattained-dll-function-calls-with-custom-actions/"><u>Enhancing IATTAINED DLL Function Calls with Custom Actions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a24-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-looking-for-vsdc-on-mac-try-these-alternative-editors/"><u>New 2024 Approved Looking for VSDC on Mac? Try These Alternative Editors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-renderer-glitch-in-overwatch-2-on-windows-systems/"><u>Restoring Renderer Glitch in Overwatch 2 on Windows Systems</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-on-customizing-event-map-interfaces-for-seamless-workshops/"><u>Step-by-Step Tutorial on Customizing Event Map Interfaces for Seamless Workshops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-full-screen-grayscale-on-windows-11-solution/"><u>Troubleshooting Full-Screen Grayscale on Windows 11 (Solution)</u></a></li>
 </ul></div>
 
