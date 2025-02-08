@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2025-01-23T02:59:16.538Z
-updated: 2025-01-26T21:57:41.224Z
+date: 2025-02-02T19:01:55.922Z
+updated: 2025-02-08T22:51:44.625Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,21 +50,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-collection-of-10-inspirational-movies/"><u>[Updated] 2024 Approved The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-comedic-content-coder/"><u>[Updated] In 2024, Comedic Content Coder</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/effortlessly-move-data-within-your-lan-using-our-step-by-step-tutorial-from-yl-tech-solutions/"><u>Effortlessly Move Data Within Your LAN Using Our Step-by-Step Tutorial From YL Tech Solutions</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/enhancing-computer-efficiency-which-functions-can-you-disable-advice-by-yl-software/"><u>Enhancing Computer Efficiency: Which Functions Can You Disable? Advice by YL Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1752771-9781618520791-heads-up-dreaming/"><u>Heads-Up Dreaming | Free Book</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/high-quality-bmw-m135i-hd-desktop-wallpapers-and-backgrounds-download-free-stunning-visuals-by-yl-computing/"><u>High-Quality BMW M135i HD Desktop Wallpapers and Backgrounds: Download Free, Stunning Visuals by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-distorted-sound-in-windows-11-and-7-expert-solutions/"><u>How to Eliminate Distorted Sound in Windows 11 and 7 - Expert Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/is-there-a-way-to-perform-an-offline-antivirus-scan-with-windows-defender-learn-more-at-yl-computing/"><u>Is There a Way to Perform an Offline Antivirus Scan with Windows Defender? Learn More at YL Computing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/key-commodities-for-your-company-8-indispensable-tools-that-cant-be-ignored-for-2024/"><u>Key Commodities for Your Company 8 Indispensable Tools That Can’t Be Ignored for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/limited-time-deal-buy-karaoke-before-june-plus-receive-free-audio-fixer-tool/"><u>Limited Time Deal! Buy Karaoke Before June + Receive Free Audio Fixer Tool!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/long-term-bisphosphonate-use-can-lead-to-complications-such-as-osteonecrosis-of-the-jaw-onj-due-to-impaired-angiogenesis-in-bone-tissue/"><u>Long-Term Bisphosphonate Use Can Lead to Complications Such as Osteonecrosis of the Jaw (ONJ) Due to Impaired Angiogenesis in Bone Tissue.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-the-way-for-public-dialogue-with-chatgpt/"><u>Paving the Way for Public Dialogue with ChatGPT</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/the-impact-of-low-memory-on-system-stability-expert-analysis-by-yl-software/"><u>The Impact of Low Memory on System Stability: Expert Analysis by YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-and-preventing-pc-overheat-problems-with-expert-tips-by-yl-software/"><u>Understanding & Preventing PC Overheat Problems with Expert Tips by YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-best-game-install-location-on-windows-xbox/"><u>Unlocking the Best Game Install Location on Windows Xbox</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>[Updated] 2024 Approved From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-top-20-zero-copyright-pubg-screenshots/"><u>[Updated] Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/adding-bing-dwen-dwen-a-step-by-step-guide-for-enhancing-your-olympics-2022-images/"><u>Adding Bing Dwen Dwen: A Step-by-Step Guide for Enhancing Your Olympics 2022 Images</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/exploring-abbyys-innovative-showcase-content-iq-platform-unveiled-at-londons-premier-ai-summit/"><u>Exploring ABBYY's Innovative Showcase Content IQ Platform Unveiled at London's Premier AI Summit</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966463540-get-your-zebra-gk420d-driver-now-fast-and-simple-download/"><u>Get Your ZEBRA GK420D Driver Now - Fast & Simple Download!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-stand-out-with-custom-youtube-imagery/"><u>In 2024, Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/mirroring-your-xiaomi-11-display-on-tv-a-step-by-step-guide/"><u>Mirroring Your Xiaomi 11 Display on TV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/navigating-through-sql-servers-tips-and-strategies-for-efficient-browsing/"><u>Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/online-free-tool-easy-conversion-of-webm-videos-into-high-quality-mp4-formats/"><u>Online Free Tool: Easy Conversion of WebM Videos Into High-Quality MP4 Formats</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/practical-strategies-for-converting-pdfs-into-epub-format/"><u>Practical Strategies for Converting PDFs Into EPUB Format</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/simple-steps-to-change-documents-from-microsoft-word-into-a-pdf-file/"><u>Simple Steps to Change Documents From Microsoft Word Into a PDF File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-25-freemium-image-editors-of-2024-programs-and-applications/"><u>Top 25 Freemium Image Editors of 2024: Programs & Applications</u></a></li>
 </ul></div>
 

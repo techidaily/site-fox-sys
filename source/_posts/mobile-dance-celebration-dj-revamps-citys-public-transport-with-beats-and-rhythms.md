@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2025-01-24T21:14:52.050Z
-updated: 2025-01-26T17:02:54.413Z
+date: 2025-02-05T16:49:35.332Z
+updated: 2025-02-08T21:35:43.795Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ As you watch the video of the event below try to keep in perspective why you bec
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,15 +46,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-leveraging-twitters-video-capabilities-for-instagram-audience/"><u>[New] 2024 Approved Leveraging Twitter's Video Capabilities for Instagram Audience</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-visionary-vr-game-engines-transforming-2023s-gaming-landscape-for-2024/"><u>[New] Visionary VR Game Engines Transforming 2023'S Gaming Landscape for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-boundaries-explained/"><u>2024 Approved Instagram Video Boundaries Explained</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-for-perfect-audio-transition-in-adobe-audition/"><u>2024 Approved Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/9-proven-solutions-overcoming-issues-with-your-iphones-whatsapp-backup/"><u>9 Proven Solutions: Overcoming Issues with Your iPhone's WhatsApp Backup</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/gopro3/"><u>GoProファイルの削除後も安全に、無料で映像・画像回収方法3つ</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-address-windows-answer-3-troubleshooting-non-detectable-cddvd-devices-in-windows-10-environments/"><u>How to Address 'Windows [Answer]: 3. Troubleshooting Non-Detectable CD/DVD Devices in Windows 10 Environments</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/revive-your-memories-retrieve-deleted-images-on-iphone-13-with-these-easy-methods/"><u>Revive Your Memories: Retrieve Deleted Images on iPhone 13 with These Easy Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-failed-microsoft-store-app-installs/"><u>Troubleshooting Failed Microsoft Store App Installs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-truth-a-critical-review-of-the-midland-lxt500vp3s-high-capabilities-and-poor-execution/"><u>Unveiling the Truth: A Critical Review of the Midland LXT500VP3's High Capabilities and Poor Execution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-camera-roll-to-youtube-the-ultimate-uploading-guide-for-2024/"><u>[New] From Camera Roll to YouTube The Ultimate Uploading Guide for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728508602431-windows-111087/"><u>恢复 Windows 11/10/8/7 系统中的资料夹和文件：一步一步指南</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-series-continues-with-airpods-4-discover-the-updates-and-enhancements-in-apples-recent-release-zdnet/"><u>AirPods Series Continues with AirPods 4: Discover the Updates and Enhancements in Apple's Recent Release | ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/1728499105906-aomei-backupper/"><u>AOMEI Backupperで選択した圧縮レベルをどう設定するか</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-windows-pop-up-non-adobe-issue/"><u>Avoiding Windows Pop-Up: Non-Adobe Issue</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/centralized-data-protection-with-aomei-cyberbackup-no-cost-full-features-for-servers-and-pcs/"><u>Centralized Data Protection with AOMEI CyberBackup: No Cost, Full Features for Servers and PCs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/die-top-2-methoden-zum-einrichten-von-windows-11-auf-einer-neuen-ssd-schritt-fur-schritt-anleitung/"><u>Die Top-2 Methoden Zum Einrichten Von Windows 11 Auf Einer Neuen SSD: Schritt-Für-Schritt Anleitung</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/diving-deeper-into-webcam-possibilities/"><u>Diving Deeper Into Webcam Possibilities</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/free-solutions-for-creating-a-complete-disk-image-on-windows-11-two-methods-explained/"><u>Free Solutions for Creating a Complete Disk Image on Windows 11: Two Methods Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-new-york-social-game-proven-8-techniques/"><u>Mastering the New York Social Game: Proven 8 Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/resolved-fixing-issues-with-nonfunctional-windows-10-start-menu-and-taskbar/"><u>Resolved: Fixing Issues with Nonfunctional Windows 10 Start Menu & Taskbar</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solving-microsoft-word-crashes-on-office-365-platforms/"><u>Solving Microsoft Word Crashes on Office 365 Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-se-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone SE Making It Possible</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/unlocking-pc-management-a-comprehensive-guide-to-finding-the-windows-control-panel-yl-software-insights/"><u>Unlocking PC Management: A Comprehensive Guide to Finding the Windows Control Panel - YL Software Insights</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728509170873-windows-10/"><u>Windows 10中恢复删除的设备驱动程序：三种方法</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728496793569-windows-11/"><u>Windows 11 恢复环境迅速设置：五个直接指南</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-creative-commons-license-explained-simply-for-2024/"><u>YouTube's Creative Commons License Explained Simply for 2024</u></a></li>
 </ul></div>
 
