@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Managing Samples in DEX 3 with PCDJ Software for Beginners (VIDEO)
-date: 2025-02-02T19:01:55.922Z
-updated: 2025-02-08T22:51:44.625Z
+date: 2025-02-12T01:48:55.246Z
+updated: 2025-02-18T17:04:47.716Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ If you need sample clips to use with [DEX 3](https://tools.techidaily.com/pcdj/p
 _Have questions about our **top DJ mixing software** and how to use the **sample decks**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -50,18 +50,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/01/loadingandtriggeringsample
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-zero-to-meme-hero-crafting-engaging-gifs/"><u>[Updated] 2024 Approved From Zero to Meme Hero Crafting Engaging GIFs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-cutting-edge-top-20-zero-copyright-pubg-screenshots/"><u>[Updated] Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/adding-bing-dwen-dwen-a-step-by-step-guide-for-enhancing-your-olympics-2022-images/"><u>Adding Bing Dwen Dwen: A Step-by-Step Guide for Enhancing Your Olympics 2022 Images</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/exploring-abbyys-innovative-showcase-content-iq-platform-unveiled-at-londons-premier-ai-summit/"><u>Exploring ABBYY's Innovative Showcase Content IQ Platform Unveiled at London's Premier AI Summit</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722966463540-get-your-zebra-gk420d-driver-now-fast-and-simple-download/"><u>Get Your ZEBRA GK420D Driver Now - Fast & Simple Download!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-stand-out-with-custom-youtube-imagery/"><u>In 2024, Stand Out with Custom YouTube Imagery</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mirroring-your-xiaomi-11-display-on-tv-a-step-by-step-guide/"><u>Mirroring Your Xiaomi 11 Display on TV: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/navigating-through-sql-servers-tips-and-strategies-for-efficient-browsing/"><u>Navigating Through SQL Servers: Tips and Strategies for Efficient Browsing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/online-free-tool-easy-conversion-of-webm-videos-into-high-quality-mp4-formats/"><u>Online Free Tool: Easy Conversion of WebM Videos Into High-Quality MP4 Formats</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/practical-strategies-for-converting-pdfs-into-epub-format/"><u>Practical Strategies for Converting PDFs Into EPUB Format</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/simple-steps-to-change-documents-from-microsoft-word-into-a-pdf-file/"><u>Simple Steps to Change Documents From Microsoft Word Into a PDF File</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-25-freemium-image-editors-of-2024-programs-and-applications/"><u>Top 25 Freemium Image Editors of 2024: Programs & Applications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comparing-the-best-updated-review-of-gopro-and-yi-action-cams/"><u>[Updated] Comparing the Best Updated Review of GoPro and Yi Action Cams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-steps-to-rotate-video-in-vlc/"><u>[Updated] In 2024, Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-leading-ai-assisted-search-engines-to-revolutionize-your-web-queries/"><u>Discover Leading AI Assisted Search Engines to Revolutionize Your Web Queries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-sound-overlap-exploring-crossfade/"><u>In 2024, Flawless Sound Overlap Exploring Crossfade</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/restoring-your-pc-steps-to-revert-windows-control-panel-back-to-original-state-tech-tips-by-yl/"><u>Restoring Your PC: Steps to Revert Windows Control Panel Back to Original State - Tech Tips by YL</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/solutions-to-prevent-screen-flicker-on-your-display-yl-computings-expert-advice/"><u>Solutions to Prevent Screen Flicker on Your Display - YL Computing's Expert Advice</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-pc-wont-start-yl-tech-solutions/"><u>Troubleshooting Guide: How To Resolve Issues When Your PC Won't Start - YL Tech Solutions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/troubleshooting-your-computers-hardware-a-guide-for-windows-users-by-yl-software/"><u>Troubleshooting Your Computer's Hardware: A Guide for Windows Users by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726227332940-movavi/"><u>パブリケーション用背景を透明にする手法：Movaviの導入</u></a></li>
 </ul></div>
 
