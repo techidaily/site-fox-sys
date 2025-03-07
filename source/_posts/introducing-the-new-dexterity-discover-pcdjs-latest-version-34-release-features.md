@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Dexterity: Discover PCDJ's Latest Version 3.4 Release Features"
-date: 2025-02-14T23:49:47.355Z
-updated: 2025-02-18T22:03:57.286Z
+date: 2025-03-05T17:43:17.022Z
+updated: 2025-03-07T02:52:21.914Z
 tags:
   - product
 categories:
@@ -18,19 +18,11 @@ thumbnail: https://thmb.techidaily.com/ae96135be8b387f3dfcd58e7778aa73a8a480a5ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## DJ Software Creators Digital 1 Audio Launch DEX 3.4, a Major Update for Their Leading Mac and Windows Live Performance Mixing Software for Mixing Music, Videos, Karaoke
 
 #### Clearwater, Florida, 8/5/2015 Digital 1 Audio, Inc ([http://www.pcdj.com](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==)), a long-time innovator of Digital DJ mixing software for professional disc jockeys, launched DEX 3.4 today. The new free upgrade for existing PCDJ DEX 3 users includes a slew of new features and performance enhancements.
 
 [LEARN MORE ABOUT BROADCASTING WITH DEX 3 ![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=300%2C169&ssl=1 "broadcastmix-coverimage")](https://tools.techidaily.com/pcdj/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 “With each update [DEX 3](https://tools.techidaily.com/pcdj/products/) is fine-tuned to meet the vast requirements of today’s versatile Digital DJ” says Digital 1 Audio’s General Manager Ryan Sherr. “The 3.4 update introduces a few highly-requested features, most notably the ability to real-time connect (_or disconnect_) up to 8 DJ controllers, Windows 10 support as well as internet radio broadcasting.” Sherr Continues “Users of DEX 3 can now broadcast their mix show online using the built-in [Icecast](http://icecast.org/) support. Internet Radio is big, and offers a platform for new DJ software users to hone their DJ skills in front of a virtual audience.”
 
@@ -81,10 +73,6 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 
 Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-08-06 10:53:042018-10-03 15:34:35DEX 3.4 Press Release}
@@ -104,17 +92,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/08/pressrelease34-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-4k-camcorders-our-best-picks/"><u>[New] 2024 Approved Foremost 4K Camcorders Our Best Picks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-live-streaming-services-ranked-your-in-depth-comparison/"><u>[New] Best Live Streaming Services Ranked Your In-Depth Comparison</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-6-figure-videos-top-hashtag-trends/"><u>[New] In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mirthful-melodies-curated-list-of-funny-phone-sounds/"><u>[New] Mirthful Melodies Curated List of Funny Phone Sounds</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-immediate-insta-friendship-status-check/"><u>[Updated] Immediate Insta Friendship Status Check</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/free-methods-to-conduct-disk-imaging-on-windows-10-two-effective-approaches/"><u>Free Methods to Conduct Disk Imaging on Windows 10: Two Effective Approaches</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-clone-a-folder-on-google-drive-a-simple-guide/"><u>How To Clone a Folder on Google Drive: A Simple Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oppo-reno-10-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Oppo Reno 10 5G Lock Screen Password</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/petite-plot-puzzle-piece/"><u>Petite Plot Puzzle Piece</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-retrieving-files-from-raw-flash-memory-devices/"><u>Step-by-Step Guide: Retrieving Files From RAW Flash Memory Devices</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-masterclass-resolving-the-problem-of-deleting-a-partition-with-fdisk/"><u>Step-by-Step Masterclass: Resolving the Problem of Deleting a Partition with Fdisk</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/strategie-efficienti-per-la-regolazione-della-memoria-sul-tuo-disco-di-backup-tramite-lo-schema-integrato-aomei/"><u>Strategie Efficienti per La Regolazione Della Memoria Sul Tuo Disco Di Backup Tramite Lo Schema Integrato AOMEI</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-craftsman-of-the-multimedia-medley/"><u>[New] In 2024, Craftsman of the Multimedia Medley</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scriptwriting-the-creative-process/"><u>[New] Scriptwriting The Creative Process</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-easy-tweaks-changing-fishy-vocal-patterns-on-windows/"><u>[Updated] In 2024, Easy Tweaks Changing Fishy Vocal Patterns on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728467980191-usb/"><u>削除されたUSBメモリパーティション復元ガイド</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/create-embed-interactive-flipbooks-designing-online-flipbooks-and-the-main-topic-of-your-original-title-flipbuilder/"><u>Create, Embed Interactive Flipbooks, Designing Online Flipbooks, and the Main Topic of Your Original Title, FlipBuilder.</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/dialing-up-the-drama-captivating-tiktok-intros-via-mac-for-2024/"><u>Dialing Up the Drama Captivating TikTok Intros via Mac for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/direct-to-printer-access-for-flipbook-content-tips-and-tricks-using-flipbuilder-technology/"><u>Direct-to-Printer Access for Flipbook Content: Tips and Tricks Using FlipBuilder Technology</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/diy-digital-libraries-costless-djvu-to-pdf-converter-using-flipbuilder-preserve-your-ebooks-in-adobes-preferred-format/"><u>DIY Digital Libraries: Costless DJVU to PDF Converter Using FlipBuilder - Preserve Your eBooks in Adobe's Preferred Format!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-have-a-desire-to-uplift-your-editing-creativity-with-trying-hands-at-working-with-storyboards-keep-reading-to-have-a-comprehensive-understating-/"><u>New In 2024, Have a Desire to Uplift Your Editing Creativity with Trying Hands at Working with Storyboards? Keep Reading to Have a Comprehensive Understating of the Workflow Through Stepwise User Guides</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sion-techniques-for-efficient-keying-processes/"><u>Precision Techniques for Efficient Keying Processes</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/professional-vue-material-dashboard-pro-advanced-premium-vuejs-admin-layout-by-creative-tim/"><u>Professional Vue Material Dashboard Pro: Advanced Premium VueJS Admin Layout by Creative Tim</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-4-premium-free-flask-designs-from-creative-tim-a-must-see-showcase/"><u>Top 4 Premium-Free Flask Designs From Creative Tim: A Must-See Showcase</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-audio-treasures-for-video-crafting/"><u>Ultimate Audio Treasures for Video Crafting</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/zero-cost-complete-stack-development-using-vue-3-and-laravel-restful-services-by-creative-tim/"><u>Zero-Cost Complete Stack Development Using Vue 3 & Laravel RESTful Services by Creative Tim</u></a></li>
 </ul></div>
 

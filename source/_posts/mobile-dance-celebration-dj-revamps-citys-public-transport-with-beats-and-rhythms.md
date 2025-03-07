@@ -1,7 +1,7 @@
 ---
 title: "Mobile Dance Celebration: DJ Revamps City's Public Transport with Beats & Rhythms"
-date: 2025-02-12T00:04:19.255Z
-updated: 2025-02-19T00:19:28.582Z
+date: 2025-03-04T05:31:08.276Z
+updated: 2025-03-07T03:19:08.238Z
 tags:
   - product
 categories:
@@ -23,10 +23,6 @@ As you watch the video of the event below try to keep in perspective why you bec
 
 #### AMK Productions Turns NYC Subway Car Into A Mobile Dance Party
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimage.jpg?fit=550%2C317&ssl=1 317 550 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-04-07 12:36:372015-04-07 12:38:57DJ Turns NYC Subway Car Into A Mobile Dance Party}
@@ -46,22 +42,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/04/mobiledanceparty-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-undead-uncovered-ranking-the-best-zombie-game-clusters/"><u>[New] 2024 Approved Undead Uncovered Ranking the Best Zombie Game Clusters</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-real-time-revelations-does-software-trump-hardware/"><u>[New] In 2024, Real-Time Revelations Does Software Trump Hardware?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-title-tag-and-description-mastery-for-youtube-success/"><u>[New] In 2024, Title, Tag & Description Mastery for YouTube Success</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-constructing-an-inspirational-tiktok-end-screen/"><u>[Updated] Constructing An Inspirational TikTok End Screen</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/7windows-11/"><u>速やかにクリーンアップ:コマンドプロンプトが消える7手口（Windows 11）</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/apercu-des-options-de-repli-sur-2-plateformes-nas-synology-guide-comparatif/"><u>Aperçu Des Options De Repli Sur 2 Plateformes NAS Synology – Guide Comparatif</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/come-scaricare-e-installare-windows-11-una-guida-facile/"><u>Come Scaricare E Installare Windows 11: Una Guida Facile</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comprehensive-tutorial-on-retrieving-and-installing-surface-driver-software-updates/"><u>Comprehensive Tutorial on Retrieving and Installing Surface Driver Software Updates</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-definitif-pour-la-restauration-de-donnees-raid-methodes-rapides-et-fiables/"><u>Guide Définitif Pour La Restauration De Données RAID: Méthodes Rapides Et Fiables</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-find-the-storage-location-of-your-ios-devices-backup-on-a-computer/"><u>How To Find The Storage Location Of Your iOS Device's Backup On A Computer</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-fix-drive-unreachable-issue-by-adjusting-incorrect-configuration-parameters/"><u>How to Fix 'Drive Unreachable' Issue by Adjusting Incorrect Configuration Parameters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-blue-bands-promise-tips-for-longevity/"><u>In 2024, The Blue Bands Promise Tips for Longevity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202571801-irreversible-delete-techniques-choose-the-best-algorithm-for-you/"><u>Irreversible Delete Techniques - Choose the Best Algorithm for You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp2-in-mpg-konvertieren-gunstig-und-simpel-im-internet/"><u>MP2 in MPG Konvertieren - Günstig Und Simpel Im Internet</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/revive-your-digital-assets-solutions-for-reactivating-disabled-files-and-programs/"><u>Revive Your Digital Assets: Solutions for Reactivating Disabled Files & Programs</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/ultimate-learning-series-on-using-action-for-effortless-screen-recording/"><u>Ultimate Learning Series on Using Action for Effortless Screen Recording</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-scene-stealer-snapshot-study-for-2024/"><u>[New] Scene-Stealer Snapshot Study for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-editors-edge-insider-strategies-to-supercharge-your-photos/"><u>[New] The Editor's Edge Insider Strategies to Supercharge Your Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-firefox-picture-in-picture-a-comprehensive-guide-for-2024/"><u>[Updated] Decoding Firefox Picture-in-Picture A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>[Updated] The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-ipad-video-tutorials-for-easy-time-lapses/"><u>2024 Approved IPad Video Tutorials for Easy Time-Lapses</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-shield-against-random-youtube-video-plays/"><u>2024 Approved Shield Against Random YouTube Video Plays</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-slimsky-saver-big-files-low-costs/"><u>2024 Approved SlimSky Saver - Big Files, Low Costs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/easy-methods-to-save-video-content-from-shutterstock-for-your-desktop-systems/"><u>Easy Methods to Save Video Content From Shutterstock for Your Desktop Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-typing-issues-why-and-how-to-fix-key-malfunctions/"><u>Fixing Typing Issues: Why and How to Fix @ Key Malfunctions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-downloading-training-content-from-lynda-and-linkedin-learning/"><u>Step-by-Step Guide to Downloading Training Content From Lynda & LinkedIn Learning</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solutions-for-jvm-dll-not-found-mistakes/"><u>Step-by-Step Solutions for JVM DLL Not Found Mistakes</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/wickedfun-video-converter-effortless-transfers-from-wickedfun-in-mp4-mov-and-avi-formats/"><u>Wickedfun Video Converter: Effortless Transfers From Wickedfun in MP4, MOV & AVI Formats</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/your-ultimate-resource-accessing-and-saving-exercise-routines-from-fitnessrxwomen-online-videos/"><u>Your Ultimate Resource: Accessing and Saving Exercise Routines From FitnessRxWomen Online Videos</u></a></li>
 </ul></div>
 

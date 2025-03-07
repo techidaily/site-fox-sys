@@ -1,7 +1,7 @@
 ---
 title: PCDJ Integration Enables Seamless Remote Song Booking on SongbookDB's Kiosk Interface
-date: 2025-02-16T19:48:01.497Z
-updated: 2025-02-18T18:08:45.457Z
+date: 2025-03-01T14:13:07.833Z
+updated: 2025-03-07T05:09:58.771Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ The SongbookDB rich capabilities don’t stop there, as you can buzz singers pho
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What If Singers Don’t Have Internet Enabled Phones For Song Requests?
 
 Singers can use the Android/ iOS apps (_free to download/use_) or just visit [SongbookDB.com](https://www.songbookdb.com/) to browse your song book, select key and song version and submit their request. It’s seamless and super easy. In the event a singer doesn’t have an internet enabled phone, or would rather not mess with downloading an app etc — you can use the “Kiosk Mode” option.
@@ -39,10 +35,6 @@ Singers can use the Android/ iOS apps (_free to download/use_) or just visit [So
 If you have a spare laptop that connects to the internet, you can set it up as a kiosk at gigs for singers that don’t have phones.
 
 **(2:50 mins):**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Here’s How To Setup SongbookDB “Kiosk” Mode:**
 
@@ -57,10 +49,6 @@ When requests are sent, the word ‘**kiosk**‘ will appear in the first column
 (**NOTE:** _Your kiosk can have up to 100 songs in the queue._)
 
 [Click Here To View SongbookDB “Kiosk Mode” In Action](https://www.facebook.com/TulsaKaraokeNights/videos/vb.163521917137892/475971675892913/?type=2&theater)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -81,14 +69,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/08/kioskmode-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-download-install-and-use-obs-on-mac-for-2024/"><u>[New] How to Download, Install and Use OBS on Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-powerpoint-and-voice-a-seamless-journey-explored/"><u>[Updated] In 2024, PowerPoint and Voice A Seamless Journey Explored</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-ultimate-guide-how-to-restore-accidentally-deleted-files-on-windows-tips-from-yl-software/"><u>1. Ultimate Guide: How To Restore Accidentally Deleted Files on Windows - Tips From YL Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/guide-accessing-and-administering-applications-via-control-panel-techniques-from-yl-computing/"><u>Guide: Accessing & Administering Applications via Control Panel - Techniques From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oneplus-12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on OnePlus 12 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/internet-joke-architect/"><u>Internet Joke Architect</u></a></li>
-<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/troubleshooting-guide-what-to-do-when-your-pc-fails-to-boot-solutions-from-yl-computing/"><u>Troubleshooting Guide: What to Do When Your PC Fails to Boot - Solutions From YL Computing</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/yl-computings-lush-landscapes-stunning-lasher-symbiote-wallpaper-and-background-collection-for-your-pc/"><u>YL Computing's Lush Landscapes: Stunning Lasher Symbiote Wallpaper & Background Collection for Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capture-clarity-enjoy-convenience-with-our-top-5-recorder-recommendations/"><u>[New] 2024 Approved Capture Clarity, Enjoy Convenience with Our Top 5 Recorder Recommendations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-professional-grade-handguns-for-ultimate-video-stability-for-2024/"><u>[New] Professional Grade Handguns for Ultimate Video Stability for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a14-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy A14 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-friendly-flight-machines-the-cheapest-drone-list-for-2024/"><u>Budget-Friendly Flight Machines The Cheapest Drone List for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-success-optimize-your-sites-performance/"><u>Cookiebot-Driven Success: Optimize Your Site's Performance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-soft-amplification-techniques-in-garageband/"><u>Discovering Soft Amplification Techniques in Garageband</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/einrichten-eines-bildservers-mit-aomei-image-deploy-ohne-sid-schritt-fur-schritt-anleitung/"><u>Einrichten Eines Bildservers Mit AOMEi Image Deploy Ohne SID – Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-4-black-screen-issue-fix-and-enjoy-uninterrupted-gaming/"><u>Fallout 4 Black Screen Issue: Fix and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guia-paso-a-paso-para-reinstalar-windows-11-sin-perdida-de-datos-o-programas-instalados/"><u>Guía Paso a Paso Para Reinstalar Windows 11 Sin Pérdida De Datos O Programas Instalados</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-and-detect-bluetooth-devices-on-windows-10-easily/"><u>How to Enable and Detect Bluetooth Devices on Windows 10 Easily</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/leading-silicon-powered-copying-programs-compatible-with-windows-111087-number-one-selections/"><u>Leading Silicon-Powered Copying Programs Compatible with Windows 11/10/8/7 - Number One Selections</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/metodo-rapido-per-il-recupero-dei-dati-eliminati-da-iphone-modello-x13-o-x14/"><u>Metodo Rapido per Il Recupero Dei Dati Eliminati Da iPhone Modello X13 O X14</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/seamless-transition-a-comprehensive-tutorial-on-moving-your-personal-web-presence-to-a-professional-site/"><u>Seamless Transition: A Comprehensive Tutorial on Moving Your Personal Web Presence to a Professional Site</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/strategie-di-riproduzione-rapida-per-lusb-inizializzabile-su-windows-7-un-approfondimento/"><u>Strategie Di Riproduzione Rapida per L'USB Inizializzabile Su Windows 7: Un Approfondimento</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/top-5-solutions-for-restoring-the-partition-table-on-windows-11-10-8-and-7/"><u>Top 5 Solutions for Restoring the Partition Table on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-note-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi Note 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-11-usb-3/"><u>Windows 11 での USB メモリ編集 - パーティション撤去手順3つ要覧</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-server-2012-hdd/"><u>Windows Server 2012のディスクコピー: HDD移行時におすすめのシンプル手順</u></a></li>
 </ul></div>
 

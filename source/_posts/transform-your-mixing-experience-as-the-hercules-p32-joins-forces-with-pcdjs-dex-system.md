@@ -1,7 +1,7 @@
 ---
 title: Transform Your Mixing Experience as the Hercules P32 Joins Forces with PCDJ's DEX System
-date: 2025-01-19T23:31:42.580Z
-updated: 2025-01-27T03:14:59.655Z
+date: 2025-03-02T22:31:24.136Z
+updated: 2025-03-07T02:38:22.885Z
 tags:
   - product
 categories:
@@ -44,10 +44,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hercules P32 General Features
 
 * 3 Band EQ (per deck): Hi, Mid, Low
@@ -80,10 +76,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sampler has 4 layers, so you can load up to 16 samples per deck  
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hercules P32 Specification’s
 
 | Deck Control                | 8x Transport Buttons: SHIFT / PLAY / CUE / SYNC2x matrices of 16 pads each (32 pads in total) with two-color backlighting and 4 associated mode buttons (SAMPLER, SLICER, LOOP, HOTCUE)2x effects sections, each composed of 4 potentiometers and 4 activation buttons2x rotary encoders with integrated switch to control loops (LOOP) and tempo2x double 7-segment displays to view the size of the loop in progress2x rotary encoders with integrated switch to control filter (FILTER) and navigation |
@@ -102,10 +94,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | ---------------------- | ------------------ |
 | Package Weight         | 4.0 lb             |
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -126,15 +114,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>[New] 2024 Approved Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-focus-on-details-masterful-close-up-techniques-for-gaming-for-2024/"><u>[New] Focus on Details Masterful Close-Up Techniques for Gaming for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728469212260-google-3/"><u>「選択的Googleドライブ同期: 目安3方法をご紹介します」</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-music-and-motion-imovie-edition/"><u>2024 Approved Music & Motion IMovie Edition</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728496598415-hdd/"><u>完了！HDDで見られるディスク容量と実際に確保されている容量の違いを理解する</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-dota-2s-recent-anti-cheat-penalt-error-code-vac/"><u>Bypassing Dota 2'S Recent Anti-Cheat Penalt# Error Code: [VAC]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capture-the-action-5-ways-to-record-windows-10-games-for-2024/"><u>Capture the Action 5 Ways to Record Windows 10 Games for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/comment-restaurer-vos-fichiers-a-partir-dune-sauvegarde-sur-windows-11-une-methode-simple-et-efficace/"><u>Comment Restaurer Vos Fichiers À Partir D'une Sauvegarde Sur Windows 11: Une Méthode Simple Et Efficace</u></a></li>
-<li><a href="https://driver-error.techidaily.com/steps-to-boot-windows-8-into-safe-mode-and-remove-graphics-drivers/"><u>Steps to Boot Windows 8 Into Safe Mode & Remove Graphics Drivers</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/verwaltung-von-festplattenspeicher-bei-vollstandigen-datentragern-in-windows-7-tipps-und-tricks/"><u>Verwaltung Von Festplattenspeicher Bei Vollständigen Datenträgern in Windows 7 - Tipps Und Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capturing-the-cloud-techniques-for-digital-show-archives/"><u>[Updated] 2024 Approved Capturing the Cloud Techniques for Digital Show Archives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-rotation-revelations-maximizing-media-experience-with-vlc/"><u>[Updated] 2024 Approved Rotation Revelations Maximizing Media Experience with VLC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-simplified-methods-to-validate-your-youtube-status/"><u>[Updated] In 2024, Simplified Methods to Validate Your YouTube Status</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728490563753-windows-server/"><u>「Windows Serverバックアップの自動スケジューリングに問題が発生する - 解決策とトラブルシューティングガイド」</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/windows-781011goodsync/"><u>尋找最佳免費解決方案支援Windows 7、8、10、11間的同步工作—GoodSync外流？</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-pratique-reparation-dun-disque-defectueux-avec-la-commande-chkdsk-de-windows/"><u>Guide Pratique: Réparation D'un Disque Défectueux Avec La Commande Chkdsk De Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-p40plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel P40+</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-10t-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 10T 5G Phone Without Password?</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/realisation-gratuite-de-sauvegarde-complete-de-windows-ou-du-pc/"><u>Réalisation Gratuite De Sauvegarde Complète De Windows Ou Du PC.</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/revive-lost-files-on-acer-mastering-the-art-of-disk-to-disk-recovery-with-these-3-straightforward-methods/"><u>Revive Lost Files on Acer: Mastering the Art of Disk-to-Disk Recovery with These 3 Straightforward Methods</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-powerhouse-an-in-depth-look-at-the-asus-zephyrus-g14-gaming-laptop/"><u>Unveiling the Powerhouse: An In-Depth Look at the Asus Zephyrus G14 Gaming Laptop</u></a></li>
 </ul></div>
 
